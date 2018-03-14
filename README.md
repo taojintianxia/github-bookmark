@@ -8,6 +8,7 @@
 - [编程语言教程](#编程语言教程)
 - [文档](#文档)
 - [面试相关](#面试相关)
+- [其他资源](#其他资源)
 
 - - -
 ## Web框架
@@ -29,3 +30,6 @@
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
 *  [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - July的<<编程之法：面试和算法心得>>
+
+## 其他资源
+* [awesome-java](https://github.com/akullpp/awesome-java) - 整理了相当多java生态圈的相关资源
