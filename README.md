@@ -22,6 +22,7 @@
 
 ## 通用框架
 * [guava](https://github.com/google/guava) - google出品的非常好用的Java工具包
+* [netty](https://github.com/netty/netty) - 事件驱动的支持异步的网络框架
 
 ## 任务调度
 * [elastic-job](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job是一个分布式调度解决方案，由两个相互独立的子项目Elastic-Job-Lite和Elastic-Job-Cloud组成.
@@ -49,7 +50,9 @@
 ## 其他资源
 * [elasticsearch-definitive-guide](https://github.com/elastic/elasticsearch-definitive-guide) - 汉化elasticsearch权威指南
 * [awesome-java](https://github.com/akullpp/awesome-java) - 整理了相当多java生态圈的相关资源
-*  [gitignore.io](https://github.com/joeblau/gitignore.io) - 可以方便的自定义.gitignore文件
-*  [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
-*  [cloud-native-slides-share](https://github.com/rootsongjc/cloud-native-slides-share) - 收集了大量的loud native相关的大会资料,开源书籍以及类似信息
-*  [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IDEA教程
+* [gitignore.io](https://github.com/joeblau/gitignore.io) - 可以方便的自定义.gitignore文件
+* [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
+* [cloud-native-slides-share](https://github.com/rootsongjc/cloud-native-slides-share) - 收集了大量的loud native相关的大会资料,开源书籍以及类似信息
+* [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IDEA教程
+* [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Adobe开源的编程字体
+* [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
