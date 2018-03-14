@@ -6,7 +6,6 @@
 - [数据库](#数据库)
 - [缓存](#缓存)
 - [编程语言教程](#编程语言教程)
-- [文档](#文档)
 - [面试相关](#面试相关)
 - [其他资源](#其他资源)
 
@@ -24,13 +23,12 @@
 * [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - 包含多语言(包含中文)版本的GO教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
 
-## 文档
-* [elasticsearch-definitive-guide](https://github.com/elastic/elasticsearch-definitive-guide) - 汉化elasticsearch权威指南
-
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
-*  [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - July的<<编程之法：面试和算法心得>>
+* [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - July的<<编程之法：面试和算法心得>>
 
 ## 其他资源
+* [elasticsearch-definitive-guide](https://github.com/elastic/elasticsearch-definitive-guide) - 汉化elasticsearch权威指南
 * [awesome-java](https://github.com/akullpp/awesome-java) - 整理了相当多java生态圈的相关资源
 *  [gitignore.io](https://github.com/joeblau/gitignore.io) - 可以方便的自定义.gitignore文件
+*  [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
