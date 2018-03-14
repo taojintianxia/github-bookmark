@@ -2,6 +2,8 @@
 
 ### 这是个收藏夹, 收集了Github上看到的各种不同的优秀工具,框架,知识合集  
 - [Web框架](#Web框架)
+- [RPC](#RPC)
+- [通用框架](#通用框架)
 - [任务调度](#任务调度)
 - [数据库](#数据库)
 - [缓存](#缓存)
@@ -13,6 +15,13 @@
 - - -
 ## Web框架
 * [jfinal](https://github.com/jfinal/jfinal) -  Java 语言的极速 WEB + ORM 框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful.
+
+## RPC
+* [dubbo](https://github.com/alibaba/dubbo) - 国内非常著名的RPC框架
+* [motan](https://github.com/weibocom/motan) - 微博出品的跨语言的RPC框架
+
+## 通用框架
+* [guava](https://github.com/google/guava) - google出品的非常好用的Java工具包
 
 ## 任务调度
 * [elastic-job](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job是一个分布式调度解决方案，由两个相互独立的子项目Elastic-Job-Lite和Elastic-Job-Cloud组成.
@@ -39,3 +48,4 @@
 * [awesome-java](https://github.com/akullpp/awesome-java) - 整理了相当多java生态圈的相关资源
 *  [gitignore.io](https://github.com/joeblau/gitignore.io) - 可以方便的自定义.gitignore文件
 *  [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
+*  [p3c](https://github.com/alibaba/p3c) - 阿里巴巴Java代码规范
