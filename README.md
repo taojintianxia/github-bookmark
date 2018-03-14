@@ -1,12 +1,15 @@
 # Github收藏夹  
 
 ### 这是个收藏夹, 收集了Github上看到的各种不同的优秀工具,框架,知识合集  
+- [Web框架](Web框架)
 - [数据库](#数据库)
 - [缓存](#缓存)
 - [编程语言教程](#编程语言教程)
 - [面试](#面试)
 
 - - -
+## Web框架
+* [jfinal](https://github.com/jfinal/jfinal) -  Java 语言的极速 WEB + ORM 框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful.
 
 ## 编程语言教程
 * [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - 包含多语言(包含中文)版本的GO教程
