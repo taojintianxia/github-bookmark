@@ -33,3 +33,4 @@
 
 ## 其他资源
 * [awesome-java](https://github.com/akullpp/awesome-java) - 整理了相当多java生态圈的相关资源
+*  [gitignore.io](https://github.com/joeblau/gitignore.io) - 可以方便的自定义.gitignore文件
