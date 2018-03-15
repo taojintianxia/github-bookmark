@@ -8,6 +8,7 @@
 - [数据库](#数据库)
 - [缓存](#缓存)
 - [运维相关](#运维相关)
+- [各种插件](#各种插件)
 - [相关教程](#相关教程)
 - [面试相关](#面试相关)
 - [其他资源](#其他资源)
@@ -43,6 +44,9 @@
 * [mgmt](https://github.com/purpleidea/mgmt) - 号称下一代的配置管理平台
 * [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景.
 
+## 各种插件
+* [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - zsh的语法高亮插件
+
 ## 相关教程
 * [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - 包含多语言(包含中文)版本的GO教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
@@ -50,6 +54,7 @@
 * [istio中文文档](https://github.com/doczhcn/istio) - Istio官方文档中文版
 * [p3c](https://github.com/alibaba/p3c) - 阿里巴巴Java代码规范
 * [JCFInternals](https://github.com/CarpenterLee/JCFInternals) - Java collection讲解
+* [elasticsearch-definitive-guide](https://github.com/elastic/elasticsearch-definitive-guide) - 汉化elasticsearch权威指南
 
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
@@ -58,7 +63,6 @@
 * [interview-notebook](https://github.com/CyC2018/Interview-Notebook) - 技术面试需要掌握的基础知识
 
 ## 其他资源
-* [elasticsearch-definitive-guide](https://github.com/elastic/elasticsearch-definitive-guide) - 汉化elasticsearch权威指南
 * [awesome-java](https://github.com/akullpp/awesome-java) - 整理了相当多java生态圈的相关资源
 * [gitignore.io](https://github.com/joeblau/gitignore.io) - 可以方便的自定义.gitignore文件
 * [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
@@ -66,3 +70,4 @@
 * [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IDEA教程
 * [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Adobe开源的编程字体
 * [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
+* [shadowsocks](https://github.com/shadowsocks) - 这个无需介绍了,懂的自然都懂.
