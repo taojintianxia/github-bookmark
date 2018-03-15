@@ -43,6 +43,7 @@
 * [disconf](https://github.com/knightliao/disconf) - 分布式配置管理平台
 * [mgmt](https://github.com/purpleidea/mgmt) - 号称下一代的配置管理平台
 * [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景.
+* [prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 安装，基础监控，常用 exporter，性能优化和大量实战经验
 
 ## 各种插件
 * [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - zsh的语法高亮插件
@@ -55,6 +56,7 @@
 * [p3c](https://github.com/alibaba/p3c) - 阿里巴巴Java代码规范
 * [JCFInternals](https://github.com/CarpenterLee/JCFInternals) - Java collection讲解
 * [elasticsearch-definitive-guide](https://github.com/elastic/elasticsearch-definitive-guide) - 汉化elasticsearch权威指南
+* [java-nio-zh](https://github.com/avenwu/java-nio-zh) - 汉化的Java NIO教程
 
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
