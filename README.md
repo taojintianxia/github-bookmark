@@ -27,6 +27,7 @@
 * [guava](https://github.com/google/guava) - google出品的非常好用的Java工具包
 * [netty](https://github.com/netty/netty) - 事件驱动的支持异步的网络框架
 * [hystrix](https://github.com/Netflix/Hystrix) - Netflix出品的熔断器
+* [uid-generator](https://github.com/baidu/uid-generator) - 百度出品的基于snowflake的唯一Id生成器
 
 ## 任务调度
 * [elastic-job](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job是一个分布式调度解决方案，由两个相互独立的子项目Elastic-Job-Lite和Elastic-Job-Cloud组成.
