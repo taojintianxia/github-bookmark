@@ -36,6 +36,7 @@
 
 ## 消息队列
 * [kafka](https://github.com/apache/kafka) - 隶属于Apache的分布式流平台
+* [rocketmq](https://github.com/apache/rocketmq) - 隶属于Apache的分布式消息跟流平台, 低延迟, 高性能, 高可靠, 万亿级别容量, 动态扩展. 
 
 ## 数据库
 * [sharding-jdbc](https://github.com/shardingjdbc/sharding-jdbc) - 开源的分布式数据库中间件解决方案。它在Java的JDBC层以对业务应用零侵入的方式额外提供数据分片，读写分离，柔性事务和分布式治理能力。并在其基础上提供封装了MySQL协议的服务端版本，用于完成对异构语言的支持.
@@ -76,7 +77,7 @@
 * [awesome-java](https://github.com/akullpp/awesome-java) - 整理了相当多java生态圈的相关资源
 * [gitignore.io](https://github.com/joeblau/gitignore.io) - 可以方便的自定义.gitignore文件
 * [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
-* [cloud-native-slides-share](https://github.com/rootsongjc/cloud-native-slides-share) - 收集了大量的loud native相关的大会资料,开源书籍以及类似信息
+* [cloud-native-slides-share](https://github.com/rootsongjc/cloud-native-slides-share) - 收集了大量的cloud native相关的大会资料,开源书籍以及类似信息
 * [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IDEA教程
 * [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Adobe开源的编程字体
 * [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
