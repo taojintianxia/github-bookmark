@@ -23,6 +23,7 @@
 * [motan](https://github.com/weibocom/motan) - 微博出品的跨语言的RPC框架
 * [brpc](https://github.com/brpc/brpc) - 百度出品的工业级RPC框架
 * [grpc-java](https://github.com/grpc/grpc-java) - google出品的基于HTTP/2的RPC框架-gRPC的java版
+* [Tars](https://github.com/Tencent/Tars) - 腾讯出品的高性能RPC框架
 
 ## 通用框架
 * [guava](https://github.com/google/guava) - google出品的非常好用的Java工具包
