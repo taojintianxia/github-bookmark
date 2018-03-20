@@ -67,6 +67,7 @@
 * [java-nio-zh](https://github.com/avenwu/java-nio-zh) - 汉化的Java NIO教程
 * [spring-5-framework-doc](https://github.com/lfvepclr/spring-5-framework-doc) - Spring 5文档翻译
 * [zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+* [redis](https://github.com/huangz1990/redis) - Redis Command Reference全文的中文翻译版
 
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
