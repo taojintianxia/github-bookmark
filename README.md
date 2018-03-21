@@ -13,6 +13,7 @@
 - [相关教程](#相关教程)
 - [面试相关](#面试相关)
 - [其他资源](#其他资源)
+- [优秀blog](#优秀blog)
 
 - - -
 ## Web框架
@@ -84,3 +85,6 @@
 * [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Adobe开源的编程字体
 * [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 * [shadowsocks](https://github.com/shadowsocks) - 这个无需介绍了,懂的自然都懂.
+
+## 优秀blog
+* [TiDB博客](https://pingcap.com/blog-cn/) - TiDB官网的博客
