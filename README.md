@@ -72,6 +72,8 @@
 * [redis](https://github.com/huangz1990/redis) - Redis Command Reference全文的中文翻译版
 * [deep-learning](https://github.com/Robinwho/Deep-Learning) - 深度学习/人工智能/机器学习资料汇总
 * [pythontutorial3](https://github.com/sixu05202004/pythontutorial3) - python 3.5.1 tutorial中文版
+* [liaoxuefeng](https://www.liaoxuefeng.com/) - 廖雪峰的git,python,javascript教程
+* [git-tutorial](https://backlog.com/git-tutorial/cn/) - 号称是猴子都能看懂的git教程
 
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
@@ -91,3 +93,7 @@
 
 ## 优秀blog
 * [TiDB博客](https://pingcap.com/blog-cn/) - TiDB官网的博客
+* [阿里中间件](http://jm.taobao.org/) - 阿里中间件团队博客
+* [Tim Yang](https://timyang.net/) - 后端技术 by Tim Yang
+* [许令波](https://github.com/xulingbo/xulingbo.github.io/issues/) - 许令波的Issue
+* 
