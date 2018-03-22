@@ -96,4 +96,4 @@
 * [阿里中间件](http://jm.taobao.org/) - 阿里中间件团队博客
 * [Tim Yang](https://timyang.net/) - 后端技术 by Tim Yang
 * [许令波](https://github.com/xulingbo/xulingbo.github.io/issues/) - 许令波的Issue
-* 
+* [martinfowler](https://martinfowler.com/) - martin fowler的博客
