@@ -32,6 +32,7 @@
 * [netty](https://github.com/netty/netty) - 事件驱动的支持异步的网络框架
 * [hystrix](https://github.com/Netflix/Hystrix) - Netflix出品的熔断器
 * [uid-generator](https://github.com/baidu/uid-generator) - 百度出品的基于snowflake的唯一Id生成器
+* [fastjson](https://github.com/alibaba/fastjson) - 阿里出品的解析/生成JSON的java框架
 
 ## 任务调度
 * [elastic-job](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job是一个分布式调度解决方案，由两个相互独立的子项目Elastic-Job-Lite和Elastic-Job-Cloud组成.
@@ -58,6 +59,7 @@
 * [mgmt](https://github.com/purpleidea/mgmt) - 号称下一代的配置管理平台
 * [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景.
 * [prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 安装，基础监控，常用 exporter，性能优化和大量实战经验
+* [druid](https://github.com/alibaba/druid) - 阿里出品的号称"为监控而生的数据库连接池"
 
 ## 各种插件
 * [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - zsh的语法高亮插件
@@ -84,6 +86,7 @@
 * [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - July的<<编程之法：面试和算法心得>>
 * [hunter](https://github.com/lietoumai/Hunter) - 面试技巧相关
 * [interview-notebook](https://github.com/CyC2018/Interview-Notebook) - 技术面试需要掌握的基础知识
+* [interviews](https://github.com/kdn251/interviews) - 找工作需要了解的基础技术
 
 ## 其他资源
 * [awesome-java](https://github.com/akullpp/awesome-java) - 整理了相当多java生态圈的相关资源
