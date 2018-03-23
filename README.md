@@ -4,6 +4,7 @@
 - [Web框架](#Web框架)
 - [RPC](#RPC)
 - [分布式](#分布式)
+- [微服务](#微服务)
 - [通用框架](#通用框架)
 - [任务调度](#任务调度)
 - [消息队列](#消息队列)
@@ -33,6 +34,9 @@
 
 ## 分布式
 * [zookeeper](https://github.com/apache/zookeeper) apache旗下的分布式服务协调框架
+
+## 微服务
+* [fabric8](https://github.com/fabric8io/fabric8) - 基于Docker, Kubernetes and Jenkins的微服务平台
 
 ## 通用框架
 * [guava](https://github.com/google/guava) - google出品的非常好用的Java工具包
