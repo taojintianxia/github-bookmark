@@ -7,6 +7,7 @@
 - [任务调度](#任务调度)
 - [消息队列](#消息队列)
 - [数据库](#数据库)
+- [搜索引擎](#搜索引擎)
 - [缓存](#缓存)
 - [运维相关](#运维相关)
 - [各种插件](#各种插件)
@@ -46,6 +47,9 @@
 * [h2database](https://github.com/h2database/h2database) - 快速的,开源的,支持JDBC API的内存数据库
 * [mapper](https://github.com/abel533/Mapper) - MyBatis 通用 Mapper
 * [tcc-transaction](https://github.com/changmingxie/tcc-transaction) - TCC型事务java实现
+
+## 搜索引擎
+* [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
 
 
 ## 运维相关
@@ -90,6 +94,7 @@
 * [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Adobe开源的编程字体
 * [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 * [shadowsocks](https://github.com/shadowsocks) - 这个无需介绍了,懂的自然都懂.
+* [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Java实现的各种设计模式
 
 ## 优秀blog
 * [TiDB博客](https://pingcap.com/blog-cn/) - TiDB官网的博客
