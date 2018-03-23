@@ -3,13 +3,17 @@
 ### 这是个收藏夹, 收集了Github上看到的各种不同的优秀工具,框架,知识合集  
 - [Web框架](#Web框架)
 - [RPC](#RPC)
+- [分布式](#分布式)
 - [通用框架](#通用框架)
 - [任务调度](#任务调度)
 - [消息队列](#消息队列)
 - [数据库](#数据库)
 - [搜索引擎](#搜索引擎)
 - [缓存](#缓存)
+- [测试](#测试)
 - [运维相关](#运维相关)
+- [安全](#安全)
+- [日志](#日志)
 - [各种插件](#各种插件)
 - [相关教程](#相关教程)
 - [面试相关](#面试相关)
@@ -27,12 +31,17 @@
 * [grpc-java](https://github.com/grpc/grpc-java) - google出品的基于HTTP/2的RPC框架-gRPC的java版
 * [Tars](https://github.com/Tencent/Tars) - 腾讯出品的高性能RPC框架
 
+## 分布式
+* [zookeeper](https://github.com/apache/zookeeper) apache旗下的分布式服务协调框架
+
 ## 通用框架
 * [guava](https://github.com/google/guava) - google出品的非常好用的Java工具包
 * [netty](https://github.com/netty/netty) - 事件驱动的支持异步的网络框架
 * [hystrix](https://github.com/Netflix/Hystrix) - Netflix出品的熔断器
 * [uid-generator](https://github.com/baidu/uid-generator) - 百度出品的基于snowflake的唯一Id生成器
 * [fastjson](https://github.com/alibaba/fastjson) - 阿里出品的解析/生成JSON的java框架
+* [swagger](https://github.com/swagger-api/swagger-ui) - java API管理工具
+* [protobuf](https://github.com/google/protobuf) - google出品的平台无关,语言无关的序列化工具
 
 ## 任务调度
 * [elastic-job](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job是一个分布式调度解决方案，由两个相互独立的子项目Elastic-Job-Lite和Elastic-Job-Cloud组成.
@@ -42,6 +51,7 @@
 ## 消息队列
 * [kafka](https://github.com/apache/kafka) - 隶属于Apache的分布式流平台
 * [rocketmq](https://github.com/apache/rocketmq) - 隶属于Apache的分布式消息跟流平台, 低延迟, 高性能, 高可靠, 万亿级别容量, 动态扩展. 
+* [activemq](https://github.com/apache/activemq) - 隶属于Apache的高性能消息队列
 
 ## 数据库
 * [sharding-jdbc](https://github.com/shardingjdbc/sharding-jdbc) - 开源的分布式数据库中间件解决方案。它在Java的JDBC层以对业务应用零侵入的方式额外提供数据分片，读写分离，柔性事务和分布式治理能力。并在其基础上提供封装了MySQL协议的服务端版本，用于完成对异构语言的支持.
@@ -52,6 +62,12 @@
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
 
+## 缓存
+* [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
+* [ehcache](https://github.com/ehcache/ehcache3) - 号称使用最为广泛的java缓存
+
+## 测试
+* [selenium](https://github.com/SeleniumHQ/selenium) - 自动化浏览器测试框架
 
 ## 运维相关
 * [ansible](https://github.com/ansible/ansible) - IT自动化的平台, 使系统跟程序更加容易部署
@@ -59,7 +75,13 @@
 * [mgmt](https://github.com/purpleidea/mgmt) - 号称下一代的配置管理平台
 * [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景.
 * [prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 安装，基础监控，常用 exporter，性能优化和大量实战经验
-* [druid](https://github.com/alibaba/druid) - 阿里出品的号称"为监控而生的数据库连接池"
+* [druid](https://github.com/alibaba/druid) - 阿里出品的号称"为监控而生"的数据库连接池
+
+## 安全
+* [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
+
+## 日志
+* [log4j](https://github.com/apache/log4j) - apache旗下的老牌日志工具
 
 ## 各种插件
 * [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - zsh的语法高亮插件
@@ -80,6 +102,8 @@
 * [pythontutorial3](https://github.com/sixu05202004/pythontutorial3) - python 3.5.1 tutorial中文版
 * [liaoxuefeng](https://www.liaoxuefeng.com/) - 廖雪峰的git,python,javascript教程
 * [git-tutorial](https://backlog.com/git-tutorial/cn/) - 号称是猴子都能看懂的git教程
+* [java8-tutorial](https://github.com/winterbe/java8-tutorial) - java 8教程
+* [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - java程序员眼中的linux
 
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
@@ -98,6 +122,7 @@
 * [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 * [shadowsocks](https://github.com/shadowsocks) - 这个无需介绍了,懂的自然都懂.
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Java实现的各种设计模式
+* [tenant-point](https://github.com/soulteary/tenant-point) - 租房要点，适用于北上广深杭
 
 ## 优秀blog
 * [TiDB博客](https://pingcap.com/blog-cn/) - TiDB官网的博客
