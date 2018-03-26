@@ -62,6 +62,7 @@
 * [h2database](https://github.com/h2database/h2database) - 快速的,开源的,支持JDBC API的内存数据库
 * [mapper](https://github.com/abel533/Mapper) - MyBatis 通用 Mapper
 * [tcc-transaction](https://github.com/changmingxie/tcc-transaction) - TCC型事务java实现
+* [mycat](https://github.com/MyCATApache/Mycat-Server) - 基于阿里cobar改良的分布式数据库中间件, 官宣为一个模拟为MySQL Server的超级数据库
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
