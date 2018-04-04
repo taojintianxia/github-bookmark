@@ -46,6 +46,7 @@
 * [fastjson](https://github.com/alibaba/fastjson) - 阿里出品的解析/生成JSON的java框架
 * [swagger](https://github.com/swagger-api/swagger-ui) - java API管理工具
 * [protobuf](https://github.com/google/protobuf) - google出品的平台无关,语言无关的序列化工具
+* [cqengine](https://github.com/npgall/cqengine) - 可以在Java的collection中进行SQL-like查询的工具
 
 ## 任务调度
 * [elastic-job](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job是一个分布式调度解决方案，由两个相互独立的子项目Elastic-Job-Lite和Elastic-Job-Cloud组成.
