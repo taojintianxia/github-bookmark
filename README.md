@@ -47,6 +47,7 @@
 * [swagger](https://github.com/swagger-api/swagger-ui) - java API管理工具
 * [protobuf](https://github.com/google/protobuf) - google出品的平台无关,语言无关的序列化工具
 * [cqengine](https://github.com/npgall/cqengine) - 可以在Java的collection中进行SQL-like查询的工具
+* [jetcache](https://github.com/alibaba/jetcache) - 阿里出品的Java缓存框架, "用起来比Spring Cache更方便"
 
 ## 任务调度
 * [elastic-job](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job是一个分布式调度解决方案，由两个相互独立的子项目Elastic-Job-Lite和Elastic-Job-Cloud组成.
@@ -64,6 +65,7 @@
 * [mapper](https://github.com/abel533/Mapper) - MyBatis 通用 Mapper
 * [tcc-transaction](https://github.com/changmingxie/tcc-transaction) - TCC型事务java实现
 * [mycat](https://github.com/MyCATApache/Mycat-Server) - 基于阿里cobar改良的分布式数据库中间件, 官宣为一个模拟为MySQL Server的超级数据库
+* [cobar](https://github.com/alibaba/cobar) - 阿里出品的支持sharding的proxy(很久没有维护了)
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
@@ -114,6 +116,7 @@
 * [docker-handbook](https://github.com/rootsongjc/docker-handbook) - 宋净超同学出品的docker handbook
 * [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - 宋净超同学出品的kubernetes handbook
 * [cni](https://github.com/CloudNativeInfra/cni) - The book Cloud Native Infrastructure
+* [spring-boot-examples](https://github.com/souyunku/spring-boot-examples) - Spring Boot 学习教程
 
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
