@@ -118,6 +118,7 @@
 * [cni](https://github.com/CloudNativeInfra/cni) - The book Cloud Native Infrastructure
 * [spring-boot-examples](https://github.com/souyunku/spring-boot-examples) - Spring Boot 学习教程
 * [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 提问的智慧
+* [SpringCloudBook](https://github.com/dyc87112/SpringCloudBook) - Spring Cloud微服务实战
 
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
