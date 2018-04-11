@@ -53,6 +53,7 @@
 * [elastic-job](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job是一个分布式调度解决方案，由两个相互独立的子项目Elastic-Job-Lite和Elastic-Job-Cloud组成.
 * [flink](https://github.com/apache/flink) - 隶属于Apache的流处理框架,拥有强大的流处理以及批量处理的能力.
 * [quartz](https://github.com/quartz-scheduler/quartz) - 功能丰富的,几乎可以与任何java程序集成的调度框架
+* [xxl-job](https://github.com/xuxueli/xxl-job) - 分布式任务调度平台XXL-JOB
 
 ## 消息队列
 * [kafka](https://github.com/apache/kafka) - 隶属于Apache的分布式流平台
