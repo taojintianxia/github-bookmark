@@ -120,6 +120,7 @@
 * [spring-boot-examples](https://github.com/souyunku/spring-boot-examples) - Spring Boot 学习教程
 * [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 提问的智慧
 * [SpringCloudBook](https://github.com/dyc87112/SpringCloudBook) - Spring Cloud微服务实战
+* [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Java实现的各种设计模式
 
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
@@ -137,7 +138,6 @@
 * [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Adobe开源的编程字体
 * [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 * [shadowsocks](https://github.com/shadowsocks) - 这个无需介绍了,懂的自然都懂.
-* [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Java实现的各种设计模式
 * [tenant-point](https://github.com/soulteary/tenant-point) - 租房要点，适用于北上广深杭
 
 ## 优秀blog
