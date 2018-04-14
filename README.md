@@ -31,6 +31,7 @@
 * [brpc](https://github.com/brpc/brpc) - 百度出品的工业级RPC框架
 * [grpc-java](https://github.com/grpc/grpc-java) - google出品的基于HTTP/2的RPC框架-gRPC的java版
 * [Tars](https://github.com/Tencent/Tars) - 腾讯出品的高性能RPC框架
+* [sofa-rpc](https://github.com/alipay/sofa-rpc) - 蚂蚁金服出品的高可扩展性、高性能、生产级的 Java RPC 框架
 
 ## 分布式
 * [zookeeper](https://github.com/apache/zookeeper) apache旗下的分布式服务协调框架
