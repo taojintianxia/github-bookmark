@@ -17,6 +17,7 @@
 - [日志](#日志)
 - [各种插件](#各种插件)
 - [相关教程](#相关教程)
+- [文档汉化](#文档汉化)
 - [面试相关](#面试相关)
 - [其他资源](#其他资源)
 - [优秀blog](#优秀blog)
@@ -97,17 +98,12 @@
 * [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - zsh的语法高亮插件
 
 ## 相关教程
-* [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - 包含多语言(包含中文)版本的GO教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
 * [bash-guide](https://github.com/Idnan/bash-guide) - Bash相关命令教程
-* [istio中文文档](https://github.com/doczhcn/istio) - Istio官方文档中文版
 * [p3c](https://github.com/alibaba/p3c) - 阿里巴巴Java代码规范
 * [JCFInternals](https://github.com/CarpenterLee/JCFInternals) - Java collection讲解
 * [elasticsearch-definitive-guide](https://github.com/elastic/elasticsearch-definitive-guide) - 汉化elasticsearch权威指南
-* [java-nio-zh](https://github.com/avenwu/java-nio-zh) - 汉化的Java NIO教程
-* [spring-5-framework-doc](https://github.com/lfvepclr/spring-5-framework-doc) - Spring 5文档翻译
 * [zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-* [redis](https://github.com/huangz1990/redis) - Redis Command Reference全文的中文翻译版
 * [deep-learning](https://github.com/Robinwho/Deep-Learning) - 深度学习/人工智能/机器学习资料汇总
 * [pythontutorial3](https://github.com/sixu05202004/pythontutorial3) - python 3.5.1 tutorial中文版
 * [liaoxuefeng](https://www.liaoxuefeng.com/) - 廖雪峰的git,python,javascript教程
@@ -122,6 +118,14 @@
 * [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 提问的智慧
 * [SpringCloudBook](https://github.com/dyc87112/SpringCloudBook) - Spring Cloud微服务实战
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Java实现的各种设计模式
+
+## 文档汉化
+* [kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh/) - Kafka 中文文档
+* [redis](https://github.com/huangz1990/redis) - Redis Command Reference全文的中文翻译版
+* [spring-5-framework-doc](https://github.com/lfvepclr/spring-5-framework-doc) - Spring 5文档翻译
+* [java-nio-zh](https://github.com/avenwu/java-nio-zh) - 汉化的Java NIO教程
+* [istio中文文档](https://github.com/doczhcn/istio) - Istio官方文档中文版
+* [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - 包含多语言(包含中文)版本的GO教程
 
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
