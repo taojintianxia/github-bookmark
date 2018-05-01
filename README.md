@@ -87,6 +87,7 @@
 * [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景.
 * [prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 安装，基础监控，常用 exporter，性能优化和大量实战经验
 * [druid](https://github.com/alibaba/druid) - 阿里出品的号称"为监控而生"的数据库连接池
+* [prometheus](https://github.com/prometheus/prometheus) - CNCF项目, 一个监控其它系统或服务的系统
 
 ## 安全
 * [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
