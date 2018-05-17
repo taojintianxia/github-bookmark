@@ -50,6 +50,7 @@
 * [protobuf](https://github.com/google/protobuf) - google出品的平台无关,语言无关的序列化工具
 * [cqengine](https://github.com/npgall/cqengine) - 可以在Java的collection中进行SQL-like查询的工具
 * [jetcache](https://github.com/alibaba/jetcache) - 阿里出品的Java缓存框架, "用起来比Spring Cache更方便"
+* [vert.x](https://github.com/eclipse/vert.x) - JVM上用于开发reactive程序的工具包
 
 ## 任务调度
 * [elastic-job](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job是一个分布式调度解决方案，由两个相互独立的子项目Elastic-Job-Lite和Elastic-Job-Cloud组成.
