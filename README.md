@@ -155,3 +155,5 @@
 * [Tim Yang](https://timyang.net/) - 后端技术 by Tim Yang
 * [许令波](https://github.com/xulingbo/xulingbo.github.io/issues/) - 许令波的Issue
 * [martinfowler](https://martinfowler.com/) - martin fowler的博客
+* [美团点评技术团队](https://tech.meituan.com/) - 美团点评技术团队的博客
+* [CoolShell](https://coolshell.cn/) - 左耳朵耗子的酷壳
