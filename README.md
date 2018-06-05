@@ -70,6 +70,7 @@
 * [tcc-transaction](https://github.com/changmingxie/tcc-transaction) - TCC型事务java实现
 * [mycat](https://github.com/MyCATApache/Mycat-Server) - 基于阿里cobar改良的分布式数据库中间件, 官宣为一个模拟为MySQL Server的超级数据库
 * [cobar](https://github.com/alibaba/cobar) - 阿里出品的支持sharding的proxy(很久没有维护了)
+* [ignite](https://github.com/apache/ignite) - Apache旗下的一款以内存为中心,多模型的,分布式数据库/cache.号称可以以内存级别的速度处理Pb级别的数据.
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
