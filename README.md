@@ -167,3 +167,4 @@
 * [并发编程网](http://ifeve.com/concurrency-site/) - 并发编程网
 * [今日头条技术博客](https://techblog.toutiao.com/) - 今日头条技术博客
 * [developerworks](https://www.ibm.com/developerworks/cn/) - IBM developerworks
+* [伪架构师](https://blog.fleeto.us/) - 崔秀龙的博客
