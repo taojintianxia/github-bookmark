@@ -105,6 +105,7 @@
 * [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - zsh的语法高亮插件
 * [nosqlclient](https://github.com/nosqlclient/nosqlclient) - mongodb的客户端
 * [mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui) mybatis generator的GUI工具
+* [git_commit_template](https://github.com/joelparkerhenderson/git_commit_template) - 一个git message的模板
 
 ## 相关教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
