@@ -150,6 +150,7 @@
 * [hunter](https://github.com/lietoumai/Hunter) - 面试技巧相关
 * [interview-notebook](https://github.com/CyC2018/Interview-Notebook) - 技术面试需要掌握的基础知识
 * [interviews](https://github.com/kdn251/interviews) - 找工作需要了解的基础技术
+* [2018-Java-Interview](https://github.com/xbox1994/2018-Java-Interview) - 2018年几个大厂的面试宝典
 
 ## 其他资源
 * [awesome-java](https://github.com/akullpp/awesome-java) - 整理了相当多java生态圈的相关资源
