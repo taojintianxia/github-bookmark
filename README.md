@@ -135,6 +135,7 @@
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Java实现的各种设计模式
 * [architecture.wechat-tencent](https://github.com/davideuler/architecture.wechat-tencent) - 互联网公司架构: 微信技术架构， 腾讯技术架构
 * [gopl-zh](https://github.com/golang-china/gopl-zh) - Go语言圣经中文版
+* [kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes指南
 
 ## 文档汉化
 * [kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh/) - Kafka 中文文档
