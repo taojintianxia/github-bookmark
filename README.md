@@ -127,7 +127,8 @@
 * [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - java程序员眼中的linux
 * [free-programming-books](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的计算机编程类中文书籍
 * [docker-handbook](https://github.com/rootsongjc/docker-handbook) - 宋净超同学出品的docker handbook
-* [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - 宋净超同学出品的kubernetes handbook
+* [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - 宋净超同学出品的kubernetes中文指南
+* [kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - feiskyer出品的Kubernetes指南
 * [cni](https://github.com/CloudNativeInfra/cni) - The book Cloud Native Infrastructure
 * [spring-boot-examples](https://github.com/souyunku/spring-boot-examples) - Spring Boot 学习教程
 * [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 提问的智慧
@@ -135,7 +136,6 @@
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Java实现的各种设计模式
 * [architecture.wechat-tencent](https://github.com/davideuler/architecture.wechat-tencent) - 互联网公司架构: 微信技术架构， 腾讯技术架构
 * [gopl-zh](https://github.com/golang-china/gopl-zh) - Go语言圣经中文版
-* [kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes指南
 
 ## 文档汉化
 * [kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh/) - Kafka 中文文档
