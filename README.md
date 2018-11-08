@@ -38,6 +38,7 @@
 
 ## 分布式
 * [zookeeper](https://github.com/apache/zookeeper) apache旗下的分布式服务协调框架
+* [etcd](https://github.com/etcd-io/etcd) 一个可依赖的分布式key-value存储系统, 用于分布式环境下保存关键数据
 
 ## 微服务
 * [fabric8](https://github.com/fabric8io/fabric8) - 基于Docker, Kubernetes and Jenkins的微服务平台
