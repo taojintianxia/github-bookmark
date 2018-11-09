@@ -97,6 +97,7 @@
 * [prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 安装，基础监控，常用 exporter，性能优化和大量实战经验
 * [druid](https://github.com/alibaba/druid) - 阿里出品的号称"为监控而生"的数据库连接池
 * [prometheus](https://github.com/prometheus/prometheus) - CNCF项目, 一个监控其它系统或服务的系统
+* [travis](https://github.com/travis-ci/travis-ci) - 针对github上项目的免费的持续集成平台
 
 ## 安全
 * [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
