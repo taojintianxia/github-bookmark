@@ -17,7 +17,7 @@
 - [安全](#安全)
 - [日志](#日志)
 - [容器](#容器)
-- [各种插件](#各种插件)
+- [插件&工具](#插件&工具)
 - [相关教程](#相关教程)
 - [文档汉化](#文档汉化)
 - [面试相关](#面试相关)
@@ -77,6 +77,7 @@
 * [mycat](https://github.com/MyCATApache/Mycat-Server) - 基于阿里cobar改良的分布式数据库中间件, 官宣为一个模拟为MySQL Server的超级数据库
 * [cobar](https://github.com/alibaba/cobar) - 阿里出品的支持sharding的proxy(很久没有维护了)
 * [ignite](https://github.com/apache/ignite) - Apache旗下的一款以内存为中心,多模型的,分布式数据库/cache.号称可以以内存级别的速度处理Pb级别的数据.
+* [vitess](https://github.com/vitessio/vitess) - Vitess是一个用于MySQL水平扩展的数据库集群系统
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
@@ -108,11 +109,14 @@
 ## 容器
 * [containerd](https://github.com/containerd/containerd) - 一个开放且可靠的容器运行时
 
-## 各种插件
+## 插件&工具
 * [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - zsh的语法高亮插件
 * [nosqlclient](https://github.com/nosqlclient/nosqlclient) - mongodb的客户端
 * [mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui) mybatis generator的GUI工具
 * [git_commit_template](https://github.com/joelparkerhenderson/git_commit_template) - 一个git message的模板
+* [gitignore.io](https://github.com/joeblau/gitignore.io) - 可以方便的自定义.gitignore文件
+* [shadowsocks](https://github.com/shadowsocks) - 这个无需介绍了,懂的自然都懂.
+* [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Adobe开源的编程字体
 
 ## 相关教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
@@ -158,13 +162,10 @@
 ## 其他资源
 * [awesome-java](https://github.com/akullpp/awesome-java) - 整理了相当多java生态圈的相关资源
 * [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - 整理了相当多的高扩展,高可用,高性能等的设计模式
-* [gitignore.io](https://github.com/joeblau/gitignore.io) - 可以方便的自定义.gitignore文件
 * [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 * [cloud-native-slides-share](https://github.com/rootsongjc/cloud-native-slides-share) - 收集了大量的cloud native相关的大会资料,开源书籍以及类似信息
 * [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IDEA教程
-* [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Adobe开源的编程字体
 * [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
-* [shadowsocks](https://github.com/shadowsocks) - 这个无需介绍了,懂的自然都懂.
 * [tenant-point](https://github.com/soulteary/tenant-point) - 租房要点，适用于北上广深杭
 * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 高效学习英语
 
