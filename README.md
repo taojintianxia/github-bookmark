@@ -19,12 +19,12 @@
 - [API网关](#API网关)
 - [ServiceMesh](#ServiceMesh)
 - [云原生存储](#云原生存储)
+- [容器](#容器)
 - [缓存](#缓存)
 - [测试](#测试)
 - [运维相关](#运维相关)
 - [安全](#安全)
 - [日志](#日志)
-- [容器](#容器)
 - [插件&工具](#插件&工具)
 - [相关教程](#相关教程)
 - [文档汉化](#文档汉化)
@@ -114,10 +114,19 @@
 * [3scale](https://github.com/3scale/apicast) - APIcast是一个建立在NGINX之上的API网关. 它是Red Hat 3scale API管理平台的一部分
 
 ## ServiceMesh
-* [linkerd](https://github.com/linkerd/linkerd) - Linkerd是一个透明的Service Mesh, 旨在透明地向所有服务间通信添加服务发现, 负载平衡, 故障处理, 检测和路由, 使应用程序变得安全可靠.
+* [linkerd](https://github.com/linkerd/linkerd) - Linkerd旨在透明地向所有服务间通信添加服务发现, 负载平衡, 故障处理, 检测和路由, 使应用程序变得安全可靠.
 
 ## 云原生存储
 * [rook](https://github.com/rook/rook) - Rook是Kubernetes的开源云本地存储协调器，为各种存储解决方案提供平台，框架和支持，以便与云原生环境本地集成.
+
+## 容器
+* [containerd](https://github.com/containerd/containerd) - 一个开放且可靠的容器运行时
+
+## 云原生网络
+* [cni](https://github.com/containernetworking/cni) - Container Network Interface - 用于Linux容器的网络体系
+
+## 自动化&配置
+* [ansible](https://github.com/ansible/ansible) - 
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
@@ -141,9 +150,6 @@
 
 ## 日志
 * [log4j](https://github.com/apache/log4j) - apache旗下的老牌日志工具
-
-## 容器
-* [containerd](https://github.com/containerd/containerd) - 一个开放且可靠的容器运行时
 
 ## 插件&工具
 * [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - zsh的语法高亮插件
