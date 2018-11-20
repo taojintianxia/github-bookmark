@@ -8,6 +8,7 @@
 - [通用框架](#通用框架)
 - [任务调度](#任务调度)
 - [消息队列](#消息队列)
+- [持续集成&交付](#持续集成&交付)
 - [配置中心](#配置中心)
 - [数据库](#数据库)
 - [搜索引擎](#搜索引擎)
@@ -65,6 +66,9 @@
 * [kafka](https://github.com/apache/kafka) - 隶属于Apache的分布式流平台
 * [rocketmq](https://github.com/apache/rocketmq) - 隶属于Apache的分布式消息跟流平台, 低延迟, 高性能, 高可靠, 万亿级别容量, 动态扩展. 
 * [activemq](https://github.com/apache/activemq) - 隶属于Apache的高性能消息队列
+
+## 持续集成&交付
+* [skaffold](https://github.com/GoogleContainerTools/skaffo) - Google出品的一款命令行工具, 用于促进Kubernetes应用程序的持续开发
 
 ## 配置中心
 * [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心, 能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端
