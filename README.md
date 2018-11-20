@@ -23,7 +23,7 @@
 - [缓存](#缓存)
 - [测试](#测试)
 - [运维相关](#运维相关)
-- [安全](#安全)
+- [安全&合规](#安全&合规)
 - [日志](#日志)
 - [插件&工具](#插件&工具)
 - [相关教程](#相关教程)
@@ -132,7 +132,6 @@
 * [QConf](https://github.com/Qihoo360/QConf) - 奇虎的分布式配置管理平台
 * [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心, 能够集中化管理应用不同环境、不同集群的配置, 配置修改后能够实时推送到应用端, 并且具备规范的权限、流程治理等特性, 适用于微服务配置管理场景.
 
-
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
 * [ehcache](https://github.com/ehcache/ehcache3) - 号称使用最为广泛的java缓存
@@ -145,7 +144,7 @@
 * [druid](https://github.com/alibaba/druid) - 阿里出品的号称"为监控而生"的数据库连接池
 * [prometheus](https://github.com/prometheus/prometheus) - CNCF项目, 一个监控其它系统或服务的系统
 
-## 安全
+## 安全&合规
 * [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
 
 ## 日志
