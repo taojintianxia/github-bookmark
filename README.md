@@ -8,6 +8,7 @@
 - [通用框架](#通用框架)
 - [持续集成&交付](#持续集成&交付)
 - [数据库](#数据库)
+- [缓存](#缓存)
 - [流&消息](#流&消息)
 - [应用定义&镜像构建](#应用定义&镜像构建)
 - [搜索引擎](#搜索引擎)
@@ -22,9 +23,8 @@
 - [自动化&配置](#自动化&配置)
 - [安全&合规](#安全&合规)
 - [监控](#监控)
-- [缓存](#缓存)
-- [测试](#测试)
 - [日志](#日志)
+- [测试](#测试)
 - [插件&工具](#插件&工具)
 - [相关教程](#相关教程)
 - [文档汉化](#文档汉化)
@@ -78,6 +78,10 @@
 * [vitess](https://github.com/vitessio/vitess) - Vitess是一个用于MySQL水平扩展的数据库集群系统
 * [arangodb](https://github.com/arangodb/arangodb) - ArangoDB是一个原生的多模型数据库, 具有文档, 图形和键值的灵活数据模型。使用方便的类SQL查询语言或JavaScript扩展构建高性能应用程序。
 * [druid](https://github.com/alibaba/druid) - 阿里出品的号称"为监控而生"的数据库连接池
+
+## 缓存
+* [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
+* [ehcache](https://github.com/ehcache/ehcache3) - 号称使用最为广泛的java缓存
 
 ## 流&消息
 * [kafka](https://github.com/apache/kafka) - 隶属于Apache的分布式流平台
@@ -135,15 +139,11 @@
 ## 监控
 * [prometheus](https://github.com/prometheus/prometheus) - CNCF项目, 用于监控其他系统或服务. 它以给定的时间间隔从目标收集指标，根据规则进行评估，显示结果，如果达到某些监控条件, 还可以触发警报.
 
-## 缓存
-* [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
-* [ehcache](https://github.com/ehcache/ehcache3) - 号称使用最为广泛的java缓存
+## 日志
+* [log4j](https://github.com/apache/log4j) - apache旗下的老牌日志工具
 
 ## 测试
 * [selenium](https://github.com/SeleniumHQ/selenium) - 自动化浏览器测试框架
-
-## 日志
-* [log4j](https://github.com/apache/log4j) - apache旗下的老牌日志工具
 
 ## 插件&工具
 * [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - zsh的语法高亮插件
