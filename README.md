@@ -25,6 +25,7 @@
 - [监控](#监控)
 - [日志](#日志)
 - [测试](#测试)
+- [混沌工程](#混沌工程)
 - [插件&工具](#插件&工具)
 - [相关教程](#相关教程)
 - [文档汉化](#文档汉化)
@@ -144,6 +145,9 @@
 
 ## 测试
 * [selenium](https://github.com/SeleniumHQ/selenium) - 自动化浏览器测试框架
+
+## 混沌工程
+* [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - 为社区所需的各种形式的混沌工程工具提供免费，开放和社区驱动的工具包和API。
 
 ## 插件&工具
 * [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - zsh的语法高亮插件
