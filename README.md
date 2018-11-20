@@ -12,6 +12,7 @@
 - [数据库](#数据库)
 - [流&消息](#流&消息)
 - [搜索引擎](#搜索引擎)
+- [调度&编排](调度&编排)
 - [服务协调&发现](#服务协调&发现)
 - [缓存](#缓存)
 - [测试](#测试)
@@ -91,6 +92,9 @@
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
+
+## 调度&编排
+*[kubernetes](https://github.com/kubernetes/kubernetes) - Kubernetes是一个开源系统，用于管理多个主机上的容器化应用程序;提供应用程序部署，维护和扩展的基本机制。
 
 ## 服务协调&发现
 * [coredns](https://github.com/coredns/coredns) - CoreDNS(Go语言编写)是一个链接插件的DNS服务器, 每个插件都执行DNS功能。
