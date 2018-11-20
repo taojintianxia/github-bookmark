@@ -17,7 +17,7 @@
 - [服务协调&发现](#服务协调&发现)
 - [服务代理](#服务代理)
 - [API网关](#API网关)
-- [Service Mesh](#Service Mesh)
+- [ServiceMesh](#ServiceMesh)
 - [缓存](#缓存)
 - [测试](#测试)
 - [运维相关](#运维相关)
@@ -112,7 +112,7 @@
 ## API网关
 * [3scale](https://github.com/3scale/apicast) - APIcast是一个建立在NGINX之上的API网关. 它是Red Hat 3scale API管理平台的一部分
 
-## Service Mesh
+## ServiceMesh
 * [linkerd](https://github.com/linkerd/linkerd) - Linkerd是一个透明的Service Mesh, 旨在透明地向所有服务间通信添加服务发现, 负载平衡, 故障处理, 检测和路由, 使应用程序变得安全可靠.
 
 ## 缓存
