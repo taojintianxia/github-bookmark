@@ -147,6 +147,9 @@
 ## 安全&合规
 * [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
 
+## 秘钥管理
+* [knox](https://github.com/pinterest/knox) - know用于管理其他服务中使用到的秘钥相关信息
+
 ## 日志
 * [log4j](https://github.com/apache/log4j) - apache旗下的老牌日志工具
 
