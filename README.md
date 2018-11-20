@@ -12,6 +12,7 @@
 - [数据库](#数据库)
 - [流&消息](#流&消息)
 - [搜索引擎](#搜索引擎)
+- [服务协调&发现](#服务协调&发现)
 - [缓存](#缓存)
 - [测试](#测试)
 - [运维相关](#运维相关)
@@ -86,9 +87,13 @@
 * [activemq](https://github.com/apache/activemq) - 隶属于Apache的高性能消息队列
 * [nats server](https://github.com/nats-io/gnatsd) - NATS Server是一个简单，高性能的开源消息系统，适用于云原生应用程序，物联网消息传递和微服务架构。
 * [heron](https://github.com/apache/incubator-heron) - Apache Heron(孵化中)是一款来自Twitter的实时，分布式，具有容错性的流处理引擎
+* [nifi](https://github.com/apache/nifi) - Apache NiFi是一个易于使用, 功能强大且可靠的系统, 用于处理和分发数据。
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
+
+## 服务协调&发现
+* [coredns](https://github.com/coredns/coredns) - CoreDNS(Go语言编写)是一个链接插件的DNS服务器
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
