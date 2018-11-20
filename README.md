@@ -15,6 +15,9 @@
 - [搜索引擎](#搜索引擎)
 - [调度&编排](调度&编排)
 - [服务协调&发现](#服务协调&发现)
+- [服务代理](#服务代理)
+- [API网关](#API网关)
+- [Service Mesh](#Service Mesh)
 - [缓存](#缓存)
 - [测试](#测试)
 - [运维相关](#运维相关)
@@ -30,13 +33,13 @@
 
 - - -
 ## Web框架
-* [jfinal](https://github.com/jfinal/jfinal) -  Java 语言的极速 WEB + ORM 框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful.
+* [jfinal](https://github.com/jfinal/jfinal) -  Java 语言的极速 WEB + ORM 框架, 其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful.
 
 ## RPC
 * [dubbo](https://github.com/alibaba/dubbo) - 阿里出品的使用范围广泛的RPC框架
 * [motan](https://github.com/weibocom/motan) - 微博出品的跨语言的RPC框架
 * [brpc](https://github.com/brpc/brpc) - 百度出品的工业级RPC框架
-* [grpc](https://github.com/grpc/grpc) - gRPC是一个现代的, 开源的, 高性能的RPC框架，可以在任何地方运行. gRPC使客户端和服务端的通信变得透明, 并乐意简化连接的创建
+* [grpc](https://github.com/grpc/grpc) - gRPC是一个现代的, 开源的, 高性能的RPC框架, 可以在任何地方运行. gRPC使客户端和服务端的通信变得透明, 并乐意简化连接的创建
 * [Tars](https://github.com/Tencent/Tars) - 腾讯出品的高性能RPC框架
 * [sofa-rpc](https://github.com/alipay/sofa-rpc) - 蚂蚁金服出品的高可扩展性、高性能、生产级的 Java RPC 框架
 
@@ -60,7 +63,7 @@
 * [vert.x](https://github.com/eclipse/vert.x) - JVM上用于开发reactive程序的工具包
 
 ## 任务调度
-* [elastic-job](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job是一个分布式调度解决方案，由两个相互独立的子项目Elastic-Job-Lite和Elastic-Job-Cloud组成.
+* [elastic-job](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job是一个分布式调度解决方案, 由两个相互独立的子项目Elastic-Job-Lite和Elastic-Job-Cloud组成.
 * [flink](https://github.com/apache/flink) - 隶属于Apache的流处理框架,拥有强大的流处理以及批量处理的能力.
 * [quartz](https://github.com/quartz-scheduler/quartz) - 功能丰富的,几乎可以与任何java程序集成的调度框架
 * [xxl-job](https://github.com/xuxueli/xxl-job) - 分布式任务调度平台XXL-JOB
@@ -70,10 +73,10 @@
 * [travis](https://github.com/travis-ci/travis-ci) - 针对github上项目的免费的持续集成平台
 
 ## 配置中心
-* [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心, 能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端
+* [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心, 能够集中化管理应用不同环境、不同集群的配置, 配置修改后能够实时推送到应用端
 
 ## 数据库
-* [sharding-jdbc](https://github.com/shardingjdbc/sharding-jdbc) - 开源的分布式数据库中间件解决方案。它在Java的JDBC层以对业务应用零侵入的方式额外提供数据分片，读写分离，柔性事务和分布式治理能力。并在其基础上提供封装了MySQL协议的服务端版本，用于完成对异构语言的支持.
+* [sharding-jdbc](https://github.com/shardingjdbc/sharding-jdbc) - 开源的分布式数据库中间件解决方案。它在Java的JDBC层以对业务应用零侵入的方式额外提供数据分片, 读写分离, 柔性事务和分布式治理能力。并在其基础上提供封装了MySQL协议的服务端版本, 用于完成对异构语言的支持.
 * [h2database](https://github.com/h2database/h2database) - 快速的,开源的,支持JDBC API的内存数据库
 * [mapper](https://github.com/abel533/Mapper) - MyBatis 通用 Mapper
 * [tcc-transaction](https://github.com/changmingxie/tcc-transaction) - TCC型事务java实现
@@ -81,14 +84,14 @@
 * [cobar](https://github.com/alibaba/cobar) - 阿里出品的支持sharding的proxy(很久没有维护了)
 * [ignite](https://github.com/apache/ignite) - Apache旗下的一款以内存为中心,多模型的,分布式数据库/cache.号称可以以内存级别的速度处理Pb级别的数据.
 * [vitess](https://github.com/vitessio/vitess) - Vitess是一个用于MySQL水平扩展的数据库集群系统
-* [arangodb](https://github.com/arangodb/arangodb) - ArangoDB是一个原生的多模型数据库，具有文档，图形和键值的灵活数据模型。使用方便的类SQL查询语言或JavaScript扩展构建高性能应用程序。
+* [arangodb](https://github.com/arangodb/arangodb) - ArangoDB是一个原生的多模型数据库, 具有文档, 图形和键值的灵活数据模型。使用方便的类SQL查询语言或JavaScript扩展构建高性能应用程序。
 
 ## 流&消息
 * [kafka](https://github.com/apache/kafka) - 隶属于Apache的分布式流平台
 * [rocketmq](https://github.com/apache/rocketmq) - 隶属于Apache的分布式消息跟流平台, 低延迟, 高性能, 高可靠, 万亿级别容量, 动态扩展. 
 * [activemq](https://github.com/apache/activemq) - 隶属于Apache的高性能消息队列
-* [nats server](https://github.com/nats-io/gnatsd) - NATS Server是一个简单，高性能的开源消息系统，适用于云原生应用程序，物联网消息传递和微服务架构。
-* [heron](https://github.com/apache/incubator-heron) - Apache Heron(孵化中)是一款来自Twitter的实时，分布式，具有容错性的流处理引擎
+* [nats server](https://github.com/nats-io/gnatsd) - NATS Server是一个简单, 高性能的开源消息系统, 适用于云原生应用程序, 物联网消息传递和微服务架构。
+* [heron](https://github.com/apache/incubator-heron) - Apache Heron(孵化中)是一款来自Twitter的实时, 分布式, 具有容错性的流处理引擎
 * [nifi](https://github.com/apache/nifi) - Apache NiFi是一个易于使用, 功能强大且可靠的系统, 用于处理和分发数据。
 
 ## 应用定义&镜像构建
@@ -98,10 +101,19 @@
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
 
 ## 调度&编排
-*[kubernetes](https://github.com/kubernetes/kubernetes) - Kubernetes是一个开源系统，用于管理多个主机上的容器化应用程序;提供应用程序部署，维护和扩展的基本机制。
+*[kubernetes](https://github.com/kubernetes/kubernetes) - Kubernetes是一个开源系统, 用于管理多个主机上的容器化应用程序;提供应用程序部署, 维护和扩展的基本机制。
 
 ## 服务协调&发现
 * [coredns](https://github.com/coredns/coredns) - CoreDNS(Go语言编写)是一个链接插件的DNS服务器, 每个插件都执行DNS功能。
+
+## 服务代理
+* [envoy](https://github.com/envoyproxy/envoy) - Envoy是一个开源服务代理, 专为云应用而设计
+
+## API网关
+* [3scale](https://github.com/3scale/apicast) - APIcast是一个建立在NGINX之上的API网关. 它是Red Hat 3scale API管理平台的一部分
+
+## Service Mesh
+* [linkerd](https://github.com/linkerd/linkerd) - Linkerd是一个透明的Service Mesh, 旨在透明地向所有服务间通信添加服务发现, 负载平衡, 故障处理, 检测和路由, 使应用程序变得安全可靠.
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
@@ -115,8 +127,8 @@
 * [disconf](https://github.com/knightliao/disconf) - 分布式配置管理平台
 * [mgmt](https://github.com/purpleidea/mgmt) - 号称下一代的配置管理平台
 * [QConf](https://github.com/Qihoo360/QConf) - 奇虎的分布式配置管理平台
-* [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景.
-* [prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 安装，基础监控，常用 exporter，性能优化和大量实战经验
+* [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心, 能够集中化管理应用不同环境、不同集群的配置, 配置修改后能够实时推送到应用端, 并且具备规范的权限、流程治理等特性, 适用于微服务配置管理场景.
+* [prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 安装, 基础监控, 常用 exporter, 性能优化和大量实战经验
 * [druid](https://github.com/alibaba/druid) - 阿里出品的号称"为监控而生"的数据库连接池
 * [prometheus](https://github.com/prometheus/prometheus) - CNCF项目, 一个监控其它系统或服务的系统
 
@@ -160,7 +172,7 @@
 * [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 提问的智慧
 * [SpringCloudBook](https://github.com/dyc87112/SpringCloudBook) - Spring Cloud微服务实战
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Java实现的各种设计模式
-* [architecture.wechat-tencent](https://github.com/davideuler/architecture.wechat-tencent) - 互联网公司架构: 微信技术架构， 腾讯技术架构
+* [architecture.wechat-tencent](https://github.com/davideuler/architecture.wechat-tencent) - 互联网公司架构: 微信技术架构,  腾讯技术架构
 * [gopl-zh](https://github.com/golang-china/gopl-zh) - Go语言圣经中文版
 
 ## 文档汉化
@@ -182,11 +194,11 @@
 ## 其他资源
 * [awesome-java](https://github.com/akullpp/awesome-java) - 整理了相当多java生态圈的相关资源
 * [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - 整理了相当多的高扩展,高可用,高性能等的设计模式
-* [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
+* [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料, 包括Fabric和Ethereum开发资料
 * [cloud-native-slides-share](https://github.com/rootsongjc/cloud-native-slides-share) - 收集了大量的cloud native相关的大会资料,开源书籍以及类似信息
 * [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IDEA教程
 * [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
-* [tenant-point](https://github.com/soulteary/tenant-point) - 租房要点，适用于北上广深杭
+* [tenant-point](https://github.com/soulteary/tenant-point) - 租房要点, 适用于北上广深杭
 * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 高效学习英语
 
 ## 优秀blog
