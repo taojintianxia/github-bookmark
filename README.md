@@ -64,6 +64,7 @@
 
 ## 持续集成&交付
 * [skaffold](https://github.com/GoogleContainerTools/skaffo) - Google出品的一款命令行工具, 用于促进Kubernetes应用程序的持续开发
+* [travis](https://github.com/travis-ci/travis-ci) - 针对github上项目的免费的持续集成平台
 
 ## 配置中心
 * [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心, 能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端
@@ -84,6 +85,7 @@
 * [rocketmq](https://github.com/apache/rocketmq) - 隶属于Apache的分布式消息跟流平台, 低延迟, 高性能, 高可靠, 万亿级别容量, 动态扩展. 
 * [activemq](https://github.com/apache/activemq) - 隶属于Apache的高性能消息队列
 * [nats server](https://github.com/nats-io/gnatsd) - NATS Server是一个简单，高性能的开源消息系统，适用于云原生应用程序，物联网消息传递和微服务架构。
+* [heron](https://github.com/apache/incubator-heron) - Apache Heron(孵化中)是一款来自Twitter的实时，分布式，具有容错性的流处理引擎
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
@@ -104,7 +106,6 @@
 * [prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 安装，基础监控，常用 exporter，性能优化和大量实战经验
 * [druid](https://github.com/alibaba/druid) - 阿里出品的号称"为监控而生"的数据库连接池
 * [prometheus](https://github.com/prometheus/prometheus) - CNCF项目, 一个监控其它系统或服务的系统
-* [travis](https://github.com/travis-ci/travis-ci) - 针对github上项目的免费的持续集成平台
 
 ## 安全
 * [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
