@@ -71,14 +71,12 @@
 ## 数据库
 * [sharding-jdbc](https://github.com/shardingjdbc/sharding-jdbc) - 开源的分布式数据库中间件解决方案。它在Java的JDBC层以对业务应用零侵入的方式额外提供数据分片, 读写分离, 柔性事务和分布式治理能力。并在其基础上提供封装了MySQL协议的服务端版本, 用于完成对异构语言的支持.
 * [h2database](https://github.com/h2database/h2database) - 快速的,开源的,支持JDBC API的内存数据库
-* [mapper](https://github.com/abel533/Mapper) - MyBatis 通用 Mapper
-* [tcc-transaction](https://github.com/changmingxie/tcc-transaction) - TCC型事务java实现
-* [mycat](https://github.com/MyCATApache/Mycat-Server) - 基于阿里cobar改良的分布式数据库中间件, 官宣为一个模拟为MySQL Server的超级数据库
+* [mycat](https://github.com/MyCATApache/Mycat-Server) - 基于阿里cobar改良的分布式数据库中间件, 官宣为一个模拟MySQL Server的超级数据库
 * [cobar](https://github.com/alibaba/cobar) - 阿里出品的支持sharding的proxy(很久没有维护了)
 * [ignite](https://github.com/apache/ignite) - Apache旗下的一款以内存为中心,多模型的,分布式数据库/cache.号称可以以内存级别的速度处理Pb级别的数据.
 * [vitess](https://github.com/vitessio/vitess) - Vitess是一个用于MySQL水平扩展的数据库集群系统
 * [arangodb](https://github.com/arangodb/arangodb) - ArangoDB是一个原生的多模型数据库, 具有文档, 图形和键值的灵活数据模型。使用方便的类SQL查询语言或JavaScript扩展构建高性能应用程序。
-* [druid](https://github.com/alibaba/druid) - 阿里出品的号称"为监控而生"的数据库连接池
+* [bigchaindb](https://github.com/bigchaindb/bigchaindb) - BigchainDB是区块链数据库
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
@@ -150,6 +148,9 @@
 * [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - 为社区所需的各种形式的混沌工程工具提供免费，开放和社区驱动的工具包和API。
 
 ## 插件&工具
+* [mapper](https://github.com/abel533/Mapper) - MyBatis 通用 Mapper
+* [tcc-transaction](https://github.com/changmingxie/tcc-transaction) - TCC型事务java实现
+* [druid](https://github.com/alibaba/druid) - 阿里出品的号称"为监控而生"的数据库连接池
 * [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - zsh的语法高亮插件
 * [nosqlclient](https://github.com/nosqlclient/nosqlclient) - mongodb的客户端
 * [mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui) mybatis generator的GUI工具
