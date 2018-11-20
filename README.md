@@ -18,6 +18,7 @@
 - [服务代理](#服务代理)
 - [API网关](#API网关)
 - [ServiceMesh](#ServiceMesh)
+- [云原生存储](#云原生存储)
 - [缓存](#缓存)
 - [测试](#测试)
 - [运维相关](#运维相关)
@@ -114,6 +115,9 @@
 
 ## ServiceMesh
 * [linkerd](https://github.com/linkerd/linkerd) - Linkerd是一个透明的Service Mesh, 旨在透明地向所有服务间通信添加服务发现, 负载平衡, 故障处理, 检测和路由, 使应用程序变得安全可靠.
+
+## 云原生存储
+* [rook](https://github.com/rook/rook) - Rook是Kubernetes的开源云本地存储协调器，为各种存储解决方案提供平台，框架和支持，以便与云原生环境本地集成.
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
