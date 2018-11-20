@@ -7,10 +7,10 @@
 - [微服务](#微服务)
 - [通用框架](#通用框架)
 - [任务调度](#任务调度)
-- [消息队列](#消息队列)
 - [持续集成&交付](#持续集成&交付)
 - [配置中心](#配置中心)
 - [数据库](#数据库)
+- [流&消息](#流&消息)
 - [搜索引擎](#搜索引擎)
 - [缓存](#缓存)
 - [测试](#测试)
@@ -62,11 +62,6 @@
 * [quartz](https://github.com/quartz-scheduler/quartz) - 功能丰富的,几乎可以与任何java程序集成的调度框架
 * [xxl-job](https://github.com/xuxueli/xxl-job) - 分布式任务调度平台XXL-JOB
 
-## 消息队列
-* [kafka](https://github.com/apache/kafka) - 隶属于Apache的分布式流平台
-* [rocketmq](https://github.com/apache/rocketmq) - 隶属于Apache的分布式消息跟流平台, 低延迟, 高性能, 高可靠, 万亿级别容量, 动态扩展. 
-* [activemq](https://github.com/apache/activemq) - 隶属于Apache的高性能消息队列
-
 ## 持续集成&交付
 * [skaffold](https://github.com/GoogleContainerTools/skaffo) - Google出品的一款命令行工具, 用于促进Kubernetes应用程序的持续开发
 
@@ -83,6 +78,12 @@
 * [ignite](https://github.com/apache/ignite) - Apache旗下的一款以内存为中心,多模型的,分布式数据库/cache.号称可以以内存级别的速度处理Pb级别的数据.
 * [vitess](https://github.com/vitessio/vitess) - Vitess是一个用于MySQL水平扩展的数据库集群系统
 * [arangodb](https://github.com/arangodb/arangodb) - ArangoDB是一个原生的多模型数据库，具有文档，图形和键值的灵活数据模型。使用方便的类SQL查询语言或JavaScript扩展构建高性能应用程序。
+
+## 流&消息
+* [kafka](https://github.com/apache/kafka) - 隶属于Apache的分布式流平台
+* [rocketmq](https://github.com/apache/rocketmq) - 隶属于Apache的分布式消息跟流平台, 低延迟, 高性能, 高可靠, 万亿级别容量, 动态扩展. 
+* [activemq](https://github.com/apache/activemq) - 隶属于Apache的高性能消息队列
+* [nats server](https://github.com/nats-io/gnatsd) - NATS Server是一个简单，高性能的开源消息系统，适用于云原生应用程序，物联网消息传递和微服务架构。
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
