@@ -1,11 +1,8 @@
 # Github收藏夹  
 
 ### 这是个收藏夹, 收集了Github上看到的各种不同的优秀工具,框架,知识合集  
-- [Web框架](#Web框架)
 - [RPC](#RPC)
-- [分布式](#分布式)
 - [微服务](#微服务)
-- [通用框架](#通用框架)
 - [持续集成&交付](#持续集成&交付)
 - [数据库](#数据库)
 - [缓存](#缓存)
@@ -34,9 +31,6 @@
 - [优秀blog](#优秀blog)
 
 - - -
-## Web框架
-* [jfinal](https://github.com/jfinal/jfinal) -  Java 语言的极速 WEB + ORM 框架, 其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展、Restful.
-
 ## RPC
 * [dubbo](https://github.com/alibaba/dubbo) - 阿里出品的使用范围广泛的RPC框架
 * [motan](https://github.com/weibocom/motan) - 微博出品的跨语言的RPC框架
@@ -45,24 +39,8 @@
 * [Tars](https://github.com/Tencent/Tars) - 腾讯出品的高性能RPC框架
 * [sofa-rpc](https://github.com/alipay/sofa-rpc) - 蚂蚁金服出品的高可扩展性、高性能、生产级的 Java RPC 框架
 
-## 分布式
-* [zookeeper](https://github.com/apache/zookeeper) apache旗下的分布式服务协调框架
-* [etcd](https://github.com/etcd-io/etcd) 一个可依赖的分布式key-value存储系统, 用于分布式环境下保存关键数据
-
 ## 微服务
 * [fabric8](https://github.com/fabric8io/fabric8) - 基于Docker, Kubernetes and Jenkins的微服务平台
-
-## 通用框架
-* [guava](https://github.com/google/guava) - google出品的非常好用的Java工具包
-* [netty](https://github.com/netty/netty) - 事件驱动的支持异步的网络框架
-* [hystrix](https://github.com/Netflix/Hystrix) - Netflix出品的熔断器
-* [uid-generator](https://github.com/baidu/uid-generator) - 百度出品的基于snowflake的唯一Id生成器
-* [fastjson](https://github.com/alibaba/fastjson) - 阿里出品的解析/生成JSON的java框架
-* [swagger](https://github.com/swagger-api/swagger-ui) - java API管理工具
-* [protobuf](https://github.com/google/protobuf) - google出品的平台无关,语言无关的序列化工具
-* [cqengine](https://github.com/npgall/cqengine) - 可以在Java的collection中进行SQL-like查询的工具
-* [jetcache](https://github.com/alibaba/jetcache) - 阿里出品的Java缓存框架, "用起来比Spring Cache更方便"
-* [vert.x](https://github.com/eclipse/vert.x) - JVM上用于开发reactive程序的工具包
 
 ## 持续集成&交付
 * [skaffold](https://github.com/GoogleContainerTools/skaffo) - Google出品的一款命令行工具, 用于促进Kubernetes应用程序的持续开发
@@ -105,6 +83,8 @@
 
 ## 服务协调&发现
 * [coredns](https://github.com/coredns/coredns) - CoreDNS(Go语言编写)是一个链接插件的DNS服务器, 每个插件都执行DNS功能。
+* [zookeeper](https://github.com/apache/zookeeper) apache旗下的分布式服务协调框架
+* [etcd](https://github.com/etcd-io/etcd) 一个可依赖的分布式key-value存储系统, 用于分布式环境下保存关键数据
 
 ## 服务代理
 * [envoy](https://github.com/envoyproxy/envoy) - Envoy是一个开源服务代理, 专为云应用而设计
@@ -148,6 +128,16 @@
 * [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - 为社区所需的各种形式的混沌工程工具提供免费，开放和社区驱动的工具包和API。
 
 ## 插件&工具
+* [guava](https://github.com/google/guava) - google出品的非常好用的Java工具包
+* [netty](https://github.com/netty/netty) - 事件驱动的支持异步的网络框架
+* [hystrix](https://github.com/Netflix/Hystrix) - Netflix出品的熔断器
+* [uid-generator](https://github.com/baidu/uid-generator) - 百度出品的基于snowflake的唯一Id生成器
+* [fastjson](https://github.com/alibaba/fastjson) - 阿里出品的解析/生成JSON的java框架
+* [swagger](https://github.com/swagger-api/swagger-ui) - java API管理工具
+* [protobuf](https://github.com/google/protobuf) - google出品的平台无关,语言无关的序列化工具
+* [cqengine](https://github.com/npgall/cqengine) - 可以在Java的collection中进行SQL-like查询的工具
+* [jetcache](https://github.com/alibaba/jetcache) - 阿里出品的Java缓存框架, "用起来比Spring Cache更方便"
+* [vert.x](https://github.com/eclipse/vert.x) - JVM上用于开发reactive程序的工具包
 * [mapper](https://github.com/abel533/Mapper) - MyBatis 通用 Mapper
 * [tcc-transaction](https://github.com/changmingxie/tcc-transaction) - TCC型事务java实现
 * [druid](https://github.com/alibaba/druid) - 阿里出品的号称"为监控而生"的数据库连接池
