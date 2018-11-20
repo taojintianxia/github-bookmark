@@ -6,9 +6,7 @@
 - [分布式](#分布式)
 - [微服务](#微服务)
 - [通用框架](#通用框架)
-- [任务调度](#任务调度)
 - [持续集成&交付](#持续集成&交付)
-- [配置中心](#配置中心)
 - [数据库](#数据库)
 - [流&消息](#流&消息)
 - [应用定义&镜像构建](#应用定义&镜像构建)
@@ -20,10 +18,12 @@
 - [ServiceMesh](#ServiceMesh)
 - [云原生存储](#云原生存储)
 - [容器](#容器)
+- [云原生网络](#云原生网络)
+- [自动化&配置](#自动化&配置)
+- [安全&合规](#安全&合规)
+- [监控](#监控)
 - [缓存](#缓存)
 - [测试](#测试)
-- [运维相关](#运维相关)
-- [安全&合规](#安全&合规)
 - [日志](#日志)
 - [插件&工具](#插件&工具)
 - [相关教程](#相关教程)
@@ -63,18 +63,9 @@
 * [jetcache](https://github.com/alibaba/jetcache) - 阿里出品的Java缓存框架, "用起来比Spring Cache更方便"
 * [vert.x](https://github.com/eclipse/vert.x) - JVM上用于开发reactive程序的工具包
 
-## 任务调度
-* [elastic-job](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job是一个分布式调度解决方案, 由两个相互独立的子项目Elastic-Job-Lite和Elastic-Job-Cloud组成.
-* [flink](https://github.com/apache/flink) - 隶属于Apache的流处理框架,拥有强大的流处理以及批量处理的能力.
-* [quartz](https://github.com/quartz-scheduler/quartz) - 功能丰富的,几乎可以与任何java程序集成的调度框架
-* [xxl-job](https://github.com/xuxueli/xxl-job) - 分布式任务调度平台XXL-JOB
-
 ## 持续集成&交付
 * [skaffold](https://github.com/GoogleContainerTools/skaffo) - Google出品的一款命令行工具, 用于促进Kubernetes应用程序的持续开发
 * [travis](https://github.com/travis-ci/travis-ci) - 针对github上项目的免费的持续集成平台
-
-## 配置中心
-* [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心, 能够集中化管理应用不同环境、不同集群的配置, 配置修改后能够实时推送到应用端
 
 ## 数据库
 * [sharding-jdbc](https://github.com/shardingjdbc/sharding-jdbc) - 开源的分布式数据库中间件解决方案。它在Java的JDBC层以对业务应用零侵入的方式额外提供数据分片, 读写分离, 柔性事务和分布式治理能力。并在其基础上提供封装了MySQL协议的服务端版本, 用于完成对异构语言的支持.
@@ -86,6 +77,7 @@
 * [ignite](https://github.com/apache/ignite) - Apache旗下的一款以内存为中心,多模型的,分布式数据库/cache.号称可以以内存级别的速度处理Pb级别的数据.
 * [vitess](https://github.com/vitessio/vitess) - Vitess是一个用于MySQL水平扩展的数据库集群系统
 * [arangodb](https://github.com/arangodb/arangodb) - ArangoDB是一个原生的多模型数据库, 具有文档, 图形和键值的灵活数据模型。使用方便的类SQL查询语言或JavaScript扩展构建高性能应用程序。
+* [druid](https://github.com/alibaba/druid) - 阿里出品的号称"为监控而生"的数据库连接池
 
 ## 流&消息
 * [kafka](https://github.com/apache/kafka) - 隶属于Apache的分布式流平台
@@ -96,13 +88,17 @@
 * [nifi](https://github.com/apache/nifi) - Apache NiFi是一个易于使用, 功能强大且可靠的系统, 用于处理和分发数据。
 
 ## 应用定义&镜像构建
-*[helm](https://github.com/helm/helm) - 一个Kubernetes包管理器
+* [helm](https://github.com/helm/helm) - 一个Kubernetes包管理器
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
 
 ## 调度&编排
-*[kubernetes](https://github.com/kubernetes/kubernetes) - Kubernetes是一个开源系统, 用于管理多个主机上的容器化应用程序;提供应用程序部署, 维护和扩展的基本机制。
+* [kubernetes](https://github.com/kubernetes/kubernetes) - Kubernetes是一个开源系统, 用于管理多个主机上的容器化应用程序;提供应用程序部署, 维护和扩展的基本机制。
+* [elastic-job](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job是一个分布式调度解决方案, 由两个相互独立的子项目Elastic-Job-Lite和Elastic-Job-Cloud组成.
+* [flink](https://github.com/apache/flink) - 隶属于Apache的流处理框架,拥有强大的流处理以及批量处理的能力.
+* [quartz](https://github.com/quartz-scheduler/quartz) - 功能丰富的,几乎可以与任何java程序集成的调度框架
+* [xxl-job](https://github.com/xuxueli/xxl-job) - 分布式任务调度平台XXL-JOB
 
 ## 服务协调&发现
 * [coredns](https://github.com/coredns/coredns) - CoreDNS(Go语言编写)是一个链接插件的DNS服务器, 每个插件都执行DNS功能。
@@ -132,23 +128,19 @@
 * [QConf](https://github.com/Qihoo360/QConf) - 奇虎的分布式配置管理平台
 * [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心, 能够集中化管理应用不同环境、不同集群的配置, 配置修改后能够实时推送到应用端, 并且具备规范的权限、流程治理等特性, 适用于微服务配置管理场景.
 
+## 安全&合规
+* [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
+* [knox](https://github.com/pinterest/knox) - know用于管理其他服务中使用到的秘钥相关信息
+
+## 监控
+* [prometheus](https://github.com/prometheus/prometheus) - CNCF项目, 用于监控其他系统或服务. 它以给定的时间间隔从目标收集指标，根据规则进行评估，显示结果，如果达到某些监控条件, 还可以触发警报.
+
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
 * [ehcache](https://github.com/ehcache/ehcache3) - 号称使用最为广泛的java缓存
 
 ## 测试
 * [selenium](https://github.com/SeleniumHQ/selenium) - 自动化浏览器测试框架
-
-## 运维相关
-* [prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 安装, 基础监控, 常用 exporter, 性能优化和大量实战经验
-* [druid](https://github.com/alibaba/druid) - 阿里出品的号称"为监控而生"的数据库连接池
-* [prometheus](https://github.com/prometheus/prometheus) - CNCF项目, 一个监控其它系统或服务的系统
-
-## 安全&合规
-* [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
-
-## 秘钥管理
-* [knox](https://github.com/pinterest/knox) - know用于管理其他服务中使用到的秘钥相关信息
 
 ## 日志
 * [log4j](https://github.com/apache/log4j) - apache旗下的老牌日志工具
@@ -186,6 +178,7 @@
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Java实现的各种设计模式
 * [architecture.wechat-tencent](https://github.com/davideuler/architecture.wechat-tencent) - 互联网公司架构: 微信技术架构,  腾讯技术架构
 * [gopl-zh](https://github.com/golang-china/gopl-zh) - Go语言圣经中文版
+* [prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 安装, 基础监控, 常用 exporter, 性能优化和大量实战经验
 
 ## 文档汉化
 * [kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh/) - Kafka 中文文档
