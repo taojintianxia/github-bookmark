@@ -62,16 +62,17 @@
 
 ## 流&消息
 * [kafka](https://github.com/apache/kafka) - 隶属于Apache的分布式流平台
-* [rocketmq](https://github.com/apache/rocketmq) - 隶属于Apache的分布式消息跟流平台, 低延迟, 高性能, 高可靠, 万亿级别容量, 动态扩展. 
+* [rocketmq](https://github.com/apache/rocketmq) - 隶属于Apache的分布式消息跟流平台, 低延迟, 高性能, 高可靠, 万亿级别容量, 动态扩展
 * [activemq](https://github.com/apache/activemq) - 隶属于Apache的高性能消息队列
 * [nats server](https://github.com/nats-io/gnatsd) - NATS Server是一个简单, 高性能的开源消息系统, 适用于云原生应用程序, 物联网消息传递和微服务架构。
 * [heron](https://github.com/apache/incubator-heron) - Apache Heron(孵化中)是一款来自Twitter的实时, 分布式, 具有容错性的流处理引擎
-* [nifi](https://github.com/apache/nifi) - Apache NiFi是一个易于使用, 功能强大且可靠的系统, 用于处理和分发数据。
+* [nifi](https://github.com/apache/nifi) - Apache NiFi是一个易于使用, 功能强大且可靠的系统, 用于处理和分发数据
 * [spark](https://github.com/apache/spark) - Spark是一种快速通用的大数据集群计算系统. 提供Scala, Java, Python和R的高级API,以及支持数据分析的通用计算图的优化引擎
 * [storm](https://github.com/apache/storm) - Storm是一个分布式实时计算系统. 类似于Hadoop提供一组用于批处理的通用基元, Storm以此处理实时计算
 
 ## 应用定义&镜像构建
-* [helm](https://github.com/helm/helm) - 一个Kubernetes包管理器
+* [helm](https://github.com/helm/helm) - 一个Kubernetes包管理器, CNCF项目
+* [brooklyn](https://github.com/apache/brooklyn-server) - Apache旗下开源框架, 用于建模, 部署和管理使用声明式YAML蓝图定义的分布式应用程序
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
