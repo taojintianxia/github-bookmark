@@ -193,6 +193,7 @@
 
 ## 其他资源
 * [awesome-java](https://github.com/akullpp/awesome-java) - 整理了相当多java生态圈的相关资源
+* [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - 收集了优秀的混沌工程相关的信息
 * [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - 整理了相当多的高扩展,高可用,高性能等的设计模式
 * [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料, 包括Fabric和Ethereum开发资料
 * [cloud-native-slides-share](https://github.com/rootsongjc/cloud-native-slides-share) - 收集了大量的cloud native相关的大会资料,开源书籍以及类似信息
