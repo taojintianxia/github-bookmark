@@ -205,6 +205,7 @@
 * [tenant-point](https://github.com/soulteary/tenant-point) - 租房要点, 适用于北上广深杭
 * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 高效学习英语
 * [Ryujinx](https://github.com/Ryujinx/Ryujinx) - 任天堂switch模拟器
+* [RetroArch](https://github.com/libretro/RetroArch) - 跨平台游戏模拟器
 
 ## 优秀blog
 * [TiDB博客](https://pingcap.com/blog-cn/) - TiDB官网的博客
