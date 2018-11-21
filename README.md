@@ -67,6 +67,7 @@
 * [nats server](https://github.com/nats-io/gnatsd) - NATS Server是一个简单, 高性能的开源消息系统, 适用于云原生应用程序, 物联网消息传递和微服务架构。
 * [heron](https://github.com/apache/incubator-heron) - Apache Heron(孵化中)是一款来自Twitter的实时, 分布式, 具有容错性的流处理引擎
 * [nifi](https://github.com/apache/nifi) - Apache NiFi是一个易于使用, 功能强大且可靠的系统, 用于处理和分发数据。
+* [spark](https://github.com/apache/spark) - Spark是一种快速通用的大数据集群计算系统. 提供Scala, Java, Python和R的高级API,以及支持数据分析的通用计算图的优化引擎
 
 ## 应用定义&镜像构建
 * [helm](https://github.com/helm/helm) - 一个Kubernetes包管理器
