@@ -77,6 +77,7 @@
 ## 应用定义&镜像构建
 * [helm](https://github.com/helm/helm) - 一个Kubernetes包管理器, CNCF项目
 * [brooklyn](https://github.com/apache/brooklyn-server) - Apache旗下开源框架, 用于建模, 部署和管理使用声明式YAML蓝图定义的分布式应用程序
+* [Buildpacks](https://github.com/buildpack/pack) - Buildpacks是可插拔的模块化工具，可将源代码转换为OCI映像
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
