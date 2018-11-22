@@ -72,6 +72,7 @@
 * [spark](https://github.com/apache/spark) - Apache Spark是一种快速通用的大数据集群计算系统. 提供Scala, Java, Python和R的高级API,以及支持数据分析的通用计算图的优化引擎
 * [storm](https://github.com/apache/storm) - Apache Storm是一个分布式实时计算系统. 类似于Hadoop提供一组用于批处理的通用基元, Storm以此处理实时计算
 * [Beam](https://github.com/apache/beam) - Apache Beam是一个统一的模型，用于定义批处理和流数据并行处理管道，以及一组特定于语言的SDK，用于构建管道和Runners，用于在分布式处理后端上执行它们，包括Apache Apex，Apache Flink，Apache Spark和Google Cloud Dataflow。
+* [CloudEvents](https://github.com/cloudevents/spec) - CloudEvents是一项新的开放规范，用于对事件数据提供一致的描述标准. 该开放规范由 CNCF下设的 无服务器工作组（Serverless Working Group）提出，且CNCF已与多家云服务和云提供商建立了合作伙伴关系
 
 ## 应用定义&镜像构建
 * [helm](https://github.com/helm/helm) - 一个Kubernetes包管理器, CNCF项目
