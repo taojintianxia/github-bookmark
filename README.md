@@ -69,8 +69,9 @@
 * [nats server](https://github.com/nats-io/gnatsd) - NATS Server是一个简单, 高性能的开源消息系统, 适用于云原生应用程序, 物联网消息传递和微服务架构。
 * [heron](https://github.com/apache/incubator-heron) - Apache Heron(孵化中)是一款来自Twitter的实时, 分布式, 具有容错性的流处理引擎
 * [nifi](https://github.com/apache/nifi) - Apache NiFi是一个易于使用, 功能强大且可靠的系统, 用于处理和分发数据
-* [spark](https://github.com/apache/spark) - Spark是一种快速通用的大数据集群计算系统. 提供Scala, Java, Python和R的高级API,以及支持数据分析的通用计算图的优化引擎
-* [storm](https://github.com/apache/storm) - Storm是一个分布式实时计算系统. 类似于Hadoop提供一组用于批处理的通用基元, Storm以此处理实时计算
+* [spark](https://github.com/apache/spark) - Apache Spark是一种快速通用的大数据集群计算系统. 提供Scala, Java, Python和R的高级API,以及支持数据分析的通用计算图的优化引擎
+* [storm](https://github.com/apache/storm) - Apache Storm是一个分布式实时计算系统. 类似于Hadoop提供一组用于批处理的通用基元, Storm以此处理实时计算
+* [Beam](https://github.com/apache/beam) - Apache Beam是一个统一的模型，用于定义批处理和流数据并行处理管道，以及一组特定于语言的SDK，用于构建管道和Runners，用于在分布式处理后端上执行它们，包括Apache Apex，Apache Flink，Apache Spark和Google Cloud Dataflow。
 
 ## 应用定义&镜像构建
 * [helm](https://github.com/helm/helm) - 一个Kubernetes包管理器, CNCF项目
