@@ -58,6 +58,7 @@
 * [bigchaindb](https://github.com/bigchaindb/bigchaindb) - BigchainDB是区块链数据库
 * [CarbonData](https://github.com/apache/carbondata) - Apache CarbonData是一种索引的柱状数据存储解决方案，用于在大数据平台上进行快速分析，例如Apache Hadoop，Apache Spark等
 * [Cassandra](https://github.com/apache/cassandra) - Apache Cassandra是一套开源分布式NoSQL数据库系统。它最初由Facebook开发，用于储存收件箱等简单格式数据，集Google BigTable的数据模型与Amazon Dynamo的完全分布式的架构于一身。Facebook于2008将 Cassandra 开源，此后，由于Cassandra良好的可扩放性，被Digg、Twitter等知名Web 2.0网站所采纳，成为了一种流行的分布式结构化数据存储方案
+* [Couchbase](https://github.com/couchbase/manifest) - 为Web时代而生的开源数据库
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
@@ -70,10 +71,11 @@
 * [nats server](https://github.com/nats-io/gnatsd) - NATS Server是一个简单, 高性能的开源消息系统, 适用于云原生应用程序, 物联网消息传递和微服务架构。
 * [heron](https://github.com/apache/incubator-heron) - Apache Heron(孵化中)是一款来自Twitter的实时, 分布式, 具有容错性的流处理引擎
 * [nifi](https://github.com/apache/nifi) - Apache NiFi是一个易于使用, 功能强大且可靠的系统, 用于处理和分发数据
-* [spark](https://github.com/apache/spark) - Apache Spark是一种快速通用的大数据集群计算系统. 提供Scala, Java, Python和R的高级API,以及支持数据分析的通用计算图的优化引擎
-* [storm](https://github.com/apache/storm) - Apache Storm是一个分布式实时计算系统. 类似于Hadoop提供一组用于批处理的通用基元, Storm以此处理实时计算
+* [Spark](https://github.com/apache/spark) - Apache Spark是一种快速通用的大数据集群计算系统. 提供Scala, Java, Python和R的高级API,以及支持数据分析的通用计算图的优化引擎
+* [Storm](https://github.com/apache/storm) - Apache Storm是一个分布式实时计算系统. 类似于Hadoop提供一组用于批处理的通用基元, Storm以此处理实时计算
 * [Beam](https://github.com/apache/beam) - Apache Beam是一个统一的模型，用于定义批处理和流数据并行处理管道，以及一组特定于语言的SDK，用于构建管道和Runners，用于在分布式处理后端上执行它们，包括Apache Apex，Apache Flink，Apache Spark和Google Cloud Dataflow。
 * [CloudEvents](https://github.com/cloudevents/spec) - CloudEvents是一项新的开放规范，用于对事件数据提供一致的描述标准. 该开放规范由 CNCF下设的 无服务器工作组（Serverless Working Group）提出，且CNCF已与多家云服务和云提供商建立了合作伙伴关系
+* [Flink](https://github.com/apache/flink) - Apache Flink是一个开源流处理框架，具有强大的流和批处理功能
 
 ## 应用定义&镜像构建
 * [helm](https://github.com/helm/helm) - 一个Kubernetes包管理器, CNCF项目
