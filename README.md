@@ -227,6 +227,6 @@
 * [伪架构师](https://blog.fleeto.us/) - 崔秀龙的博客
 
 ## 游戏
-* [Ryujinx](https://github.com/Ryujinx/Ryujinx) - 任天堂switch模拟器
 * [RetroArch](https://github.com/libretro/RetroArch) - 跨平台游戏模拟器
+* [Ryujinx](https://github.com/Ryujinx/Ryujinx) - 任天堂switch模拟器
 * [pcsx4](https://github.com/pcsx4) - PS4模拟器
