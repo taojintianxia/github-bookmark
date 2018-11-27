@@ -29,6 +29,7 @@
 - [面试相关](#面试相关)
 - [其他资源](#其他资源)
 - [优秀blog](#优秀blog)
+- [游戏](#游戏)
 
 - - -
 ## RPC
@@ -211,8 +212,6 @@
 * [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 * [tenant-point](https://github.com/soulteary/tenant-point) - 租房要点, 适用于北上广深杭
 * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 高效学习英语
-* [Ryujinx](https://github.com/Ryujinx/Ryujinx) - 任天堂switch模拟器
-* [RetroArch](https://github.com/libretro/RetroArch) - 跨平台游戏模拟器
 
 ## 优秀blog
 * [TiDB博客](https://pingcap.com/blog-cn/) - TiDB官网的博客
@@ -226,3 +225,8 @@
 * [今日头条技术博客](https://techblog.toutiao.com/) - 今日头条技术博客
 * [developerworks](https://www.ibm.com/developerworks/cn/) - IBM developerworks
 * [伪架构师](https://blog.fleeto.us/) - 崔秀龙的博客
+
+## 游戏
+* [Ryujinx](https://github.com/Ryujinx/Ryujinx) - 任天堂switch模拟器
+* [RetroArch](https://github.com/libretro/RetroArch) - 跨平台游戏模拟器
+* [pcsx4](https://github.com/pcsx4) - PS4模拟器
