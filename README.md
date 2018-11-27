@@ -78,8 +78,8 @@
 * [Flink](https://github.com/apache/flink) - Apache Flink是一个开源流处理框架，具有强大的流和批处理功能
 
 ## 应用定义&镜像构建
-* [helm](https://github.com/helm/helm) - 一个Kubernetes包管理器, CNCF项目
-* [brooklyn](https://github.com/apache/brooklyn-server) - Apache旗下开源框架, 用于建模, 部署和管理使用声明式YAML蓝图定义的分布式应用程序
+* [Helm](https://github.com/helm/helm) - 一个Kubernetes包管理器, CNCF项目
+* [Brooklyn](https://github.com/apache/brooklyn-server) - Apache旗下开源框架, 用于建模, 部署和管理使用声明式YAML蓝图定义的分布式应用程序
 * [Buildpacks](https://github.com/buildpack/pack) - Buildpacks是可插拔的模块化工具，可将源代码转换为OCI映像
 * [Docker Compose](https://github.com/docker/compose) - Compose是一个用于定义和运行多容器Docker应用程序的工具。使用Compose，您可以使用Compose文件来配置应用程序的服务。然后，使用单个命令，您可以从配置中创建并启动所有服务
 
