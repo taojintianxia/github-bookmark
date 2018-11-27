@@ -229,4 +229,5 @@
 ## 游戏
 * [RetroArch](https://github.com/libretro/RetroArch) - 跨平台游戏模拟器
 * [Ryujinx](https://github.com/Ryujinx/Ryujinx) - 任天堂switch模拟器
-* [pcsx4](https://github.com/pcsx4) - PS4模拟器
+* [RPCS3](https://github.com/RPCS3/rpcs3) - PS3模拟器
+* [PCSX4](https://github.com/pcsx4) - PS4模拟器
