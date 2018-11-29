@@ -48,6 +48,7 @@
 * [travis](https://github.com/travis-ci/travis-ci) - 针对github上项目的免费的持续集成平台
 * [Argo](https://github.com/argoproj/argo) - 用于Kubernetes的容器原生的工作流引擎
 * [Brigade](https://github.com/azure/brigade) - 基于事件的Kubernetes脚本
+* [Buildkite](https://github.com/buildkite/agent) - Buildkite Agent是一个用Golang编写的开源工具包，用于在任何设备或网络上安全地运行构建作业
 
 ## 数据库
 * [sharding-jdbc](https://github.com/shardingjdbc/sharding-jdbc) - 开源的分布式数据库中间件解决方案。它在Java的JDBC层以对业务应用零侵入的方式额外提供数据分片, 读写分离, 柔性事务和分布式治理能力。并在其基础上提供封装了MySQL协议的服务端版本, 用于完成对异构语言的支持
