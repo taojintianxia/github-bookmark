@@ -53,6 +53,7 @@
 * [ContainerOps](https://github.com/Huawei/containerops) - Devops编排工具
 * [Drone](https://github.com/drone/drone) - Drone是一个用Go写的基于Docker的持续交付平台
 * [Gitkube](https://github.com/hasura/gitkube) - Gitkube是一个使用git push在Kubernetes上构建和部署Docker镜像的工具
+* [GitLab](https://github.com/gitlabhq/gitlabhq) - Gitlab, 第一款实现了完整的Devops生命周期的应用
 
 ## 数据库
 * [sharding-jdbc](https://github.com/shardingjdbc/sharding-jdbc) - 开源的分布式数据库中间件解决方案。它在Java的JDBC层以对业务应用零侵入的方式额外提供数据分片, 读写分离, 柔性事务和分布式治理能力。并在其基础上提供封装了MySQL协议的服务端版本, 用于完成对异构语言的支持
