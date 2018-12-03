@@ -135,7 +135,7 @@
 
 ## 安全&合规
 * [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
-* [knox](https://github.com/pinterest/knox) - know用于管理其他服务中使用到的秘钥相关信息
+* [Knox](https://github.com/pinterest/knox) - Knox用于管理其他服务中使用到的秘钥相关信息
 
 ## 监控
 * [prometheus](https://github.com/prometheus/prometheus) - CNCF项目, 用于监控其他系统或服务. 它以给定的时间间隔从目标收集指标，根据规则进行评估，显示结果，如果达到某些监控条件, 还可以触发警报
