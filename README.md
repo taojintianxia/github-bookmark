@@ -68,6 +68,7 @@
 * [Cassandra](https://github.com/apache/cassandra) - Apache Cassandra是一套开源分布式NoSQL数据库系统。它最初由Facebook开发，用于储存收件箱等简单格式数据，集Google BigTable的数据模型与Amazon Dynamo的完全分布式的架构于一身。Facebook于2008将 Cassandra 开源，此后，由于Cassandra良好的可扩放性，被Digg、Twitter等知名Web 2.0网站所采纳，成为了一种流行的分布式结构化数据存储方案
 * [Couchbase](https://github.com/couchbase/manifest) - 为Web时代而生的开源数据库
 * [CrateDB](https://github.com/crate/crate) - CrateDB是一个分布式SQL数据库，可以轻松实时存储和分析大量机器数据
+* [Druid](https://github.com/apache/incubator-druid) - Apache Druid(孵化中)是一个用于事件驱动数据的高性能列簇数据库
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
