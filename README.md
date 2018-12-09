@@ -88,6 +88,7 @@
 * [CloudEvents](https://github.com/cloudevents/spec) - CloudEvents是一项新的开放规范，用于对事件数据提供一致的描述标准. 该开放规范由 CNCF下设的 无服务器工作组（Serverless Working Group）提出，且CNCF已与多家云服务和云提供商建立了合作伙伴关系
 * [Flink](https://github.com/apache/flink) - Apache Flink是一个开源流处理框架，具有强大的流和批处理功能
 * [Open Messaging](https://github.com/openmessaging/openmessaging-java) - OpenMessaging, 目的在于建立行业指南并且为消息传递，流媒体规范，为财务，电子商务，物联网和大数据领域提供通用框架. 设计原则是分布式异构环境中面向云，简单，灵活和独立于语言的原则. 符合这些规范将有可能在所有主要平台和操作系统上开发异构消息传递应用程序
+* [Pachyderm](https://github.com/pachyderm/pachyderm) - 数据版本控制，数据管道和数据沿袭工具
 
 ## 应用定义&镜像构建
 * [Helm](https://github.com/helm/helm) - 一个Kubernetes包管理器, CNCF项目
