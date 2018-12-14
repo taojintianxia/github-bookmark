@@ -56,6 +56,7 @@
 * [GitLab](https://github.com/gitlabhq/gitlabhq) - Gitlab, 第一款实现了完整的Devops生命周期的应用
 * [GoCD](https://github.com/gocd/gocd) - 持续交付的server, GoCD可帮助您自动化和简化构建测试 - 发布周期，从而无忧无虑地持续交付产品
 * [Habitus](https://github.com/cloud66-oss/habitus) - Habitus为Docker构建添加了工作流, 这意味着您可以基于工作流创建一系列构建，并生成最终的Docker镜像
+* [Jenkins](https://github.com/jenkinsci/jenkins) - 最流行的CI/CD工具, 有上千种插件支持, 几乎可以支持任何自动化
 
 ## 数据库
 * [sharding-jdbc](https://github.com/shardingjdbc/sharding-jdbc) - 开源的分布式数据库中间件解决方案。它在Java的JDBC层以对业务应用零侵入的方式额外提供数据分片, 读写分离, 柔性事务和分布式治理能力。并在其基础上提供封装了MySQL协议的服务端版本, 用于完成对异构语言的支持
