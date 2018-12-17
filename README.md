@@ -212,6 +212,7 @@
 * [java-nio-zh](https://github.com/avenwu/java-nio-zh) - 汉化的Java NIO教程
 * [istio中文文档](https://github.com/doczhcn/istio) - Istio官方文档中文版
 * [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - 包含多语言(包含中文)版本的GO教程
+* [Netty In Action 中文版](https://github.com/ReactivePlatform/netty-in-action-cn) - Netty In Action中文版
 
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
