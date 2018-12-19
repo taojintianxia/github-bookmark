@@ -44,7 +44,7 @@
 * [fabric8](https://github.com/fabric8io/fabric8) - 基于Docker, Kubernetes and Jenkins的微服务平台
 
 ## 持续集成&交付
-* [skaffold](https://github.com/GoogleContainerTools/skaffo) - Google出品的一款命令行工具, 用于促进Kubernetes应用程序的持续开发
+* [skaffold](https://github.com/GoogleContainerTools/skaffold) - Google出品的一款命令行工具, 用于促进Kubernetes应用程序的持续开发
 * [travis](https://github.com/travis-ci/travis-ci) - 针对github上项目的免费的持续集成平台
 * [Argo](https://github.com/argoproj/argo) - 用于Kubernetes的容器原生的工作流引擎
 * [Brigade](https://github.com/azure/brigade) - 基于事件的Kubernetes脚本
