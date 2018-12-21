@@ -59,6 +59,7 @@
 * [Jenkins](https://github.com/jenkinsci/jenkins) - 最流行的CI/CD工具, 有上千种插件支持, 几乎可以支持任何自动化
 * [JenkinsX](https://github.com/jenkins-x/jx) - Jenkins X使用Jenkins，Knative Build，Prow，Skaffold和Helm为Kubernetes提供自动CI + CD，并提供Pull Request的预览环境
 * [Spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker是一个开源的，Multi-Cloud的持续交付平台，以快速且高可用的方式发布软件
+* [Flux](https://github.com/weaveworks/flux) - 当在Continuous Delivery管道末端用作部署工具时，Flux最有用. Flux将确保您的新容器映像和配置更改传播到集群
 
 ## 数据库
 * [sharding-jdbc](https://github.com/shardingjdbc/sharding-jdbc) - 开源的分布式数据库中间件解决方案。它在Java的JDBC层以对业务应用零侵入的方式额外提供数据分片, 读写分离, 柔性事务和分布式治理能力。并在其基础上提供封装了MySQL协议的服务端版本, 用于完成对异构语言的支持
