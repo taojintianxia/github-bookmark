@@ -205,6 +205,8 @@
 * [SpringCloudBook](https://github.com/dyc87112/SpringCloudBook) - Spring Cloud微服务实战
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Java实现的各种设计模式
 * [architecture.wechat-tencent](https://github.com/davideuler/architecture.wechat-tencent) - 互联网公司架构: 微信技术架构,  腾讯技术架构
+* [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
+* [advanced-java](https://github.com/doocs/advanced-java) - 互联网 Java 工程师进阶知识完全扫盲
 * [gopl-zh](https://github.com/golang-china/gopl-zh) - Go语言圣经中文版
 * [prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 安装, 基础监控, 常用 exporter, 性能优化和大量实战经验
 
@@ -233,7 +235,6 @@
 * [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - 优秀的k8s资料集
 * [cloud-native-slides-share](https://github.com/rootsongjc/cloud-native-slides-share) - 收集了大量的cloud native相关的大会资料,开源书籍以及类似信息
 * [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IDEA教程
-* [skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 * [tenant-point](https://github.com/soulteary/tenant-point) - 租房要点, 适用于北上广深杭
 * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 高效学习英语
 * [lianjia-beike-spider](https://github.com/jumper2014/lianjia-beike-spider) - 主要城市的房价爬虫
