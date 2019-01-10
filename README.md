@@ -80,6 +80,7 @@
 * [FoundationDB](https://github.com/apple/foundationdb) - FoundationDB是一个分布式数据库，旨在处理跨商用服务器群集的大量结构化数据. 它将数据组织为有序的键值存储，并为所有操作使用ACID事务。它特别适用于读/写工作负载，但对写入密集型工作负载也具有出色的性能。用户使用API​​语言绑定与数据库交互
 * [Hadoop](https://github.com/apache/hadoop) - Apache Hadoop使用简单的编程模型跨计算机集群分布式处理大型数据集
 * [Hazelcast](https://github.com/hazelcast/hazelcast) - 企业级的开源框架, 是一款功能丰富且对开发人员友好的内存数据网格解决方案
+* [Infinispan](https://github.com/infinispan/infinispan) - 一个开源数据网格平台和高度可扩展的NoSQL云数据存储
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
