@@ -152,6 +152,7 @@
 * [mgmt](https://github.com/purpleidea/mgmt) - 号称下一代的配置管理平台
 * [QConf](https://github.com/Qihoo360/QConf) - 奇虎的分布式配置管理平台
 * [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心, 能够集中化管理应用不同环境、不同集群的配置, 配置修改后能够实时推送到应用端, 并且具备规范的权限、流程治理等特性, 适用于微服务配置管理场景
+* [BOSH](https://github.com/cloudfoundry/bosh) - Bosh是一款用于发布, 部署, 生命周期管理以及监控的开源工具
 
 ## 安全&合规
 * [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
