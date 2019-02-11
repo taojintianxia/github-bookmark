@@ -82,7 +82,8 @@
 * [Hadoop](https://github.com/apache/hadoop) - Apache Hadoop使用简单的编程模型跨计算机集群分布式处理大型数据集
 * [Hazelcast](https://github.com/hazelcast/hazelcast) - 企业级的开源框架, 是一款功能丰富且对开发人员友好的内存数据网格解决方案
 * [Infinispan](https://github.com/infinispan/infinispan) - 一个开源数据网格平台和高度可扩展的NoSQL云数据存储
-* [MariaDB](https://github.com/MariaDB/server)MariaDB server是社区开发的MySQL server的分支,由原始MySQL团队的核心成员发起
+* [MariaDB](https://github.com/MariaDB/server) - MariaDB server是社区开发的MySQL server的分支,由原始MySQL团队的核心成员发起
+* [Fescar](https://github.com/alibaba/fescar) - 阿里出品的分布式事务解决方案，具有高性能和易于使用的微服务架构
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
