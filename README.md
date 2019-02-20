@@ -155,6 +155,7 @@
 * [QConf](https://github.com/Qihoo360/QConf) - 奇虎的分布式配置管理平台
 * [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心, 能够集中化管理应用不同环境、不同集群的配置, 配置修改后能够实时推送到应用端, 并且具备规范的权限、流程治理等特性, 适用于微服务配置管理场景
 * [BOSH](https://github.com/cloudfoundry/bosh) - Bosh是一款用于发布, 部署, 生命周期管理以及监控的开源工具
+* [Portainer](https://github.com/portainer/portainer) - Portainer是一个轻量级管理UI，允许您轻松管理不同的Docker环境（Docker主机或Swarm集群）
 
 ## 安全&合规
 * [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
@@ -266,6 +267,7 @@
 * [今日头条技术博客](https://techblog.toutiao.com/) - 今日头条技术博客
 * [developerworks](https://www.ibm.com/developerworks/cn/) - IBM developerworks
 * [伪架构师](https://blog.fleeto.us/) - 崔秀龙的博客
+* [芋道源码](http://www.iocoder.cn/) - 作者通过阅读大量源码拆解, 分析各种常见框架
 
 ## 游戏
 * [RetroArch](https://github.com/libretro/RetroArch) - 跨平台游戏模拟器
