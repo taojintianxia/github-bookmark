@@ -156,6 +156,7 @@
 * [apollo](https://github.com/ctripcorp/apollo) - 携程框架部门研发的分布式配置中心, 能够集中化管理应用不同环境、不同集群的配置, 配置修改后能够实时推送到应用端, 并且具备规范的权限、流程治理等特性, 适用于微服务配置管理场景
 * [BOSH](https://github.com/cloudfoundry/bosh) - Bosh是一款用于发布, 部署, 生命周期管理以及监控的开源工具
 * [Portainer](https://github.com/portainer/portainer) - Portainer是一个轻量级管理UI，允许您轻松管理不同的Docker环境（Docker主机或Swarm集群）
+* [confd](https://github.com/kelseyhightower/confd) - confd是一个轻量级的配置管理工具, 通过读取存储在etcd,consul,redis等的数据来保持本地配置文件最新
 
 ## 安全&合规
 * [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
@@ -196,7 +197,6 @@
 * [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Adobe开源的编程字体
 * [antlr4](https://github.com/antlr/antlr4) - ANTLR是一个功能强大的解析器生成器,用于读取,处理,执行, 转换结构化文本或二进制文件
 * [etcdkeeper](https://github.com/evildecay/etcdkeeper) - 一款etcd的web ui工具, 支持etcd v3
-* [confd](https://github.com/kelseyhightower/confd) - confd是一个轻量级的配置管理工具, 通过读取存储在etcd,consul,redis等的数据来保持本地配置文件最新
 
 ## 相关教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
