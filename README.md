@@ -225,6 +225,7 @@
 * [advanced-java](https://github.com/doocs/advanced-java) - 互联网 Java 工程师进阶知识完全扫盲
 * [gopl-zh](https://github.com/golang-china/gopl-zh) - Go语言圣经中文版
 * [prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 安装, 基础监控, 常用 exporter, 性能优化和大量实战经验
+* [和我一步步部署 kubernetes 集群](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 本系列文档介绍使用二进制部署最新 kubernetes v1.10.4 集群的所有步骤，而不是使用 kubeadm 等自动化方式来部署集群
 
 ## 文档汉化
 * [kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh/) - Kafka 中文文档
