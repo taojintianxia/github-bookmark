@@ -229,6 +229,7 @@
 * [gopl-zh](https://github.com/golang-china/gopl-zh) - Go语言圣经中文版
 * [prometheus_practice](https://github.com/songjiayang/prometheus_practice) - 包括 Prometheus 安装, 基础监控, 常用 exporter, 性能优化和大量实战经验
 * [和我一步步部署 kubernetes 集群](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 本系列文档介绍使用二进制部署最新 kubernetes v1.10.4 集群的所有步骤，而不是使用 kubeadm 等自动化方式来部署集群
+* [Go四十二章经](https://github.com/ffhelicopter/Go42) - 作者前言 : 纯粹是因为开发过程中碰到过的一些问题，踩到过的一些坑，感觉在Go语言学习使用过程中，有必要深刻理解这门语言的核心思维、清晰掌握语言的细节规范以及反复琢磨标准包代码设计模式，于是才有了这本书
 
 ## 文档汉化
 * [kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh/) - Kafka 中文文档
