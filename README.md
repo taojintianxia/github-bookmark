@@ -84,6 +84,7 @@
 * [Infinispan](https://github.com/infinispan/infinispan) - 一个开源数据网格平台和高度可扩展的NoSQL云数据存储
 * [MariaDB](https://github.com/MariaDB/server) - MariaDB server是社区开发的MySQL server的分支,由原始MySQL团队的核心成员发起
 * [Fescar](https://github.com/alibaba/fescar) - 阿里出品的分布式事务解决方案，具有高性能和易于使用的微服务架构
+* [MongoDB](https://github.com/mongodb/mongo) - 一个文档数据库, 由C++撰写而成
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
