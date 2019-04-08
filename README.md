@@ -174,6 +174,7 @@
 
 ## 测试
 * [selenium](https://github.com/SeleniumHQ/selenium) - 自动化浏览器测试框架
+* [mockito](https://github.com/mockito/mockito) - Java体系中用于单元测试的最受欢迎的Mocking工具
 
 ## 混沌工程
 * [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - 为社区所需的各种形式的混沌工程工具提供免费，开放和社区驱动的工具包和API
