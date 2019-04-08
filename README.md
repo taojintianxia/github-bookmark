@@ -87,6 +87,7 @@
 * [MongoDB](https://github.com/mongodb/mongo) - 一个文档数据库, 由C++撰写而成
 * [MySQL](https://github.com/mysql/mysql-server) - 世界上最流行的开源数据库
 * [Neo4j](https://github.com/neo4j/neo4j) - 高性能的图形数据库，具有成熟和强大的数据库所需的所有功能，如友好的查询语言和ACID事务
+* [noms](https://github.com/attic-labs/noms) - 一款灵感来自于Git的去中心化的数据库
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
