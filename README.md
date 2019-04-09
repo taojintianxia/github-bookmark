@@ -207,6 +207,7 @@
 * [boot2docker](https://github.com/boot2docker/boot2docker) - Boot2Docker是一个轻量级Linux发行版，专门用于运行Docker容器。它可以完全在RAM中运行，下载约45MB并启动速度很快
 * [FiraCode](https://github.com/tonsky/FiraCode) - 适合编程的等宽开源字体, 有retina版本
 * [error-prone](https://github.com/google/error-prone) - Google出品的一款Java静态分析工具, 可以在编译时捕获常见错误
+* [Collabobot](https://github.com/AlibabaDR/Collabobot) - Github机器人, 自动标签管理，自动问题翻译，自动周报等
 
 ## 相关教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
