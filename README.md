@@ -132,7 +132,7 @@
 * [zookeeper](https://github.com/apache/zookeeper) apache旗下的分布式服务协调框架
 * [etcd](https://github.com/etcd-io/etcd) 一个可依赖的分布式key-value存储系统, 用于分布式环境下保存关键数据
 * [Consul](https://github.com/hashicorp/consul) - Consul是一种服务发现和配置工具。 Consul具有分布式，高可用性和极高的可扩展性
-* [Nacos](https://github.com/alibaba/nacos) - 阿里出品的一款易于使用的动态服务发现, 配置和服务管理平台, 用于构建云本机应用程序。
+* [Nacos](https://github.com/alibaba/nacos) - 阿里出品的一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台
 
 ## 服务代理
 * [envoy](https://github.com/envoyproxy/envoy) - Envoy是一个开源服务代理, 专为云应用而设计
