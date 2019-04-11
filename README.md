@@ -90,6 +90,7 @@
 * [noms](https://github.com/attic-labs/noms) - 一款灵感来自于Git的去中心化的数据库
 * [OrientDB](https://github.com/orientechnologies/orientdb) - OrientDB是最通用的DBMS，在一个多模型产品中支持图形，文档，反应，全文，地理空间和键值模型。 OrientDB可以运行分布式（Multi-Master），支持SQL，ACID事务，全文索引和反应查询
 * [Percona](https://github.com/percona/percona-server) - Percona Server是MySQL 8.0的一个分支，带来更高的性能， 可靠性和更多功能
+* [Pilosa](https://github.com/pilosa/pilosa) - 分布式位图索引，可以显著加速跨多个海量数据集的查询
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
