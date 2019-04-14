@@ -274,6 +274,7 @@
 * [tenant-point](https://github.com/soulteary/tenant-point) - 租房要点, 适用于北上广深杭
 * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 高效学习英语
 * [lianjia-beike-spider](https://github.com/jumper2014/lianjia-beike-spider) - 主要城市的房价爬虫
+* [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - 中文文案排版指南
 
 ## 优秀blog
 * [TiDB博客](https://pingcap.com/blog-cn/) - TiDB官网的博客
