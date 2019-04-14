@@ -92,6 +92,7 @@
 * [Percona](https://github.com/percona/percona-server) - Percona Server是MySQL 8.0的一个分支，带来更高的性能， 可靠性和更多功能
 * [Pilosa](https://github.com/pilosa/pilosa) - 分布式位图索引，可以显著加速跨多个海量数据集的查询
 * [PostgreSQL](https://github.com/postgres/postgres) - PostgreSQL是一个功能强大的开源对象关系数据库系统，经过30多年的积极开发，在可靠性，功能稳健性和性能方面赢得了良好的声誉
+* [Presto](https://github.com/prestosql/presto) - Presto是一个用于大数据的分布式SQL查询引擎
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
