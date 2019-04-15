@@ -276,6 +276,7 @@
 * [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 高效学习英语
 * [lianjia-beike-spider](https://github.com/jumper2014/lianjia-beike-spider) - 主要城市的房价爬虫
 * [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - 中文文案排版指南
+* [xg2xg](https://github.com/jhuangtw-dev/xg2xg) - 前 google 员工整理的 google 技术栈
 
 ## 优秀blog
 * [TiDB博客](https://pingcap.com/blog-cn/) - TiDB官网的博客
