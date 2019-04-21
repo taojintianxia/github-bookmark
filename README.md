@@ -95,6 +95,7 @@
 * [Presto](https://github.com/prestosql/presto) - Presto是一个用于大数据的分布式SQL查询引擎
 * [RethinkDB](https://github.com/rethinkdb/rethinkdb) - RethinkDB是第一个为实时应用程序构建的开源可扩容数据库，它开拓了一种新型的数据访问模型，不同于拉取改变的数据，开发人员可以控制数据库不断地将更新的查询结果实时推送到应用程序
 * [Scylla](https://github.com/scylladb/scylla) - 使用seastar框架的NoSQL数据存储，与Apache Cassandra兼容
+* [stolon](https://github.com/sorintlab/stolon) - stolon是保证PostgreSQL高可用的云原生管理器
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
