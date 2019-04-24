@@ -97,6 +97,7 @@
 * [Scylla](https://github.com/scylladb/scylla) - 使用seastar框架的NoSQL数据存储，与Apache Cassandra兼容
 * [stolon](https://github.com/sorintlab/stolon) - stolon是保证PostgreSQL高可用的云原生管理器
 * [TiDB](https://github.com/pingcap/tidb) - 国产的分布式HTAP数据库，兼容 MySQL 协议
+* [TiKV](https://github.com/tikv/tikv) - 分布式事务键值数据库，最初创建用于补充TiDB
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
