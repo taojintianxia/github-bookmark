@@ -120,6 +120,7 @@
 * [Pachyderm](https://github.com/pachyderm/pachyderm) - 数据版本控制，数据管道和数据沿袭工具
 * [Pulsar](https://github.com/apache/pulsar) - Pulsar是一个分布式pub-sub消息传递平台，具有非常灵活的消息传递模型和直观的客户端API
 * [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server) - RabbitMQ是部署最广泛的开源message broker
+* [StreamSets](https://github.com/streamsets/datacollector) - StreamSets Data Collector是一个企业级，开源，持续的大数据摄取基础架构
 
 ## 应用定义&镜像构建
 * [Helm](https://github.com/helm/helm) - 一个Kubernetes包管理器, CNCF项目
