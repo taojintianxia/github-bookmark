@@ -130,7 +130,8 @@
 * [Docker Compose](https://github.com/docker/compose) - Compose是一个用于定义和运行多容器Docker应用程序的工具。使用Compose，您可以使用Compose文件来配置应用程序的服务。然后，使用单个命令，您可以从配置中创建并启动所有服务
 * [Draft](https://github.com/azure/draft) - 一款用于开发人员在Kubernetes上创建云原生应用程序的工具
 * [Habitat](https://github.com/habitat-sh/habitat) - 可创建独立于平台的构建工件，并提供内置的部署和管理功能
-* [kaniko](https://github.com/GoogleContainerTools/kaniko) - kaniko可以在container或者k8s集群中通过Dockerfile构建镜像
+* [Kaniko](https://github.com/GoogleContainerTools/kaniko) - kaniko可以在container或者k8s集群中通过Dockerfile构建镜像
+* [KubeVirt](https://github.com/kubevirt/kubevirt) - KubeVirt是Kubernetes的虚拟机管理插件。目的是为Kubernetes提供虚拟化解决方案的共同基础
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
