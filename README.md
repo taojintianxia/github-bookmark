@@ -132,6 +132,7 @@
 * [Habitat](https://github.com/habitat-sh/habitat) - 可创建独立于平台的构建工件，并提供内置的部署和管理功能
 * [Kaniko](https://github.com/GoogleContainerTools/kaniko) - kaniko可以在container或者k8s集群中通过Dockerfile构建镜像
 * [KubeVirt](https://github.com/kubevirt/kubevirt) - KubeVirt是Kubernetes的虚拟机管理插件。目的是为Kubernetes提供虚拟化解决方案的共同基础
+* [virtlet](https://github.com/Mirantis/virtlet) - Virtlet是一个Kubernetes运行时服务器，允许您基于QCOW2映像运行VM工作负载
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
