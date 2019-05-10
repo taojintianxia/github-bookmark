@@ -134,6 +134,7 @@
 * [KubeVirt](https://github.com/kubevirt/kubevirt) - KubeVirt是Kubernetes的虚拟机管理插件。目的是为Kubernetes提供虚拟化解决方案的共同基础
 * [virtlet](https://github.com/Mirantis/virtlet) - Virtlet是一个Kubernetes运行时服务器，允许您基于QCOW2映像运行VM工作负载
 * [Open Service Broker API](https://github.com/openservicebrokerapi/servicebroker) - Open Service Broker API项目允许独立软件供应商，SaaS提供商和开发人员轻松地为在Cloud Foundry和Kubernetes等云原生平台上运行的工作负载提供支持服务
+* [OpenAPI](https://github.com/OAI/OpenAPI-Specification) - OpenAPI规范是OpenAPI Initiative中的社区驱动的开放规范，一个Linux基金会协作项目
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
