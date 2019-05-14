@@ -136,6 +136,7 @@
 * [Open Service Broker API](https://github.com/openservicebrokerapi/servicebroker) - Open Service Broker API项目允许独立软件供应商，SaaS提供商和开发人员轻松地为在Cloud Foundry和Kubernetes等云原生平台上运行的工作负载提供支持服务
 * [OpenAPI](https://github.com/OAI/OpenAPI-Specification) - OpenAPI规范是OpenAPI Initiative中的社区驱动的开放规范，一个Linux基金会协作项目
 * [Operator Framework](https://github.com/operator-framework/operator-sdk) - 用于构建Kubernetes应用程序的SDK。提供高级API，有用的抽象和项目脚手架
+* [Packer](https://github.com/hashicorp/packer) - Packer是一个从单一的模板文件来创建多平台一致性镜像的轻量级开源工具
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
