@@ -139,6 +139,7 @@
 * [Packer](https://github.com/hashicorp/packer) - Packer是一个从单一的模板文件来创建多平台一致性镜像的轻量级开源工具
 * [ServiceComb](https://github.com/apache/servicecomb-java-chassis) - ServiceComb Java Chassis 是一款 SDK，用于快速开发Java中的微服务，提供服务注册，服务发现，动态路由和服务管理功能
 * [Ship](https://github.com/replicatedhq/ship) - Ship使Kubernetes集群运营商能够跟踪和自动化生产等级的维护，第三方应用程序部署（适用于开源和商业支持的应用程序）
+* [Skaffold](https://github.com/GoogleContainerTools/skaffold) - Skaffold是一个命令行工具，可以促进Kubernetes应用程序的持续开发
 
 ## 搜索引擎
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
