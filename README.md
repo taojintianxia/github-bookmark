@@ -267,6 +267,7 @@
 * [Go四十二章经](https://github.com/ffhelicopter/Go42) - 作者前言 : 纯粹是因为开发过程中碰到过的一些问题，踩到过的一些坑，感觉在Go语言学习使用过程中，有必要深刻理解这门语言的核心思维、清晰掌握语言的细节规范以及反复琢磨标准包代码设计模式，于是才有了这本书
 * [Netty learning](https://github.com/code4craft/netty-learning) - Netty源码解析
 * [git-tips](https://github.com/521xueweihan/git-tips) - Git的奇技淫巧
+* [practical-programming-books](https://github.com/EZLippi/practical-programming-books) - 收录比较实用的计算机相关技术书籍，可以在短期之内入门的简单实用教程、一些技术网站以及一些写的比较好的博文
 
 ## 文档汉化
 * [kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh/) - Kafka 中文文档
