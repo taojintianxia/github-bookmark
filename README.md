@@ -99,6 +99,7 @@
 * [TiDB](https://github.com/pingcap/tidb) - 国产的分布式HTAP数据库，兼容 MySQL 协议
 * [TiKV](https://github.com/tikv/tikv) - 分布式事务键值数据库，最初创建用于补充TiDB
 * [YugaByte DB](https://github.com/YugaByte/yugabyte-db) - YugaByte DB是一款开源的高性能SQL数据库，用于构建互联网规模的全球分布式应用程序
+* [hmily](https://github.com/yu199195/hmily) - 高性能异步分布式事务TCC框架
 
 ## 缓存
 * [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具.
