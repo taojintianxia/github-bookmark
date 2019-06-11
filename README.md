@@ -303,6 +303,8 @@
 * [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - 中文文案排版指南
 * [xg2xg](https://github.com/jhuangtw-dev/xg2xg) - 前 google 员工整理的 google 技术栈
 * [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
+* [rpc-benchmark](https://github.com/hank-whu/rpc-benchmark) - java rpc benchmark, 灵感源自 https://www.techempower.com/benchmarks/
+
 
 ## 优秀blog
 * [TiDB博客](https://pingcap.com/blog-cn/) - TiDB官网的博客
