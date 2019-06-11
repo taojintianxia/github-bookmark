@@ -154,6 +154,7 @@
 * [flink](https://github.com/apache/flink) - 隶属于Apache的流处理框架,拥有强大的流处理以及批量处理的能力.
 * [quartz](https://github.com/quartz-scheduler/quartz) - 功能丰富的,几乎可以与任何java程序集成的调度框架
 * [xxl-job](https://github.com/xuxueli/xxl-job) - 分布式任务调度平台XXL-JOB
+* [Mesos](https://github.com/apache/mesos) - Apache Mesos是一个集群管理器，可跨分布式应用程序或框架提供有效的资源隔离和共享。它可以在动态共享节点池上运行Hadoop，Jenkins，Spark，Aurora和其他框架
 
 ## 服务协调&发现
 * [coredns](https://github.com/coredns/coredns) - CoreDNS(Go语言编写)是一个链接插件的DNS服务器, 每个插件都执行DNS功能。
