@@ -19,6 +19,7 @@
 - [云原生网络](#云原生网络)
 - [自动化&配置](#自动化&配置)
 - [安全&合规](#安全&合规)
+- [秘钥管理](#秘钥管理)
 - [监控](#监控)
 - [日志](#日志)
 - [测试](#测试)
@@ -155,7 +156,7 @@
 * [quartz](https://github.com/quartz-scheduler/quartz) - 功能丰富的,几乎可以与任何java程序集成的调度框架
 * [xxl-job](https://github.com/xuxueli/xxl-job) - 分布式任务调度平台XXL-JOB
 * [Mesos](https://github.com/apache/mesos) - Apache Mesos是一个集群管理器，可跨分布式应用程序或框架提供有效的资源隔离和共享。它可以在动态共享节点池上运行Hadoop，Jenkins，Spark，Aurora和其他框架
-* [Crossplane](https://github.com/crossplaneio/crossplane) - Crossplane是一个开源多云平台控制平面。它在现有托管服务的基础上引入了工作负载和资源抽象，从而实现了跨云提供商的高度工作负载可移植性
+* [ ](https://github.com/crossplaneio/crossplane) - Crossplane是一个开源多云平台控制平面。它在现有托管服务的基础上引入了工作负载和资源抽象，从而实现了跨云提供商的高度工作负载可移植性
 
 ## 服务协调&发现
 * [coredns](https://github.com/coredns/coredns) - CoreDNS(Go语言编写)是一个链接插件的DNS服务器, 每个插件都执行DNS功能。
@@ -195,6 +196,9 @@
 ## 安全&合规
 * [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
 * [Knox](https://github.com/pinterest/knox) - Knox用于管理其他服务中使用到的秘钥相关信息
+
+## 秘钥管理
+[CyberArk Conjur](https://github.com/cyberark/conjur) - Conjur为现代基础设施提供秘密管理和机器身份识别
 
 ## 监控
 * [prometheus](https://github.com/prometheus/prometheus) - CNCF项目, 用于监控其他系统或服务. 它以给定的时间间隔从目标收集指标，根据规则进行评估，显示结果，如果达到某些监控条件, 还可以触发警报
