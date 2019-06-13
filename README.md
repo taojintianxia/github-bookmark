@@ -23,6 +23,7 @@
 - [监控](#监控)
 - [日志](#日志)
 - [测试](#测试)
+- [追踪](#追踪)
 - [混沌工程](#混沌工程)
 - [插件&工具](#插件&工具)
 - [相关教程](#相关教程)
@@ -209,6 +210,9 @@
 ## 测试
 * [selenium](https://github.com/SeleniumHQ/selenium) - 自动化浏览器测试框架
 * [mockito](https://github.com/mockito/mockito) - Java体系中用于单元测试的最受欢迎的Mocking工具
+
+## 追踪
+* [Jaeger](https://github.com/jaegertracing/jaeger) - Jaeger受Dapper和OpenZipkin的启发，是Uber Technologies公开发布的分布式跟踪系统
 
 ## 混沌工程
 * [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - 为社区所需的各种形式的混沌工程工具提供免费，开放和社区驱动的工具包和API
