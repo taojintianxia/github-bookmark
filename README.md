@@ -199,7 +199,7 @@
 * [Knox](https://github.com/pinterest/knox) - Knox用于管理其他服务中使用到的秘钥相关信息
 
 ## 秘钥管理
-[CyberArk Conjur](https://github.com/cyberark/conjur) - Conjur为现代基础设施提供秘密管理和机器身份识别
+* [CyberArk Conjur](https://github.com/cyberark/conjur) - Conjur为现代基础设施提供秘密管理和机器身份识别
 
 ## 监控
 * [prometheus](https://github.com/prometheus/prometheus) - CNCF项目, 用于监控其他系统或服务. 它以给定的时间间隔从目标收集指标，根据规则进行评估，显示结果，如果达到某些监控条件, 还可以触发警报
