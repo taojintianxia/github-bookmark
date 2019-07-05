@@ -168,6 +168,7 @@
 
 ## 服务代理
 * [envoy](https://github.com/envoyproxy/envoy) - Envoy是一个开源服务代理, 专为云应用而设计
+* [HAProxy](https://github.com/haproxy/haproxy) - 可靠，高性能的TCP / HTTP负载均衡器
 
 ## API网关
 * [3scale](https://github.com/3scale/apicast) - APIcast是一个建立在NGINX之上的API网关. 它是Red Hat 3scale API管理平台的一部分
