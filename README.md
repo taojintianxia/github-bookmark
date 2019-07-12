@@ -209,6 +209,7 @@
 ## 日志
 * [log4j](https://github.com/apache/log4j) - apache旗下的老牌日志工具
 * [Fluentd](https://github.com/fluent/fluentd) - Fluentd从各种数据源收集事件并将其写入文件，RDBMS，NoSQL，IaaS，SaaS，Hadoop等
+* [Loki](https://github.com/grafana/loki) - Loki是一个水平可扩展，高可用性，多租户的日志聚合系统，灵感来自Prometheus
 
 ## 测试
 * [selenium](https://github.com/SeleniumHQ/selenium) - 自动化浏览器测试框架
