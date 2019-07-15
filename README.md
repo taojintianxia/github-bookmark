@@ -215,9 +215,7 @@
 * [selenium](https://github.com/SeleniumHQ/selenium) - 自动化浏览器测试框架
 * [mockito](https://github.com/mockito/mockito) - Java体系中用于单元测试的最受欢迎的Mocking工具
 * [Graylog](https://github.com/Graylog2/graylog2-server) - Graylog旨在实现开放标准，可以无缝地收集，增强，存储和分析日志数据
-* [Logstash](https://github.com/elastic/logstash) - 传输和处理您的日志，事件或其他数据
-
-
+* [Logstash](https://github.com/elastic/logstash) - Logstash是一个开源的服务器端数据处理管道，它同时从多个源中提取数据，对其进行转换，然后将其发送到您最喜欢的“存储”之中
 
 ## 追踪
 * [Jaeger](https://github.com/jaegertracing/jaeger) - Jaeger受Dapper和OpenZipkin的启发，是Uber Technologies公开发布的分布式跟踪系统
