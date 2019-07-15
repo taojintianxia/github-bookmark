@@ -214,6 +214,9 @@
 ## 测试
 * [selenium](https://github.com/SeleniumHQ/selenium) - 自动化浏览器测试框架
 * [mockito](https://github.com/mockito/mockito) - Java体系中用于单元测试的最受欢迎的Mocking工具
+* [Graylog](https://github.com/Graylog2/graylog2-server) - Graylog旨在实现开放标准，可以无缝地收集，增强，存储和分析日志数据。
+
+
 
 ## 追踪
 * [Jaeger](https://github.com/jaegertracing/jaeger) - Jaeger受Dapper和OpenZipkin的启发，是Uber Technologies公开发布的分布式跟踪系统
