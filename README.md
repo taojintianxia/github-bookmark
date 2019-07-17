@@ -229,6 +229,7 @@
 * [guava](https://github.com/google/guava) - google出品的非常好用的Java工具包
 * [netty](https://github.com/netty/netty) - 事件驱动的支持异步的网络框架
 * [hystrix](https://github.com/Netflix/Hystrix) - Netflix出品的熔断器, 目前已停止更新
+* [Sentinel](https://github.com/alibaba/Sentinel) - (轻量级的流量控制、熔断降级 Java 库
 * [resilience4j](https://github.com/resilience4j/resilience4j) - 轻量级的熔断器, 设计上受到Hystrix的启发, 但专为Java 8和函数式编程而设计
 * [uid-generator](https://github.com/baidu/uid-generator) - 百度出品的基于snowflake的唯一Id生成器
 * [fastjson](https://github.com/alibaba/fastjson) - 阿里出品的解析/生成JSON的java框架
