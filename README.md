@@ -289,7 +289,7 @@
 * [Netty learning](https://github.com/code4craft/netty-learning) - Netty源码解析
 * [git-tips](https://github.com/521xueweihan/git-tips) - Git的奇技淫巧
 * [practical-programming-books](https://github.com/EZLippi/practical-programming-books) - 收录比较实用的计算机相关技术书籍，可以在短期之内入门的简单实用教程、一些技术网站以及一些写的比较好的博文
-* [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，暂时命名为《玩转 GO》
+* [what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 讲解了当 k8s 运行的时候发生了什么
 
 ## 文档汉化
 * [kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh/) - Kafka 中文文档
@@ -299,6 +299,7 @@
 * [istio中文文档](https://github.com/doczhcn/istio) - Istio官方文档中文版
 * [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - 包含多语言(包含中文)版本的GO教程
 * [Netty In Action 中文版](https://github.com/ReactivePlatform/netty-in-action-cn) - Netty In Action中文版
+* [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，暂时命名为《玩转 GO》
 
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
