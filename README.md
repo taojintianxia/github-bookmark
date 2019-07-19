@@ -125,6 +125,7 @@
 * [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server) - RabbitMQ是部署最广泛的开源message broker
 * [StreamSets](https://github.com/streamsets/datacollector) - StreamSets Data Collector是一个企业级，开源，持续的大数据摄取基础架构
 * [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Strimzi可以基于各种部署配置运行在Kubernetes或OpenShift上的Kafka集群
+* [Debezium](https://github.com/debezium/debezium) - Debezium为捕获改变数据，提供了一个低延迟的流式平台
 
 ## 应用定义&镜像构建
 * [Helm](https://github.com/helm/helm) - 一个Kubernetes包管理器, CNCF项目
