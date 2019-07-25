@@ -292,6 +292,7 @@
 * [git-tips](https://github.com/521xueweihan/git-tips) - Git的奇技淫巧
 * [practical-programming-books](https://github.com/EZLippi/practical-programming-books) - 收录比较实用的计算机相关技术书籍，可以在短期之内入门的简单实用教程、一些技术网站以及一些写的比较好的博文
 * [what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 讲解了当 k8s 运行的时候发生了什么
+* [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) - 大数据成神之路
 
 ## 文档汉化
 * [kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh/) - Kafka 中文文档
