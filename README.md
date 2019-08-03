@@ -222,6 +222,7 @@
 
 ## 追踪
 * [Jaeger](https://github.com/jaegertracing/jaeger) - Jaeger受Dapper和OpenZipkin的启发，是Uber Technologies公开发布的分布式跟踪系统
+* [OpenTracing](https://github.com/opentracing/opentracing-go) - OpenTracing由API规范，已实现规范的框架和库以及项目文档组成
 
 ## 混沌工程
 * [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - 为社区所需的各种形式的混沌工程工具提供免费，开放和社区驱动的工具包和API
