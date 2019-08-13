@@ -229,6 +229,7 @@
 * [SkyWalking](https://github.com/apache/skywalking) - 分布式系统下的 APM 工具（Application performance monitor），专为微服务，云原生和基于容器（Docker，K8s，Mesos）架构而设计。
 * [SOFATracer](https://github.com/sofastack/sofa-tracer) - SOFATracer 是一个用于分布式系统调用跟踪的组件，通过统一的 traceId 将调用链路中的各种网络调用情况以日志的方式记录下来，以达到透视化网络调用的目的。这些日志可用于故障的快速发现，服务治理等。
 * [spring-cloud-sleuth](https://github.com/spring-cloud/spring-cloud-sleuth) - Spring Cloud Sleuth是Spring Cloud的分布式跟踪工具。它借鉴了Dapper，Zipkin和HTrace。
+* [Zipkin](https://github.com/openzipkin/zipkin) - Zipkin是一种分布式跟踪系统。它有助于收集解决服务体系结构中的延迟问题所需的计时数据。功能包括收集和查找此类数据
 
 ## 混沌工程
 * [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - 为社区所需的各种形式的混沌工程工具提供免费，开放和社区驱动的工具包和API
