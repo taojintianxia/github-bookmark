@@ -232,7 +232,7 @@
 * [Zipkin](https://github.com/openzipkin/zipkin) - Zipkin是一种分布式跟踪系统。它有助于收集解决服务体系结构中的延迟问题所需的计时数据。功能包括收集和查找此类数据
 
 ## 混沌工程
-* [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - 为社区所需的各种形式的混沌工程工具提供免费，开放和社区驱动的工具包和API
+* [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) - 为社区所需的各种形式的混沌工程工具提供免费，开放和社区驱动的工具包和API
 * [chaosblade](https://github.com/chaosblade-io/chaosblade) - 一款简单易用、功能强大的混沌实验注入工具
 
 ## 插件&工具
