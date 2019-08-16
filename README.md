@@ -368,4 +368,3 @@
 * [ePSXe](http://www.epsxe.com/) - PS模拟器
 * [PCSX2](https://pcsx2.net/) - PS2模拟器
 * [RPCS3](https://github.com/RPCS3/rpcs3) - PS3模拟器
-* [PCSX4](https://github.com/pcsx4) - PS4模拟器	
