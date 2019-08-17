@@ -63,7 +63,7 @@
 * [Spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker是一个开源的，Multi-Cloud的持续交付平台，以快速且高可用的方式发布软件
 * [Flux](https://github.com/weaveworks/flux) - 当在Continuous Delivery管道末端用作部署工具时，Flux最有用. Flux将确保您的新容器映像和配置更改传播到集群
 * [Wercker](https://github.com/wercker/wercker) - wercker是为wercker.com提供所有构建和部署作业的命令行工具，它在Docker的帮助下在本地计算机上运行
-* [Zuul CI](https://github.com/openstack-infra/zuul) - Zuul是一个推动持续集成，交付和部署系统的计划，重点关注project gating和相互关联的项目, 此项目非Netflix的zuul
+* [Zuul CI](https://github.com/openstack-infra/zuul) - Zuul推动持续集成，交付和系统部署，重点关注project gating和相互关联的项目, 此项目非Netflix的zuul
 
 ## 数据库
 * [sharding-sphere](https://github.com/sharding-sphere/sharding-sphere) - 开源的分布式数据库中间件解决方案。它在Java的JDBC层以对业务应用零侵入的方式额外提供数据分片, 读写分离, 柔性事务和分布式治理能力。并在其基础上提供封装了MySQL协议的服务端版本, 用于完成对异构语言的支持
