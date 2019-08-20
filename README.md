@@ -237,6 +237,7 @@
 * [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) - 为社区所需的各种形式的混沌工程工具提供免费，开放和社区驱动的工具包和API
 * [Chaosblade](https://github.com/chaosblade-io/chaosblade) - 一款简单易用、功能强大的混沌实验注入工具
 * [chaoskube](https://github.com/linki/chaoskube) - chaoskube定期随机性的杀掉K8s集群中的pod
+* [Litmus](https://github.com/litmuschaos/litmus) - Litmus是Kubernetes的e2e测试和混沌工程框架，专注于 stateful workloads
 
 ## 插件&工具
 * [guava](https://github.com/google/guava) - google出品的非常好用的Java工具包
