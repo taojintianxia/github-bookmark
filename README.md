@@ -271,6 +271,7 @@
 * [Collabobot](https://github.com/AlibabaDR/Collabobot) - Github机器人, 自动标签管理，自动问题翻译，自动周报等
 * [MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的网站工具集合
 * [solo](https://github.com/b3log/solo) - 一款小而美的博客系统，专为程序员设计
+* [JustAuth](https://github.com/justauth/JustAuth) - 史上最全的整合第三方登录的开源库
 
 ## 相关教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
