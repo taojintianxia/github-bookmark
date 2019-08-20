@@ -238,7 +238,7 @@
 * [Chaosblade](https://github.com/chaosblade-io/chaosblade) - 一款简单易用、功能强大的混沌实验注入工具
 * [chaoskube](https://github.com/linki/chaoskube) - chaoskube定期随机性的杀掉K8s集群中的pod
 * [Litmus](https://github.com/litmuschaos/litmus) - Litmus是Kubernetes的e2e测试和混沌工程框架，专注于 stateful workloads
-* [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - PowerfulSeal会为您的Kubernetes群集添加混乱，以便您可以尽早检测系统中的问题。它会杀死目标 pod 并且使虚拟机变得不稳定。遵循[混沌工程原理](http://principlesofchaos.org/)，灵感源自[Chaos Monkey](https://github.com/Netflix/chaosmonkey) 
+* [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - PowerfulSeal会为您的Kubernetes群集添加混乱，以便您可以尽早检测系统中的问题。它会杀死目标 pod 并且使虚拟机变得不稳定。遵循[混沌工程原理](http://principlesofchaos.org/)，灵感源自[Chaos Monkey](https://github.com/Netflix/chaosmonkey)
 
 ## 插件&工具
 * [guava](https://github.com/google/guava) - google出品的非常好用的Java工具包
