@@ -18,6 +18,7 @@
 - [容器](#容器)
 - [云原生网络](#云原生网络)
 - [自动化&配置](#自动化&配置)
+- [镜像托管](#镜像托管)
 - [安全&合规](#安全&合规)
 - [秘钥管理](#秘钥管理)
 - [监控](#监控)
@@ -201,6 +202,9 @@
 * [BOSH](https://github.com/cloudfoundry/bosh) - Bosh是一款用于发布, 部署, 生命周期管理以及监控的开源工具
 * [Portainer](https://github.com/portainer/portainer) - Portainer是一个轻量级管理UI，允许您轻松管理不同的Docker环境（Docker主机或Swarm集群）
 * [confd](https://github.com/kelseyhightower/confd) - confd是一个轻量级的配置管理工具, 通过读取存储在etcd,consul,redis等的数据来保持本地配置文件最新
+
+## 镜像托管
+* [Harbor](https://github.com/goharbor/harbor) - Harbor是一个开源的云原生注册中心，用于存储，签名和扫描容器映像以查找漏洞
 
 ## 安全&合规
 * [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
