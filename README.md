@@ -206,6 +206,7 @@
 ## 镜像托管
 * [Harbor](https://github.com/goharbor/harbor) - Harbor是一个开源的云原生注册中心，用于存储，签名和扫描容器映像以查找漏洞
 * [Docker Registry](https://github.com/docker/distribution) - 用于打包，发送，存储和内容交付的Docker工具集。
+* [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly是一个基于开源智能P2P的图像和文件分发系统。其目标是解决云原生场景中的所有分发问题
 
 ## 安全&合规
 * [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
