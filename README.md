@@ -182,6 +182,7 @@
 ## ServiceMesh
 * [linkerd](https://github.com/linkerd/linkerd) - Linkerd旨在透明地向所有服务间通信添加服务发现, 负载平衡, 故障处理, 检测和路由, 使应用程序变得安全可靠
 * [Consul](https://github.com/hashicorp/consul) - Consul是一种分布式，高可用性和数据中心感知解决方案，用于跨动态分布式基础架构连接和配置应用程序
+* [Istio](https://github.com/istio/istio) - Istio是一个开放平台，用于提供统一的方式来集成微服务，管理跨微服务的流量，实施策略和聚合遥测数据
 
 ## 云原生存储
 * [rook](https://github.com/rook/rook) - Rook是Kubernetes的开源云本地存储协调器，为各种存储解决方案提供平台，框架和支持，以便与云原生环境本地集成
