@@ -185,6 +185,7 @@
 * [Istio](https://github.com/istio/istio) - Istio是一个开放平台，用于提供统一的方式来集成微服务，管理跨微服务的流量，实施策略和聚合遥测数据
 * [Zuul](https://github.com/Netflix/zuul) - Zuul是一种网关服务，可提供动态路由，监控，弹性，安全性等。
 * [SuperGloo](https://github.com/solo-io/supergloo) - SuperGloo，一个大规模管理和编排服务网格的开源项目
+* [Vamp](https://github.com/magneticio/vamp) - Vamp 的核心功能是平台无关的微服务DSL，简单的 A-B 测试/ canary releasing 所有内容以及深度和可扩展的指标引擎，可监控所有内容并直接反馈到您的服务中。
 
 ## 云原生存储
 * [rook](https://github.com/rook/rook) - Rook是Kubernetes的开源云本地存储协调器，为各种存储解决方案提供平台，框架和支持，以便与云原生环境本地集成
