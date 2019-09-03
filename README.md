@@ -198,6 +198,7 @@
 * [Cilium](https://github.com/cilium/cilium) - Cilium用于在应用程序容器或进程等应用程序工作负载之间提供并透明地保护网络连接和负载平衡
 
 ## 自动化&配置
+* [Airship](https://github.com/airshipit/treasuremap) - Airship 是一组组件，它们通过一系列描述性的 yaml 文档, 来配置和部署和维护Kubernetes环境。
 * [ansible](https://github.com/ansible/ansible) - IT自动化的平台, 使系统跟程序更加容易部署
 * [disconf](https://github.com/knightliao/disconf) - 分布式配置管理平台
 * [mgmt](https://github.com/purpleidea/mgmt) - 号称下一代的配置管理平台
