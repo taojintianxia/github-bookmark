@@ -207,6 +207,7 @@
 * [BOSH](https://github.com/cloudfoundry/bosh) - Bosh是一款用于发布, 部署, 生命周期管理以及监控的开源工具
 * [Cadence Workflow](https://github.com/uber/cadence) - Cadence是一种分布式，可扩展，持久且高度可用的编排引擎，可以以可伸缩和弹性的方式执行异步长时间运行的业务逻辑。
 * [CFEngine](https://github.com/cfengine/core) - CFEngine 3是一种流行的开源配置管理系统。其主要功能是提供大规模计算机系统的自动配置和维护。
+* [Digital Rebar](https://github.com/digitalrebar/provision) - Digital Rebar Platform是一个简单而强大的Golang可执行文件，它提供了一个完整的API驱动的DHCP / PXE / TFTP配置系统。
 * [Portainer](https://github.com/portainer/portainer) - Portainer是一个轻量级管理UI，允许您轻松管理不同的Docker环境（Docker主机或Swarm集群）
 * [confd](https://github.com/kelseyhightower/confd) - confd是一个轻量级的配置管理工具, 通过读取存储在etcd,consul,redis等的数据来保持本地配置文件最新
 
