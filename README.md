@@ -291,6 +291,7 @@
 * [solo](https://github.com/b3log/solo) - 一款小而美的博客系统，专为程序员设计
 * [JustAuth](https://github.com/justauth/JustAuth) - 史上最全的整合第三方登录的开源库
 * [Bistoury](https://github.com/qunarcorp/bistoury) - Bistoury 是去哪儿网开源的一个对应用透明，无侵入的java应用诊断工具，用于提升开发人员的诊断效率和能力。
+* [wrk](https://github.com/wg/wrk) - 一款 HTTP 基准测试工具
 
 ## 相关教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
