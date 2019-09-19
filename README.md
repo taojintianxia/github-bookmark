@@ -175,6 +175,7 @@
 * [HAProxy](https://github.com/haproxy/haproxy) - 可靠，高性能的TCP / HTTP负载均衡器
 * [nginx](https://github.com/nginx/nginx) - nginx [engine x]是一个HTTP和反向代理服务器，一个邮件代理服务器和一个通用的TCP / UDP代理服务器，最初由Igor Sysoev编写。
 * [OpenResty](https://github.com/openresty/openresty) - OpenResty是一个成熟的Web应用程序服务器，它捆绑了标准的nginx核心，许多第三方nginx模块以及大多数外部依赖项。
+* [traefik](https://github.com/containous/traefik) - Traefik（发音为traffic）是一种先进的HTTP反向代理和负载均衡器，可以轻松部署微服务
 
 ## API网关
 * [3scale](https://github.com/3scale/apicast) - APIcast是一个建立在NGINX之上的API网关. 它是Red Hat 3scale API管理平台的一部分
