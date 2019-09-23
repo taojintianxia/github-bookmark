@@ -348,7 +348,7 @@
 * [interview-notebook](https://github.com/CyC2018/Interview-Notebook) - 技术面试需要掌握的基础知识
 * [interviews](https://github.com/kdn251/interviews) - 找工作需要了解的基础技术
 * [2018-Java-Interview](https://github.com/xbox1994/2018-Java-Interview) - 2018年几个大厂的面试宝典
-* [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+* [interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总
 
 ## 其他资源
 * [awesome-java](https://github.com/akullpp/awesome-java) - 整理了相当多java生态圈的相关资源
