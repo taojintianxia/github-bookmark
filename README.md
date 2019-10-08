@@ -214,6 +214,7 @@
 * [Juju](https://github.com/juju/juju) - 简单，安全和稳定的devops工具。 Juju降低了复杂性，提高了生产率。专为管理当今运行在任何地方的复杂应用程序架构而设计
 * [KubeEdge](https://github.com/kubeedge/kubeedge) - KubeEdge是一个开源系统，将本机容器化的应用程序编排和设备管理扩展到Edge上的主机
 * [Kubicorn](https://github.com/kubicorn/kubicorn) - kubicorn是一个免费的开源项目，它解决了Kubernetes基础设施问题，并为用户提供了丰富的golang库以使用基础设施
+* [LinuxKit](https://github.com/linuxkit/linuxkit) - 用于为容器构建安全，便携式和小巧的操作系统的工具包
 * [Portainer](https://github.com/portainer/portainer) - Portainer是一个轻量级管理UI，允许您轻松管理不同的Docker环境（Docker主机或Swarm集群）
 * [confd](https://github.com/kelseyhightower/confd) - confd是一个轻量级的配置管理工具, 通过读取存储在etcd,consul,redis等的数据来保持本地配置文件最新
 
