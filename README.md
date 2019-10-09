@@ -268,6 +268,7 @@
 ## 插件&工具
 * [guava](https://github.com/google/guava) - google出品的非常好用的Java工具包
 * [netty](https://github.com/netty/netty) - 事件驱动的支持异步的网络框架
+* [okhttp](https://github.com/square/okhttp) - 适用于Android，Kotlin和Java的HTTP客户端
 * [hystrix](https://github.com/Netflix/Hystrix) - Netflix出品的熔断器, 目前已停止更新
 * [Sentinel](https://github.com/alibaba/Sentinel) - (轻量级的流量控制、熔断降级 Java 库
 * [resilience4j](https://github.com/resilience4j/resilience4j) - 轻量级的熔断器, 设计上受到Hystrix的启发, 但专为Java 8和函数式编程而设计
