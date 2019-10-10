@@ -395,6 +395,7 @@
 * [Tom Hombergs](https://github.com/thombergs/code-examples/tree/master/spring-boot/spring-boot-testing) - spring boot testing
 * [Matt's Blog](https://matt33.com/) - 无意中看到的一位高手的博客
 * [fangzhipeng](https://www.fangzhipeng.com) - 方志朋的博客
+* [Piotr's Blog](https://piotrminkowski.wordpress.com) - piotr的博客
 
 ## 游戏
 * [RetroArch](https://github.com/libretro/RetroArch) - 跨平台游戏模拟器
