@@ -378,7 +378,7 @@
 * [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
 * [rpc-benchmark](https://github.com/hank-whu/rpc-benchmark) - java rpc benchmark, 灵感源自 https://www.techempower.com/benchmarks/
 * [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 对开发人员有用的定律、理论、原则和模式
-
+* [golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
 
 ## 优秀blog
 * [TiDB博客](https://pingcap.com/blog-cn/) - TiDB官网的博客
