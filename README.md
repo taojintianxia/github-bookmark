@@ -219,6 +219,7 @@
 * [ManageIQ](https://github.com/ManageIQ/manageiq) - ManageIQ是一个开源管理平台，可提供企业需要的洞察力，控制力和自动化能力，以应对管理混合IT环境的挑战
 * [OpenStack](https://github.com/openstack/openstack) - OpenStack软件可控制整个数据中心的大型计算，存储和网络资源池，这些资源可通过仪表板或通过OpenStack API进行管理
 * [Pulumi](https://github.com/pulumi/pulumi) - Pulumi的 Infrastructure as Code SDK是在任何云上创建和部署使用容器，无服务器功能，托管服务和基础架构的云软件的最简单方法
+* [Puppet](https://github.com/puppetlabs/puppet) - Puppet是Linux，Unix和Windows系统的自动管理引擎，它基于集中式规范执行管理任务（例如添加用户，安装软件包和更新服务器配置）
 * [Portainer](https://github.com/portainer/portainer) - Portainer是一个轻量级管理UI，允许您轻松管理不同的Docker环境（Docker主机或Swarm集群）
 * [confd](https://github.com/kelseyhightower/confd) - confd是一个轻量级的配置管理工具, 通过读取存储在etcd,consul,redis等的数据来保持本地配置文件最新
 
