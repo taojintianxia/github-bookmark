@@ -222,6 +222,7 @@
 * [Puppet](https://github.com/puppetlabs/puppet) - Puppet是Linux，Unix和Windows系统的自动管理引擎，它基于集中式规范执行管理任务（例如添加用户，安装软件包和更新服务器配置）
 * [Rundeck](https://github.com/rundeck/rundeck) - Rundeck是自带Web控制台，命令行工具和 WebAPI 的开源自动化服务。它使您可以轻松地在一组节点上运行自动化任务
 * [SaltStack](https://github.com/saltstack/salt) - SaltStack为大规模的复杂系统管理软件, 几分钟之内即可轻松运行，可扩展性足以管理成千上万台服务器，而速度又足以在秒级内完成与其的通信
+* [StackStorm](https://github.com/stackstorm/st2) - StackStorm（又称“ IFTTT for Ops”）是事件驱动的自动化工具，用于自动修复，安全响应，故障排除，部署等
 * [Portainer](https://github.com/portainer/portainer) - Portainer是一个轻量级管理UI，允许您轻松管理不同的Docker环境（Docker主机或Swarm集群）
 * [confd](https://github.com/kelseyhightower/confd) - confd是一个轻量级的配置管理工具, 通过读取存储在etcd,consul,redis等的数据来保持本地配置文件最新
 
