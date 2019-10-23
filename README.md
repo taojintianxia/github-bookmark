@@ -354,6 +354,8 @@
 * [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - 包含多语言(包含中文)版本的GO教程
 * [Netty In Action 中文版](https://github.com/ReactivePlatform/netty-in-action-cn) - Netty In Action中文版
 * [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，暂时命名为《玩转 GO》
+* [On Java 8](https://github.com/LingCoder/OnJava8) - 《On Java 8》中文版，又名《Java编程思想》 第5版
+* [effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese/) - effective-java-3rd 中文版
 
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
