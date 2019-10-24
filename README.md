@@ -189,7 +189,8 @@
 * [Vamp](https://github.com/magneticio/vamp) - Vamp 的核心功能是平台无关的微服务DSL，简单的 A-B 测试/ canary releasing 所有内容以及深度和可扩展的指标引擎，可监控所有内容并直接反馈到您的服务中。
 
 ## 云原生存储
-* [rook](https://github.com/rook/rook) - Rook是Kubernetes的开源云本地存储协调器，为各种存储解决方案提供平台，框架和支持，以便与云原生环境本地集成
+* [Rook](https://github.com/rook/rook) - Rook是Kubernetes的开源云本地存储协调器，为各种存储解决方案提供平台，框架和支持，以便与云原生环境本地集成
+* [Alluxio](https://github.com/alluxio/alluxio) - Alluxio（以前称为Tachyon）是一个虚拟的分布式存储系统。它弥合了计算框架和存储系统之间的鸿沟，使计算应用程序可以通过公共接口连接到众多存储系统
 
 ## 容器
 * [containerd](https://github.com/containerd/containerd) - 一个开放且可靠的容器运行时
