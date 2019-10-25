@@ -191,6 +191,7 @@
 ## 云原生存储
 * [Rook](https://github.com/rook/rook) - Rook是Kubernetes的开源云本地存储协调器，为各种存储解决方案提供平台，框架和支持，以便与云原生环境本地集成
 * [Alluxio](https://github.com/alluxio/alluxio) - Alluxio（以前称为Tachyon）是一个虚拟的分布式存储系统。它弥合了计算框架和存储系统之间的鸿沟，使计算应用程序可以通过公共接口连接到众多存储系统
+* [Ceph](https://github.com/ceph/ceph) - Ceph是一个分布式对象，块和文件存储平台
 
 ## 容器
 * [containerd](https://github.com/containerd/containerd) - 一个开放且可靠的容器运行时
