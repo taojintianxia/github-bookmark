@@ -288,7 +288,9 @@
 * [protobuf](https://github.com/google/protobuf) - google出品的平台无关,语言无关的序列化工具
 * [cqengine](https://github.com/npgall/cqengine) - 可以在Java的collection中进行SQL-like查询的工具
 * [jetcache](https://github.com/alibaba/jetcache) - 阿里出品的Java缓存框架, "用起来比Spring Cache更方便"
-* [vert.x](https://github.com/eclipse/vert.x) - JVM上用于开发reactive程序的工具包
+* [RxJava](https://github.com/ReactiveX/RxJava) - RxJava是Reactive Extensions的Java VM实现：该库用于通过使用可观察的序列来组成异步和基于事件的程序
+* [Vert.x](https://github.com/eclipse/vert.x) - JVM上用于开发reactive程序的工具包
+* [Akka](https://github.com/akka/akka) - 在JVM上构建高度并发，分布式和弹性消息驱动的应用程序
 * [mapper](https://github.com/abel533/Mapper) - MyBatis 通用 Mapper
 * [tcc-transaction](https://github.com/changmingxie/tcc-transaction) - TCC型事务java实现
 * [druid](https://github.com/alibaba/druid) - 阿里出品的号称"为监控而生"的数据库连接池
