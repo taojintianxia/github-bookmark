@@ -193,6 +193,7 @@
 * [Alluxio](https://github.com/alluxio/alluxio) - Alluxio（以前称为Tachyon）是一个虚拟的分布式存储系统。它弥合了计算框架和存储系统之间的鸿沟，使计算应用程序可以通过公共接口连接到众多存储系统
 * [Ceph](https://github.com/ceph/ceph) - Ceph是一个分布式对象，块和文件存储平台
 * [ChubaoFS](https://github.com/chubaofs/chubaofs) - ChubaoFS(储宝文件系统)是为大规模容器平台设计的分布式文件系统
+* [CSI](https://github.com/container-storage-interface/spec) - Container Storage Interface，容器存储接口规范
 
 ## 容器
 * [containerd](https://github.com/containerd/containerd) - 一个开放且可靠的容器运行时
