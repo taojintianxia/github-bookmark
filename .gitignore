@@ -1,11 +1,3 @@
-# maven ignore
-target/
-!.mvn/wrapper/*
-*.war
-*.zip
-*.tar
-*.tar.gz
-
 # eclipse ignore
 .settings/
 .project
@@ -17,10 +9,6 @@ target/
 *.iml
 *.iws
 
-# vscode ignore
-.factorypath
-.vscode/
-
 # temp ignore
 *.log
 *.cache
@@ -30,9 +18,6 @@ target/
 *.vim
 tags/
 logs/
-
-# vertx ignore
-.vertx/
 
 # system ignore
 .DS_Store
