@@ -195,6 +195,7 @@
 * [ChubaoFS](https://github.com/chubaofs/chubaofs) - ChubaoFS(储宝文件系统)是为大规模容器平台设计的分布式文件系统
 * [CSI](https://github.com/container-storage-interface/spec) - Container Storage Interface，容器存储接口规范
 * [Gluster](https://github.com/gluster/glusterfs) - Gluster是一种 software defined 的分布式存储，可以扩展到几个PB。它提供了用于对象，块和文件存储的接口
+* [Longhorn](https://github.com/longhorn/longhorn) - Longhorn 是一个 Kubernetes 的分布式块存储系统
 
 ## 容器
 * [containerd](https://github.com/containerd/containerd) - 一个开放且可靠的容器运行时
