@@ -197,6 +197,7 @@
 * [Gluster](https://github.com/gluster/glusterfs) - Gluster是一种 software defined 的分布式存储，可以扩展到几个PB。它提供了用于对象，块和文件存储的接口
 * [Longhorn](https://github.com/longhorn/longhorn) - Longhorn 是一个 Kubernetes 的分布式块存储系统
 * [MinIO](https://github.com/minio/minio) - MinIO是与Amazon S3 API兼容的高性能对象存储服务器
+* [MooseFS](https://github.com/moosefs/moosefs) - MooseFS 是一个 PB 级别的开源分布式文件系统。它易于部署和维护，容错，高性能，易于扩展且兼容 POSIX。
 
 ## 容器
 * [containerd](https://github.com/containerd/containerd) - 一个开放且可靠的容器运行时
