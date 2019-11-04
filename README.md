@@ -199,6 +199,7 @@
 * [MinIO](https://github.com/minio/minio) - MinIO是与Amazon S3 API兼容的高性能对象存储服务器
 * [MooseFS](https://github.com/moosefs/moosefs) - MooseFS 是一个 PB 级别的开源分布式文件系统。它易于部署和维护，容错，高性能，易于扩展且兼容 POSIX
 * [OpenEBS](https://github.com/openebs/openebs) - 基于与原生架构构建的领先的开源容器附加存储，可以简化运行在 k8s 上的 stateful application
+* [OpenIO](https://github.com/open-io/oio-sds) - OpenIO SDS是面向大数据和AI的高性能对象存储
 
 ## 容器
 * [containerd](https://github.com/containerd/containerd) - 一个开放且可靠的容器运行时
