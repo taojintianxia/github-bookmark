@@ -323,6 +323,7 @@
 * [wrk](https://github.com/wg/wrk) - 一款 HTTP 基准测试工具
 * [common config](https://github.com/adben/config) - 一些常见工具的优化配置，zsh，idea，git 等
 * [asciinema](https://github.com/asciinema/asciinema) - 一款记录终端操作并将其分享的工具，地址在 https://asciinema.org/
+* [Katacoda](https://github.com/katacoda) - 面向软件开发人员的交互式技术学习平台（https://www.katacoda.com/）
 
 ## 相关教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
