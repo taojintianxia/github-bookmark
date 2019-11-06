@@ -201,6 +201,7 @@
 * [OpenEBS](https://github.com/openebs/openebs) - 基于与原生架构构建的领先的开源容器附加存储，可以简化运行在 k8s 上的 stateful application
 * [OpenIO](https://github.com/open-io/oio-sds) - OpenIO SDS是面向大数据和AI的高性能对象存储
 * [OpenSDS](https://github.com/opensds/opensds) - Linux基金下的一个协作项目，得到了存储用户和供应商的支持，包括Dell EMC，英特尔，华为，富士通，西部数据，沃达丰，NTT和俄勒冈州立大学
+* [Swift](https://github.com/openstack/swift) - 分布式对象存储系统，旨在从一台机器扩展到数千台服务器
 
 ## 容器
 * [containerd](https://github.com/containerd/containerd) - 一个开放且可靠的容器运行时
