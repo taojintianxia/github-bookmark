@@ -202,6 +202,7 @@
 * [OpenIO](https://github.com/open-io/oio-sds) - OpenIO SDS是面向大数据和AI的高性能对象存储
 * [OpenSDS](https://github.com/opensds/opensds) - Linux基金下的一个协作项目，得到了存储用户和供应商的支持，包括Dell EMC，英特尔，华为，富士通，西部数据，沃达丰，NTT和俄勒冈州立大学
 * [Swift](https://github.com/openstack/swift) - 分布式对象存储系统，旨在从一台机器扩展到数千台服务器
+* [Manta](https://github.com/joyent/manta) - Triton的对象存储和融合分析解决方案，基于HTTP的对象存储
 
 ## 容器
 * [containerd](https://github.com/containerd/containerd) - 一个开放且可靠的容器运行时
