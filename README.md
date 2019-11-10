@@ -204,6 +204,7 @@
 * [Swift](https://github.com/openstack/swift) - 分布式对象存储系统，旨在从一台机器扩展到数千台服务器
 * [Manta](https://github.com/joyent/manta) - Triton的对象存储和融合分析解决方案，基于HTTP的对象存储
 * [Velero](https://github.com/vmware-tanzu/velero) - Velero（以前称为Heptio Ark），可以备份和迁移Kubernetes应用程序及其持久卷
+* [Zenko](https://github.com/scality/zenko) - enko 为本地存储（使用Docker卷或Scality RING）或在公共云存储服务（如Amazon S3，Microsoft Azure Blob存储或Google Cloud Storage）中存储的数据提供统一的名称空间，访问API和搜索功能
 
 ## 容器
 * [containerd](https://github.com/containerd/containerd) - 一个开放且可靠的容器运行时
