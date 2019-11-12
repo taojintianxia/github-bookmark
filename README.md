@@ -69,7 +69,7 @@
 
 ## 数据库
 * [sharding-sphere](https://github.com/sharding-sphere/sharding-sphere) - 开源的分布式数据库中间件解决方案。它在Java的JDBC层以对业务应用零侵入的方式额外提供数据分片, 读写分离, 柔性事务和分布式治理能力。并在其基础上提供封装了MySQL协议的服务端版本, 用于完成对异构语言的支持
-* [HikariCP](https://github.com/brettwooldridge/HikariCP) - 可靠的高性能JDBC连接池, 号称"zero-overhead"生产就绪, 仅仅130Kb
+* [HikariCP](https://github.com/brettwooldridge/HikariCP) - 简单可靠的高性能JDBC连接池, 号称 "zero-overhead" 生产就绪, lib 仅仅 130Kb 左右
 * [h2database](https://github.com/h2database/h2database) - 快速的,开源的,支持JDBC API的内存数据库
 * [mycat](https://github.com/MyCATApache/Mycat-Server) - 基于阿里cobar改良的分布式数据库中间件, 官宣为一个模拟MySQL Server的超级数据库
 * [cobar](https://github.com/alibaba/cobar) - 阿里出品的支持sharding的proxy(很久没有维护了)
