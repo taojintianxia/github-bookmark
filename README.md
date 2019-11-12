@@ -21,7 +21,7 @@
 - [镜像托管](#镜像托管)
 - [安全&合规](#安全&合规)
 - [秘钥管理](#秘钥管理)
-- [监控](#监控)
+- [可观察性与分析](#可观察性与分析)
 - [日志](#日志)
 - [测试](#测试)
 - [追踪](#追踪)
@@ -256,9 +256,10 @@
 ## 秘钥管理
 * [CyberArk Conjur](https://github.com/cyberark/conjur) - Conjur为现代基础设施提供秘密管理和机器身份识别
 
-## 监控
+## 可观察性与分析
 * [prometheus](https://github.com/prometheus/prometheus) - CNCF项目, 用于监控其他系统或服务. 它以给定的时间间隔从目标收集指标，根据规则进行评估，显示结果，如果达到某些监控条件, 还可以触发警报
 * [Centreon](https://github.com/centreon/centreon) - 市场上最灵活，最强大的监控软件之一
+* [Cortex](https://github.com/cortexproject/cortex) - 用于 Prometheus 的水平可扩展，高可用，多租户的长期存储介质
 
 ## 日志
 * [log4j](https://github.com/apache/log4j) - apache旗下的老牌日志工具
