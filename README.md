@@ -260,6 +260,7 @@
 * [Prometheus](https://github.com/prometheus/prometheus) - CNCF项目, 用于监控其他系统或服务. 它以给定的时间间隔从目标收集指标，根据规则进行评估，显示结果，如果达到某些监控条件, 还可以触发警报
 * [Centreon](https://github.com/centreon/centreon) - 市面上最灵活，最强大的监控软件之一
 * [Cortex](https://github.com/cortexproject/cortex) - 用于 Prometheus 的水平可扩展，高可用，多租户的长期存储介质
+* [Falcon](https://github.com/open-falcon/falcon-plus) - 小米出品的一款企业级、高可用、可扩展的开源监控解决方案
 
 ## 日志
 * [log4j](https://github.com/apache/log4j) - apache旗下的老牌日志工具
