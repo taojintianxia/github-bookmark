@@ -263,6 +263,7 @@
 * [Falcon](https://github.com/open-falcon/falcon-plus) - 小米出品的一款企业级、高可用、可扩展的开源监控解决方案
 * [Grafana](https://github.com/grafana/grafana) - 用于Graphite，InfluxDB和Prometheus等的监视、指标分析和仪表板的工具
 * [Graphite](https://github.com/graphite-project/graphite-web) - Graphite 是一种高度可扩展的实时图形系统，可以在廉价硬件上很好地运行
+* [Icinga](https://github.com/Icinga/icinga2) - Icinga是一个监视系统，用于检查网络资源的可用性，通知用户中断并生成性能数据报告
 
 ## 日志
 * [log4j](https://github.com/apache/log4j) - apache旗下的老牌日志工具
