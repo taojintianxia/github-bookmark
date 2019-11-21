@@ -265,6 +265,7 @@
 * [Graphite](https://github.com/graphite-project/graphite-web) - Graphite 是一种高度可扩展的实时图形系统，可以在廉价硬件上很好地运行
 * [Icinga](https://github.com/Icinga/icinga2) - Icinga是一个监视系统，用于检查网络资源的可用性，通知用户中断并生成性能数据报告
 * [InfluxData](https://github.com/influxdata/influxdb) - go 编写的可扩展的数据存储，用于指标，事件和实时分析
+* [Kiali](https://github.com/kiali/kiali) - Kiali 是一个具有配置 service mesh 能力的 Istio 的可观察性控制台，它可以通过推断拓扑来帮助您了解服务网格的结构，还可以提供网格的运行状况
 
 ## 日志
 * [log4j](https://github.com/apache/log4j) - apache旗下的老牌日志工具
