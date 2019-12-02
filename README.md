@@ -268,6 +268,7 @@
 * [Kiali](https://github.com/kiali/kiali) - Kiali 是一个具有配置 service mesh 能力的 Istio 的可观察性控制台，它可以通过推断拓扑来帮助您了解服务网格的结构，还可以提供网格的运行状况
 * [Nagios](https://github.com/NagiosEnterprises/nagioscore) - Nagios是一个用 C 编写的主机/服务/网络监视程序，包含 CGI，可以通过Web界面查看当前状态，历史记录等。GNU 协议
 * [Netdata](https://github.com/netdata/netdata) - Netdata 可以针对系统或应用进行分布式、实时的性能跟健康监控
+* [NexClipper](https://github.com/NexClipper/NexClipper) - NexClipper 是一种快速简单的 Kubernetes 监控方案
 
 ## 日志
 * [log4j](https://github.com/apache/log4j) - apache旗下的老牌日志工具
