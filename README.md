@@ -270,6 +270,7 @@
 * [Netdata](https://github.com/netdata/netdata) - Netdata 可以针对系统或应用进行分布式、实时的性能跟健康监控
 * [NexClipper](https://github.com/NexClipper/NexClipper) - NexClipper 是一种快速简单的 Kubernetes 监控方案
 * [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - 致力于将 Prometheus 的展现形式变为一种标准
+* [OpenTSDB](https://github.com/OpenTSDB/opentsdb) - 基于 HBase 的分布式、可伸缩的时间序列数据库
 
 ## 日志
 * [log4j](https://github.com/apache/log4j) - apache旗下的老牌日志工具
