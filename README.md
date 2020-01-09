@@ -273,6 +273,7 @@
 * [OpenTSDB](https://github.com/OpenTSDB/opentsdb) - 基于 HBase 的分布式、可伸缩的时间序列数据库
 * [Sensu](https://github.com/sensu/sensu) - 一个简单，可延展和可扩展的框架，用于组件您所需的监控系统，目前已经被 sensu-go 项目取代
 * [sysdig](https://github.com/draios/sysdig) - 一款支持 Linux 系统监控，故障排查的原生支持容器的工具
+* [Thanos](https://github.com/thanos-io/thanos) - Thanos 是一组组件，可以组成具有无限存储容量的高可用性系统，能将其无缝添加到现有 Prometheus 之上。
 
 ## 日志
 * [log4j](https://github.com/apache/log4j) - apache旗下的老牌日志工具
