@@ -446,7 +446,8 @@
 * [fangzhipeng](https://www.fangzhipeng.com) - 方志朋的博客
 * [Piotr's Blog](https://piotrminkowski.wordpress.com) - piotr的博客
 * [jeremy-xu](https://jeremy-xu.oschina.io/) - jeremy的技术点滴
-*  [编程小梦](https://blog.bcmeng.com/) - 编程小梦的博客
+* [编程小梦](https://blog.bcmeng.com/) - 编程小梦的博客
+*  [Microservice Architecture](https://microservices.io/) - Chris Richardson 创立的撰写微服务文章的网站
 
 ## 游戏
 * [RetroArch](https://github.com/libretro/RetroArch) - 跨平台游戏模拟器
