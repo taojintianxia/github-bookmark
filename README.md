@@ -107,9 +107,9 @@
 * [flyway](https://github.com/flyway/flyway) - 使数据库迁移变得简单
 
 ## 缓存
-* [redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具
+* [Redis](https://github.com/antirez/redis) - 可以当成数据库, 缓存, 消息队列使用的内存数据结构存储工具
 * [KeyDB](https://github.com/JohnSully/KeyDB) - KeyDB是 Redis 的一个分支，专注于多线程，内存效率和高吞吐量
-* [ehcache](https://github.com/ehcache/ehcache3) - 号称使用最为广泛的java缓存
+* [Ehcache](https://github.com/ehcache/ehcache3) - 号称使用最为广泛的 Java 缓存
 
 ## 流&消息
 * [Kafka](https://github.com/apache/kafka) - 隶属于Apache的分布式流平台
