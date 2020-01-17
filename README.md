@@ -37,22 +37,22 @@
 - - -
 
 ## RPC
-* [dubbo](https://github.com/alibaba/dubbo) - 阿里出品的使用范围广泛的RPC框架
-* [motan](https://github.com/weibocom/motan) - 微博出品的跨语言的RPC框架
-* [brpc](https://github.com/brpc/brpc) - 百度出品的工业级RPC框架
-* [grpc](https://github.com/grpc/grpc) - gRPC是一个先进的，开源的，高性能的 RPC 框架，可以在任何地方运行。 gRPC使客户端和服务器应用程序可以透明地进行通信，并简化了连接系统的构建
-* [Tars](https://github.com/Tencent/Tars) - 腾讯出品的高性能RPC框架
+* [dubbo](https://github.com/alibaba/dubbo) - 阿里出品的使用范围广泛的 RPC 框架
+* [motan](https://github.com/weibocom/motan) - 微博出品的跨语言的 RPC 框架
+* [brpc](https://github.com/brpc/brpc) - 百度出品的工业级 RPC 框架
+* [grpc](https://github.com/grpc/grpc) - gRPC 是一个先进的，开源的，高性能的 RPC 框架，可以在任何地方运行。 gRPC 使客户端和服务器应用程序可以透明地进行通信，并简化了连接系统的构建
+* [Tars](https://github.com/Tencent/Tars) - 腾讯出品的高性能 RPC 框架
 * [sofa-rpc](https://github.com/alipay/sofa-rpc) - 蚂蚁金服出品的高可扩展性、高性能、生产级的 Java RPC 框架
 
 ## 微服务
-* [fabric8](https://github.com/fabric8io/fabric8) - 基于Docker，Kubernetes and Jenkins的微服务平台
+* [fabric8](https://github.com/fabric8io/fabric8) - 基于 Docker，Kubernetes and Jenkins 的微服务平台
 
 ## 持续集成&交付
-* [skaffold](https://github.com/GoogleContainerTools/skaffold) - Google出品的一款命令行工具，用于促进Kubernetes应用程序的持续开发
-* [travis](https://github.com/travis-ci/travis-ci) - 针对github上项目的免费的持续集成平台
-* [Argo](https://github.com/argoproj/argo) - 用于Kubernetes的容器原生的工作流引擎
-* [Brigade](https://github.com/azure/brigade) - 基于事件的Kubernetes脚本
-* [Buildkite](https://github.com/buildkite/agent) - Buildkite Agent是一个用Golang编写的开源工具包，用于在任何设备或网络上安全地运行构建作业
+* [skaffold](https://github.com/GoogleContainerTools/skaffold) - Google 出品的一款命令行工具，用于促进 Kubernetes 应用程序的持续开发
+* [travis](https://github.com/travis-ci/travis-ci) - 针对 Github 上项目的免费的持续集成平台
+* [Argo](https://github.com/argoproj/argo) - 用于 Kubernetes 的容器原生的工作流引擎
+* [Brigade](https://github.com/azure/brigade) - 基于事件的 Kubernetes 脚本。可以使用 JavaScript 编写简单或复杂的工作流程脚本。
+* [Buildkite](https://github.com/buildkite/agent) - Buildkite Agent 是一个用 Golang 编写的开源工具包，用于在任何设备或网络上安全地运行构建作业
 * [Concourse](https://github.com/concourse/concourse) - Concourse是一个用Go编写的自动化系统. 它最常用于CI / CD，可以扩展到任何类型的从简单到复杂自动化pipline
 * [ContainerOps](https://github.com/Huawei/containerops) - Devops编排工具
 * [Drone](https://github.com/drone/drone) - Drone是一个用Go写的基于Docker的持续交付平台
@@ -305,9 +305,9 @@
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - PowerfulSeal会为您的Kubernetes群集添加混乱，以便您可以尽早检测系统中的问题。它会杀死目标 pod 并且使虚拟机变得不稳定。遵循[混沌工程原理](http://principlesofchaos.org/)，灵感源自[Chaos Monkey](https://github.com/Netflix/chaosmonkey)
 
 ## 插件&工具
-* [guava](https://github.com/google/guava) - google出品的非常好用的Java工具包
+* [guava](https://github.com/google/guava) - Google 出品的非常好用的Java工具包
 * [netty](https://github.com/netty/netty) - 事件驱动的支持异步的网络框架
-* [okhttp](https://github.com/square/okhttp) - 适用于Android，Kotlin和Java的HTTP客户端
+* [okhttp](https://github.com/square/okhttp) - 适用于 Android，Kotlin 和 Java的 HTTP 客户端
 * [hystrix](https://github.com/Netflix/Hystrix) - Netflix出品的熔断器，目前已停止更新
 * [Sentinel](https://github.com/alibaba/Sentinel) - (轻量级的流量控制、熔断降级 Java 库
 * [resilience4j](https://github.com/resilience4j/resilience4j) - 轻量级的熔断器，设计上受到Hystrix的启发，但专为Java 8和函数式编程而设计
