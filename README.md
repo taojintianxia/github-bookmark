@@ -330,8 +330,8 @@
 * [gitignore.io](https://github.com/joeblau/gitignore.io) - 可以方便的自定义.gitignore文件
 * [shadowsocks](https://github.com/shadowsocks) - 这个无需介绍了,懂的自然都懂
 * [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Adobe开源的编程字体
-* [antlr4](https://github.com/antlr/antlr4) - ANTLR是一个功能强大的解析器生成器,用于读取,处理,执行, 转换结构化文本或二进制文件
-* [etcdkeeper](https://github.com/evildecay/etcdkeeper) - 一款etcd的web ui工具, 支持etcd v3
+* [antlr4](https://github.com/antlr/antlr4) - ANTLR是一个功能强大的解析器生成器，用于读取、处理、执行、转换结构化文本或二进制文件
+* [etcdkeeper](https://github.com/evildecay/etcdkeeper) - 一款 etcd 的 web ui 工具, 支持 etcd v3
 * [kops](https://github.com/kubernetes/kops) - Kubernetes Operations（kops） - 生产级的K8s安装，升级和管理工具	
 * [boot2docker](https://github.com/boot2docker/boot2docker) - Boot2Docker是一个轻量级Linux发行版，专门用于运行Docker容器。它可以完全在RAM中运行，下载约45MB并启动速度很快
 * [FiraCode](https://github.com/tonsky/FiraCode) - 适合编程的等宽开源字体, 有retina版本
