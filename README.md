@@ -427,6 +427,8 @@
 * [hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 对开发人员有用的定律、理论、原则和模式
 * [golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
 * [advanced-java](https://github.com/doocs/advanced-java) - 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习
+* [LeetCode](https://github.com/azl397985856/leetcode) - 一位 github 用户记录自己的 leetcode 解题之路
+* [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解LeetCode题目的思路
 
 ## 优秀blog
 * [TiDB博客](https://pingcap.com/blog-cn/) - TiDB官网的博客
