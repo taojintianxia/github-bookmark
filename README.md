@@ -382,6 +382,7 @@
 * [what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 讲解了当 k8s 运行的时候发生了什么
 * [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) - 大数据成神之路
 * [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - 中文文案排版指南
+* [istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio服务网格进阶实战
 
 ## 文档汉化
 * [kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh/) - Kafka 中文文档
