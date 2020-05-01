@@ -29,6 +29,7 @@
 - [插件&工具](#插件&工具)
 - [相关教程](#相关教程)
 - [文档汉化](#文档汉化)
+- [论文](#论文)
 - [面试相关](#面试相关)
 - [其他资源](#其他资源)
 - [优秀blog](#优秀blog)
@@ -396,6 +397,10 @@
 * [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，暂时命名为《玩转 GO》
 * [On Java 8](https://github.com/LingCoder/OnJava8) - 《On Java 8》中文版，又名《Java编程思想》 第5版
 * [effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese/) - effective-java-3rd 中文版
+
+## 论文
+* [The Raft Consensus Algorithm](https://raft.github.io/) - Raft 共识算法
+* [raft-zh_cn](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md) - Raft一致性算法论文的中文翻译
 
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
