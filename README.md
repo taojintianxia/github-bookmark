@@ -250,6 +250,7 @@
 * [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly是一个基于开源智能P2P的图像和文件分发系统。其目标是解决云原生场景中的所有分发问题
 * [Kraken](https://github.com/uber/kraken) - Kraken是一个基于P2P的Docker Registry，专注于可扩展性和可用性。它专为混合云环境中的Docker映像管理，复制和分发而设计。借助可插拔的后端支持，Kraken可以轻松地集成到现有的Docker Registry设置中作为分发层。
 * [Portus](https://github.com/SUSE/Portus) - Portus是授权服务器并提供了下一代Docker Registry 的用户界面。	
+* [Quay](https://github.com/quay/quay) - 一个可以构建，存储和分发您的应用程序和容器的平台
 
 ## 安全&合规
 * [Shiro](https://github.com/apache/shiro) - 隶属于apache的功能强大的java安全框架
