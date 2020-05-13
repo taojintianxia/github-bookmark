@@ -3,6 +3,7 @@
 ### 这是个收藏夹，收集了Github上看到的各种不同的优秀工具，框架，知识合集  
 - [RPC](#RPC)
 - [微服务](#微服务)
+- [分布式协议](#分布式协议)
 - [持续集成&交付](#持续集成&交付)
 - [数据库](#数据库)
 - [缓存](#缓存)
@@ -47,6 +48,10 @@
 
 ## 微服务
 * [fabric8](https://github.com/fabric8io/fabric8) - 基于 Docker，Kubernetes and Jenkins 的微服务平台
+
+## 分布式协议
+* [sofa-jraft](https://github.com/sofastack/sofa-jraft) - 一个生产级别的 RAFT 的 Java 实现
+* [Ratis](https://github.com/apache/incubator-ratis) - Raft 共识协议的 Java 实现
 
 ## 持续集成&交付
 * [Skaffold](https://github.com/GoogleContainerTools/skaffold) - Google 出品的一款命令行工具，用于促进 Kubernetes 应用程序的持续开发
