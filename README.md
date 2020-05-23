@@ -288,12 +288,11 @@
 * [Fluentd](https://github.com/fluent/fluentd) - Fluentd从各种数据源收集事件并将其写入文件，RDBMS，NoSQL，IaaS，SaaS，Hadoop等
 * [Loki](https://github.com/grafana/loki) - Loki是一个水平可扩展，高可用性，多租户的日志聚合系统，灵感来自Prometheus
 * [Graylog](https://github.com/Graylog2/graylog2-server) - 按照开放标准构建的开源日志平台，可以无缝收集，增强，存储和分析日志数据
+* [Logstash](https://github.com/elastic/logstash) - Logstash是一个开源的服务器端数据处理管道，它同时从多个源中提取数据，对其进行转换，然后将其发送到您最喜欢的“存储”之中
 
 ## 测试
 * [selenium](https://github.com/SeleniumHQ/selenium) - 自动化浏览器测试框架
 * [mockito](https://github.com/mockito/mockito) - Java体系中用于单元测试的最受欢迎的Mocking工具
-* [Graylog](https://github.com/Graylog2/graylog2-server) - Graylog旨在实现开放标准，可以无缝地收集，增强，存储和分析日志数据
-* [Logstash](https://github.com/elastic/logstash) - Logstash是一个开源的服务器端数据处理管道，它同时从多个源中提取数据，对其进行转换，然后将其发送到您最喜欢的“存储”之中
 
 ## 追踪
 * [Jaeger](https://github.com/jaegertracing/jaeger) - Jaeger受Dapper和OpenZipkin的启发，是Uber Technologies公开发布的分布式跟踪系统
