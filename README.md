@@ -111,6 +111,7 @@
 * [YugaByte DB](https://github.com/YugaByte/yugabyte-db) - YugaByte DB是一款开源的高性能SQL数据库，用于构建互联网规模的全球分布式应用程序
 * [hmily](https://github.com/yu199195/hmily) - 高性能异步分布式事务TCC框架
 * [flyway](https://github.com/flyway/flyway) - 使数据库迁移变得简单
+* [nebula](https://github.com/vesoft-inc/nebula) - Nebula Graph 是一款开源的图数据库，擅长处理千亿个顶点和万亿条边的超大规模数据集
 
 ## 缓存
 * [Redis](https://github.com/antirez/redis) - 可以当成数据库，缓存，消息队列使用的内存数据结构存储工具
