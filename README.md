@@ -48,6 +48,7 @@
 
 ## 微服务
 * [fabric8](https://github.com/fabric8io/fabric8) - 基于 Docker，Kubernetes and Jenkins 的微服务平台
+*  [Axon](https://github.com/AxonFramework/AxonFramework) - 一款基于领域驱动设计的 CQRS 框架，用于构建事件驱动的微服务系统
 
 ## 分布式协议
 * [sofa-jraft](https://github.com/sofastack/sofa-jraft) - 一个生产级别的 RAFT 的 Java 实现
