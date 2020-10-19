@@ -470,6 +470,7 @@
 * [编程小梦](https://blog.bcmeng.com/) - 编程小梦的博客
 *  [Microservice Architecture](https://microservices.io/) - Chris Richardson 创立的撰写微服务文章的网站
 *  [数据库内核月报](http://mysql.taobao.org/monthly/) - 阿里 SQL 的数据库内核月报
+*  [小米信息部技术团队](https://xiaomi-info.github.io/) - 小米信息部技术团队的技术博客
 
 ## 游戏
 * [RetroArch](https://github.com/libretro/RetroArch) - 跨平台游戏模拟器
