@@ -468,10 +468,11 @@
 * [Piotr's Blog](https://piotrminkowski.wordpress.com) - piotr的博客
 * [jeremy-xu](https://jeremy-xu.oschina.io/) - jeremy的技术点滴
 * [编程小梦](https://blog.bcmeng.com/) - 编程小梦的博客
-*  [Microservice Architecture](https://microservices.io/) - Chris Richardson 创立的撰写微服务文章的网站
-*  [数据库内核月报](http://mysql.taobao.org/monthly/) - 阿里 SQL 的数据库内核月报
-*  [小米信息部技术团队](https://xiaomi-info.github.io/) - 小米信息部技术团队的技术博客
-*  [伴鱼技术团队](https://tech.ipalfish.com/blog/) - 伴鱼技术团队的技术博客
+* [Microservice Architecture](https://microservices.io/) - Chris Richardson 创立的撰写微服务文章的网站
+* [数据库内核月报](http://mysql.taobao.org/monthly/) - 阿里 SQL 的数据库内核月报
+* [小米信息部技术团队](https://xiaomi-info.github.io/) - 小米信息部技术团队的技术博客
+* [伴鱼技术团队](https://tech.ipalfish.com/blog/) - 伴鱼技术团队的技术博客
+*  [夜空](https://www.jianshu.com/u/64f062dc305f) - 夜空的简书
 
 ## 游戏
 * [RetroArch](https://github.com/libretro/RetroArch) - 跨平台游戏模拟器
