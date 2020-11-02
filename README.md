@@ -472,7 +472,8 @@
 * [数据库内核月报](http://mysql.taobao.org/monthly/) - 阿里 SQL 的数据库内核月报
 * [小米信息部技术团队](https://xiaomi-info.github.io/) - 小米信息部技术团队的技术博客
 * [伴鱼技术团队](https://tech.ipalfish.com/blog/) - 伴鱼技术团队的技术博客
-*  [夜空](https://www.jianshu.com/u/64f062dc305f) - 夜空的简书
+* [夜空](https://www.jianshu.com/u/64f062dc305f) - 夜空的简书
+*  [https://bugstack.cn/](bugstack虫洞栈) - 一个看着靠谱的小哥的技术沉淀
 
 ## 游戏
 * [RetroArch](https://github.com/libretro/RetroArch) - 跨平台游戏模拟器
