@@ -448,6 +448,7 @@
 * [LeetCode](https://github.com/azl397985856/leetcode) - 一位 github 用户记录自己的 leetcode 解题之路
 * [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解LeetCode题目的思路
 * [Google Cloud Platform Icon](https://cloud.google.com/icons) - 架构图的解决方案图标
+* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - 开发人员技术栈成长之路
 
 ## 优秀blog
 * [TiDB博客](https://pingcap.com/blog-cn/) - TiDB官网的博客
