@@ -74,6 +74,7 @@
 * [Wercker](https://github.com/wercker/wercker) - wercker是为wercker.com提供所有构建和部署作业的命令行工具，它在Docker的帮助下在本地计算机上运行
 * [Zuul CI](https://github.com/openstack-infra/zuul) - Zuul推动持续集成，交付和系统部署，重点关注project gating和相互关联的项目，此项目非Netflix的zuul
 * [CircleCI](https://github.com/marketplace/circleci) - 一款支持在 Github 上进行构建的商业 CI 工具
+* [TeamCity](https://www.jetbrains.com/teamcity/) - TeamCity 是 JetBrains 出品的构建管理和持续集成服务器
 
 ## 数据库
 * [sharding-sphere](https://github.com/sharding-sphere/sharding-sphere) - 开源的分布式数据库中间件解决方案。它在Java的JDBC层以对业务应用零侵入的方式额外提供数据分片，读写分离，柔性事务和分布式治理能力。并在其基础上提供封装了MySQL协议的服务端版本，用于完成对异构语言的支持
