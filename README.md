@@ -360,6 +360,7 @@
 * [Katacoda](https://github.com/katacoda) - 面向软件开发人员的交互式技术学习平台（https://www.katacoda.com/）
 * [docker-slim](https://github.com/docker-slim/docker-slim) - 一款给 docker image 瘦身的工具
 * [DataX](https://github.com/alibaba/DataX) - 阿里云开源离线同步工具
+* [nmon](http://nmon.sourceforge.net/pmwiki.php) - Linux 下一款精巧的监控小工具
 
 ## 相关教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
