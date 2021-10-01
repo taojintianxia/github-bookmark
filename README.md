@@ -362,6 +362,7 @@
 * [DataX](https://github.com/alibaba/DataX) - 阿里云开源离线同步工具
 * [nmon](http://nmon.sourceforge.net/pmwiki.php) - Linux 下一款精巧的监控小工具
 * [sysbench](https://github.com/akopytov/sysbench) - 一个基于 LuaJIT 的的多线程基准测试工具，可以测试 CPU、IO  以及数据库等
+* [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - 记录了所有 emoji 在 github 上的写法
 
 ## 相关教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
