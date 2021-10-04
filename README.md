@@ -365,6 +365,7 @@
 * [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - 记录了所有 emoji 在 github 上的写法
 * [autojump](https://github.com/wting/autojump) - linux 系统下一款可以快速跳跃目录的工具
 * [pyenv](https://github.com/pyenv/pyenv) - 一个简单的 Python 环境管理工具
+* [z](https://github.com/rupa/z) - 一款可让你快速跳转到过去或最近经常访问的目录的命令行工具
 
 ## 相关教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
