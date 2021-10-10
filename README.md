@@ -495,3 +495,4 @@
 * [ePSXe](http://www.epsxe.com/) - PS模拟器
 * [PCSX2](https://pcsx2.net/) - PS2模拟器
 * [RPCS3](https://github.com/RPCS3/rpcs3) - PS3模拟器
+* [RetroPie](https://github.com/RetroPie) - 一个模拟器合集，可以将树莓派改造成一个模拟器
