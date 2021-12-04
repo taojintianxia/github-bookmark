@@ -367,6 +367,7 @@
 * [autojump](https://github.com/wting/autojump) - linux 系统下一款可以快速跳跃目录的工具
 * [pyenv](https://github.com/pyenv/pyenv) - 一个简单的 Python 环境管理工具
 * [z](https://github.com/rupa/z) - 一款可让你快速跳转到过去或最近经常访问的目录的命令行工具
+* [async-profiler](https://github.com/jvm-profiling-tools/async-profiler) - 一款功能强大的 profile 工具，可以生成火焰图
 
 ## 相关教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
