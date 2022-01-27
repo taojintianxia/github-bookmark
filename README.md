@@ -174,7 +174,7 @@
 * [xxl-job](https://github.com/xuxueli/xxl-job) - 分布式任务调度平台XXL-JOB
 * [Mesos](https://github.com/apache/mesos) - Apache Mesos是一个集群管理器，可跨分布式应用程序或框架提供有效的资源隔离和共享。它可以在动态共享节点池上运行Hadoop，Jenkins，Spark，Aurora和其他框架
 * [Crossplane](https://github.com/crossplaneio/crossplane) - Crossplane是一个开源多云平台控制平面。它在现有托管服务的基础上引入了工作负载和资源抽象，从而实现了跨云提供商的高度工作负载可移植性
-* [dolphinscheduler] - 一款分布式且易于扩展的可视工作流计划程序系统，已经成为 Apache 顶级项目
+* [dolphinscheduler](https://github.com/apache/dolphinscheduler) - 一款分布式且易于扩展的可视工作流计划程序系统，已经成为 Apache 顶级项目
 
 ## 服务协调&发现
 * [coredns](https://github.com/coredns/coredns) - CoreDNS(Go语言编写)是一个链接插件的DNS服务器，每个插件都执行DNS功能。
