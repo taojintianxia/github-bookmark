@@ -116,6 +116,7 @@
 * [flyway](https://github.com/flyway/flyway) - 使数据库迁移变得简单
 * [nebula](https://github.com/vesoft-inc/nebula) - Nebula Graph 是一款开源的图数据库，擅长处理千亿个顶点和万亿条边的超大规模数据集
 * [snowflake](https://github.com/snowflakedb) - Snowflake 是一家云存储技术开发公司，旨在搭建一个基于云服务的新型数据库和数据处理架构，以此满足用户和数据处理层面的需求
+* [Weaviate](https://github.com/semi-technologies/weaviate) - Weaviate 是一个矢量搜索引擎和矢量数据库
 
 ## 缓存
 * [Redis](https://github.com/antirez/redis) - 可以当成数据库，缓存，消息队列使用的内存数据结构存储工具
