@@ -372,6 +372,7 @@
 * [async-profiler](https://github.com/jvm-profiling-tools/async-profiler) - 一款功能强大的 profile 工具，可以生成火焰图
 * [SwitchHosts](https://github.com/oldj/SwitchHosts) - SwitchHosts 是一个管理 hosts 文件的应用，可以定时更新 hosts 文件
 * [GitHub520](https://github.com/521xueweihan/GitHub520) - 每日定时更新 github 的 ip 地址
+* [iotop](http://guichaz.free.fr/iotop/) - 查看硬盘上 IO 情况的小工具
 
 ## 相关教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
