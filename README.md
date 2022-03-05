@@ -373,6 +373,7 @@
 * [SwitchHosts](https://github.com/oldj/SwitchHosts) - SwitchHosts 是一个管理 hosts 文件的应用，可以定时更新 hosts 文件
 * [GitHub520](https://github.com/521xueweihan/GitHub520) - 每日定时更新 github 的 ip 地址
 * [iotop](http://guichaz.free.fr/iotop/) - 查看硬盘上 IO 情况的小工具
+* [protractor](https://github.com/angular/protractor) - Angular 和 AngularJS 应用程序的端到端测试框架
 
 ## 相关教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
