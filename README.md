@@ -425,6 +425,7 @@
 * [Mastering_Go_ZH_CN](https://github.com/hantmac/Mastering_Go_ZH_CN) - 《Mastering GO》中文译本，暂时命名为《玩转 GO》
 * [On Java 8](https://github.com/LingCoder/OnJava8) - 《On Java 8》中文版，又名《Java编程思想》 第5版
 * [effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese/) - effective-java-3rd 中文版
+* [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - How To Ask Questions The Smart Way 的中文版
 
 ## 论文
 * [The Raft Consensus Algorithm](https://raft.github.io/) - Raft 共识算法
