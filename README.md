@@ -497,6 +497,7 @@
 * [bugstack虫洞栈](https://bugstack.cn/) - 一个看着靠谱的小哥的技术沉淀
 * [Jiekun's Blog](https://jiekun.dev/posts/) - 一位爱学习的后辈的技术博客
 * [易水寒](https://www.liuyj.topa/) - 一名从事后端 Java 开发工作的 90 后程序员的技术博客
+* [康瑞部落](http://www.kangry.net/blog/) - 瑞远大师的博客
 
 ## 游戏
 * [RetroArch](https://github.com/libretro/RetroArch) - 跨平台游戏模拟器
