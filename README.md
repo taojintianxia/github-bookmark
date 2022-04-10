@@ -178,6 +178,7 @@
 * [Crossplane](https://github.com/crossplaneio/crossplane) - Crossplane是一个开源多云平台控制平面。它在现有托管服务的基础上引入了工作负载和资源抽象，从而实现了跨云提供商的高度工作负载可移植性
 * [dolphinscheduler](https://github.com/apache/dolphinscheduler) - 一款分布式且易于扩展的可视工作流计划程序系统，已经成为 Apache 顶级项目
 * [OpenNebula](https://github.com/OpenNebula/one) - OpenNebula 是一个开源平台，提供简单但功能丰富且灵活的解决方案，用于构建和管理用于虚拟化服务、容器化应用程序和无服务器计算的企业云
+* [k3s](https://github.com/k3s-io/k3s) - 轻量级 Kubernetes
 
 ## 服务协调&发现
 * [coredns](https://github.com/coredns/coredns) - CoreDNS(Go语言编写)是一个链接插件的DNS服务器，每个插件都执行DNS功能。
