@@ -473,6 +473,7 @@
 * [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - 用动画的形式呈现解LeetCode题目的思路
 * [Google Cloud Platform Icon](https://cloud.google.com/icons) - 架构图的解决方案图标
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - 开发人员技术栈成长之路
+* [virtual-environments](https://github.com/actions/virtual-environments) - Github Action 使用的环境的具体信息
 
 ## 优秀blog
 * [TiDB博客](https://pingcap.com/blog-cn/) - TiDB官网的博客
