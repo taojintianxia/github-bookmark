@@ -418,6 +418,7 @@
 * [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - 中文文案排版指南
 * [istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio服务网格进阶实战
 * [分布式系统模式术语表](https://github.com/dreamhead/patterns-of-distributed-systems) - 分布式系统模式中文版一书中的技术术语表
+* [google style guide](https://github.com/google/styleguide) - google 的各种代码风格指南
 
 ## 文档汉化
 * [kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh/) - Kafka 中文文档
