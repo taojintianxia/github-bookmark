@@ -380,6 +380,7 @@
 * [iotop](http://guichaz.free.fr/iotop/) - 查看硬盘上 IO 情况的小工具
 * [protractor](https://github.com/angular/protractor) - Angular 和 AngularJS 应用程序的端到端测试框架
 * [DevToys](https://github.com/ObuchiYuki/DevToysMac) - 支持离线，一款常用工具的“瑞士军刀”，包含文件格式转换、PDF 生成等功能
+* [ASCII Table](https://github.com/vdmeer/asciitable) - 可以在 Java 的控制台中输出表格
 
 ## 相关教程
 * [Knowledge Graph](https://github.com/gocn/knowledge) - Go社区的知识图谱
