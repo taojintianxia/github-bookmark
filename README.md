@@ -41,8 +41,8 @@
 ## RPC
 * [Dubbo](https://github.com/alibaba/dubbo) - 阿里出品的使用范围很广的一款高性能，基于 Java 的开源 RPC 框架
 * [Motan](https://github.com/weibocom/motan) - 微博出品的一款用于快速开发高性能分布式服务的跨语言 RPC 框架
-* [brpc](https://github.com/brpc/brpc) - 百度出品的工业级 RPC 框架
-* [grpc](https://github.com/grpc/grpc) - gRPC 是一个先进的，开源的，高性能的 RPC 框架，可以在任何地方运行。 gRPC 使客户端和服务器应用程序可以透明地进行通信，并简化了连接系统的构建
+* [bRPC](https://github.com/brpc/brpc) - 百度出品的工业级 RPC 框架
+* [gRPC](https://github.com/grpc/grpc) - gRPC 是一个先进的，开源的，高性能的 RPC 框架，可以在任何地方运行。 gRPC 使客户端和服务器应用程序可以透明地进行通信，并简化了连接系统的构建
 * [Tars](https://github.com/Tencent/Tars) - 腾讯出品的高性能 RPC 框架
 * [sofa-rpc](https://github.com/alipay/sofa-rpc) - 蚂蚁金服出品的高可扩展性、高性能、生产级的 Java RPC 框架
 
