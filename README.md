@@ -522,4 +522,3 @@
 * [RetroPie](https://github.com/RetroPie) - 一个模拟器合集，可以将树莓派改造成一个模拟器
 * [lakka](http://www.lakka.tv/get/) - Lakka，一款树莓派可用的模拟器集合，界面很像 PS4
 * [ResidentEvi HD](https://github.com/MoArtis/ResidentEvilSeamlessHdProject/issues) - 老版生化危机的 HD 项目
-
