@@ -181,7 +181,7 @@
 * [k3s](https://github.com/k3s-io/k3s) - 轻量级 Kubernetes
 
 ## 服务协调&发现
-* [coredns](https://github.com/coredns/coredns) - CoreDNS(Go语言编写)是一个链接插件的DNS服务器，每个插件都执行DNS功能。
+* [coredns](https://github.com/coredns/coredns) - CoreDNS(Go 语言编写)是一个链接插件的DNS服务器，每个插件都执行DNS功能。
 * [zookeeper](https://github.com/apache/zookeeper) apache旗下的分布式服务协调框架
 * [etcd](https://github.com/etcd-io/etcd) 一个可依赖的分布式key-value存储系统，用于分布式环境下保存关键数据
 * [Consul](https://github.com/hashicorp/consul) - Consul是一种服务发现和配置工具。 Consul具有分布式，高可用性和极高的可扩展性
