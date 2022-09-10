@@ -392,7 +392,7 @@
 * [zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 * [deep-learning](https://github.com/Robinwho/Deep-Learning) - 深度学习/人工智能/机器学习资料汇总
 * [pythontutorial3](https://github.com/sixu05202004/pythontutorial3) - python 3.5.1 tutorial中文版
-* [liaoxuefeng](https://www.liaoxuefeng.com/) - 廖雪峰的git，python，javascript教程
+* [liaoxuefeng](https://www.liaoxuefeng.com/) - 廖雪峰的 git，python，javascript 教程
 * [git-tutorial](https://backlog.com/git-tutorial/cn/) - 号称是猴子都能看懂的git教程
 * [java8-tutorial](https://github.com/winterbe/java8-tutorial) - java 8教程
 * [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - java程序员眼中的linux
