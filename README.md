@@ -90,9 +90,9 @@
 * [Cassandra](https://github.com/apache/cassandra) - Apache Cassandra 是一套开源分布式 NoSQL 数据库系统。它最初由 Facebook 开发，用于储存收件箱等简单格式数据，集 Google BigTable 的数据模型与 Amazon Dynamo 的完全分布式的架构于一身。Facebook 于 2008 将 Cassandra 开源，此后，由于 Cassandra 良好的可扩放性，被 Digg、Twitter 等知名 Web 2.0 网站所采纳，成为了一种流行的分布式结构化数据存储方案
 * [Couchbase](https://github.com/couchbase/manifest) - 为Web时代而生的开源数据库
 * [CrateDB](https://github.com/crate/crate) - CrateDB 是一个分布式 SQL 数据库，可以轻松实时存储和分析大量机器数据
-* [Druid](https://github.com/apache/incubator-druid) - Apache Druid(孵化中)是一个用于事件驱动数据的高性能列簇数据库
+* [Druid](https://github.com/apache/incubator-druid) - Apache Druid（孵化中）是一个用于事件驱动数据的高性能列簇数据库
 * [FoundationDB](https://github.com/apple/foundationdb) - FoundationDB 是一个分布式数据库，旨在处理跨商用服务器群集的大量结构化数据. 它将数据组织为有序的键值存储，并为所有操作使用 ACID 事务。它特别适用于读/写工作负载，但对写入密集型工作负载也具有出色的性能。用户使用 API​​ 语言绑定与数据库交互
-* [Hadoop](https://github.com/apache/hadoop) - Apache Hadoop使用简单的编程模型跨计算机集群分布式处理大型数据集
+* [Hadoop](https://github.com/apache/hadoop) - Apache Hadoop 使用简单的编程模型跨计算机集群分布式处理大型数据集
 * [Hazelcast](https://github.com/hazelcast/hazelcast) - 企业级的开源框架，是一款功能丰富且对开发人员友好的内存数据网格解决方案
 * [Infinispan](https://github.com/infinispan/infinispan) - 一个开源数据网格平台和高度可扩展的NoSQL云数据存储
 * [MariaDB](https://github.com/MariaDB/server) - MariaDB server是社区开发的MySQL server的分支，由原始MySQL团队的核心成员发起
