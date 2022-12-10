@@ -439,7 +439,7 @@
 
 ## 论文
 * [The Raft Consensus Algorithm](https://raft.github.io/) - Raft 共识算法
-* [raft-zh_cn](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md) - Raft一致性算法论文的中文翻译
+* [raft-zh_cn](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md) - Raft 一致性算法论文的中文翻译
 
 ## 面试相关
 * [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - 后端开发面试题
