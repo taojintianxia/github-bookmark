@@ -101,8 +101,8 @@
 * [MySQL](https://github.com/mysql/mysql-server) - 世界上最流行的开源数据库
 * [Neo4j](https://github.com/neo4j/neo4j) - 高性能的图形数据库，具有成熟和强大的数据库所需的所有功能，如友好的查询语言和ACID事务
 * [noms](https://github.com/attic-labs/noms) - 一款灵感来自于Git的去中心化的数据库
-* [OrientDB](https://github.com/orientechnologies/orientdb) - OrientDB是最通用的DBMS，在一个多模型产品中支持图形，文档，反应，全文，地理空间和键值模型。 OrientDB可以运行分布式（Multi-Master），支持SQL，ACID事务，全文索引和反应查询
-* [Percona](https://github.com/percona/percona-server) - Percona Server是MySQL 8.0的一个分支，带来更高的性能， 可靠性和更多功能
+* [OrientDB](https://github.com/orientechnologies/orientdb) - OrientDB是最通用的DBMS，在一个多模型产品中支持图形，文档，反应，全文，地理空间和键值模型。 OrientDB可以运行分布式（Multi-Master），支持 SQL，ACID事务，全文索引和反应查询
+* [Percona](https://github.com/percona/percona-server) - Percona Server是 MySQL 8.0 的一个分支，带来更高的性能， 可靠性和更多功能
 * [Pilosa](https://github.com/pilosa/pilosa) - 分布式位图索引，可以显著加速跨多个海量数据集的查询
 * [PostgreSQL](https://github.com/postgres/postgres) - PostgreSQL是一个功能强大的开源对象关系数据库系统，经过30多年的积极开发，在可靠性，功能稳健性和性能方面赢得了良好的声誉
 * [Presto](https://github.com/prestosql/presto) - Presto是一个用于大数据的分布式SQL查询引擎
