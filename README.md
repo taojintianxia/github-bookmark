@@ -305,10 +305,10 @@
 
 ## 测试
 * [selenium](https://github.com/SeleniumHQ/selenium) - 自动化浏览器测试框架
-* [mockito](https://github.com/mockito/mockito) - Java体系中用于单元测试的最受欢迎的Mocking工具
+* [mockito](https://github.com/mockito/mockito) - Java 体系中用于单元测试的最受欢迎的Mocking工具
 
 ## 追踪
-* [Jaeger](https://github.com/jaegertracing/jaeger) - Jaeger受Dapper和OpenZipkin的启发，是Uber Technologies公开发布的分布式跟踪系统
+* [Jaeger](https://github.com/jaegertracing/jaeger) - Jaeger 受 Dapper 和 OpenZipkin 的启发，是 Uber Technologies 公开发布的分布式跟踪系统
 * [OpenTracing](https://github.com/opentracing/opentracing-go) - OpenTracing由API规范，已实现规范的框架和库以及项目文档组成
 * [OpenTelemetry](https://github.com/open-telemetry/opentelemetry-specification) - OpenTelemetry是OpenTracing和OpenCensus项目的下一个主要版本，OpenTelemetry由一组集成的API，库以及agent 组成。 这些组件用于生成，收集和描述有关分布式系统的 telemetry 信息
 * [Pinpoint](https://github.com/naver/pinpoint) - Pinpoint是一个APM（应用程序性能管理）工具，适用于用Java / PHP编写的大型分布式系统。灵感源自 google dapper 论文。Pinpoint提供了一种解决方案，通过跟踪分布式应用程序之间的事务，帮助分析系统的整体结构以及它们中的组件如何相互连接。
