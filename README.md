@@ -86,7 +86,7 @@
 * [vitess](https://github.com/vitessio/vitess) - Vitess是一个用于MySQL水平扩展的数据库集群系统
 * [arangodb](https://github.com/arangodb/arangodb) - ArangoDB是一个原生的多模型数据库，具有文档，图形和键值的灵活数据模型。使用方便的类SQL查询语言或JavaScript扩展构建高性能应用程序
 * [bigchaindb](https://github.com/bigchaindb/bigchaindb) - BigchainDB 是区块链数据库
-* [CarbonData](https://github.com/apache/carbondata) - Apache CarbonData是一种索引的柱状数据存储解决方案，用于在大数据平台上进行快速分析，例如Apache Hadoop，Apache Spark等
+* [CarbonData](https://github.com/apache/carbondata) - Apache CarbonData 是一种索引的柱状数据存储解决方案，用于在大数据平台上进行快速分析，例如 Apache Hadoop，Apache Spark 等
 * [Cassandra](https://github.com/apache/cassandra) - Apache Cassandra 是一套开源分布式 NoSQL 数据库系统。它最初由 Facebook 开发，用于储存收件箱等简单格式数据，集 Google BigTable 的数据模型与 Amazon Dynamo 的完全分布式的架构于一身。Facebook 于 2008 将 Cassandra 开源，此后，由于 Cassandra 良好的可扩放性，被 Digg、Twitter 等知名 Web 2.0 网站所采纳，成为了一种流行的分布式结构化数据存储方案
 * [Couchbase](https://github.com/couchbase/manifest) - 为Web时代而生的开源数据库
 * [CrateDB](https://github.com/crate/crate) - CrateDB 是一个分布式 SQL 数据库，可以轻松实时存储和分析大量机器数据
