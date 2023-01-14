@@ -129,7 +129,7 @@
 * [RocketMQ](https://github.com/apache/rocketmq) - 隶属于Apache的分布式消息跟流平台，低延迟，高性能，高可靠，万亿级别容量，动态扩展
 * [ActiveMQ](https://github.com/apache/activemq) - 隶属于Apache的高性能消息队列
 * [NATS Server](https://github.com/nats-io/gnatsd) - NATS Server是一个简单，高性能的开源消息系统，适用于云原生应用程序，物联网消息传递和微服务架构。
-* [Heron](https://github.com/apache/incubator-heron) - Apache Heron(孵化中)是一款来自Twitter的实时，分布式，具有容错性的流处理引擎
+* [Heron](https://github.com/apache/incubator-heron) - Apache Heron(孵化中)是一款来自 Twitter 的实时，分布式，具有容错性的流处理引擎
 * [NiFi](https://github.com/apache/nifi) - Apache NiFi是一个易于使用，功能强大且可靠的系统，用于处理和分发数据
 * [Spark](https://github.com/apache/spark) - Apache Spark是一种快速通用的大数据集群计算系统. 提供Scala，Java，Python和R的高级API，以及支持数据分析的通用计算图的优化引擎
 * [Storm](https://github.com/apache/storm) - Apache Storm是一个分布式实时计算系统. 类似于Hadoop提供一组用于批处理的通用基元，Storm以此处理实时计算
