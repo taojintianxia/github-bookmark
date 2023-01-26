@@ -350,7 +350,7 @@
 * [git_commit_template](https://github.com/joelparkerhenderson/git_commit_template) - 一个git message的模板
 * [gitignore.io](https://github.com/joeblau/gitignore.io) - 可以方便的自定义.gitignore文件
 * [shadowsocks](https://github.com/shadowsocks) - 这个无需介绍了，懂的自然都懂
-* [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Adobe开源的编程字体
+* [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Adobe 开源的编程字体
 * [antlr4](https://github.com/antlr/antlr4) - ANTLR是一个功能强大的解析器生成器，用于读取、处理、执行、转换结构化文本或二进制文件
 * [etcdkeeper](https://github.com/evildecay/etcdkeeper) - 一款 etcd 的 web ui 工具，支持 etcd v3
 * [kops](https://github.com/kubernetes/kops) - Kubernetes Operations（kops） - 生产级的K8s安装，升级和管理工具
