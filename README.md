@@ -141,7 +141,7 @@
 * [Pulsar](https://github.com/apache/pulsar) - Pulsar是一个分布式pub-sub消息传递平台，具有非常灵活的消息传递模型和直观的客户端API
 * [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server) - RabbitMQ是部署最广泛的开源message broker
 * [StreamSets](https://github.com/streamsets/datacollector) - StreamSets Data Collector是一个企业级，开源，持续的大数据摄取基础架构
-* [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Strimzi可以基于各种部署配置运行在Kubernetes或OpenShift上的Kafka集群
+* [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Strimzi 可以基于各种部署配置运行在 Kubernetes 或 OpenShift 上的 Kafka 集群
 * [Debezium](https://github.com/debezium/debezium) - Debezium为捕获改变数据，提供了一个低延迟的流式平台
 
 ## 应用定义&镜像构建
