@@ -63,7 +63,7 @@
 * [Brigade](https://github.com/azure/brigade) - 基于事件的 Kubernetes 脚本。可以使用 JavaScript 编写简单或复杂的工作流程脚本。
 * [Buildkite](https://github.com/buildkite/agent) - Buildkite Agent 是一个用 Golang 编写的开源工具包，用于在任何设备或网络上安全地运行构建作业
 * [Concourse](https://github.com/concourse/concourse) - Concourse 是一个用 Go 编写的自动化系统. 它最常用于 CI/CD，可以扩展到任何类型的从简单到复杂自动化 pipline
-* [ContainerOps](https://github.com/Huawei/containerops) - Devops编排工具
+* [ContainerOps](https://github.com/Huawei/containerops) - Devops 编排工具
 * [Drone](https://github.com/drone/drone) - Drone是一个用Go写的基于Docker的持续交付平台
 * [Gitkube](https://github.com/hasura/gitkube) - Gitkube是一个使用git push在Kubernetes上构建和部署Docker镜像的工具
 * [GitLab](https://github.com/gitlabhq/gitlabhq) - Gitlab，第一款实现了完整的Devops生命周期的应用
