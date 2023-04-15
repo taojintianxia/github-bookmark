@@ -81,9 +81,9 @@
 ## 数据库
 * [ShardingSphere](https://github.com/apache/shardingsphere) - 开源的分布式数据库中间件解决方案。它在 Java 的 JDBC 层以对业务应用零侵入的方式额外提供数据分片、读写分离、柔性事务、数据加密和分布式治理等能力。并在其基础上提供封装了常见数据库协议的服务端版本，用于完成对异构语言的支持。
 * [HikariCP](https://github.com/brettwooldridge/HikariCP) - 简单可靠的高性能JDBC连接池，号称 "zero-overhead" 生产就绪，lib 仅仅 130Kb 左右
-* [h2database](https://github.com/h2database/h2database) - 快速的，开源的，支持JDBC API的内存数据库
+* [h2database](https://github.com/h2database/h2database) - 快速的，开源的，支持 JDBC API 的内存数据库
 * [mycat](https://github.com/MyCATApache/Mycat-Server) - 基于阿里cobar改良的分布式数据库中间件，官宣为一个模拟MySQL Server的超级数据库
-* [cobar](https://github.com/alibaba/cobar) - 阿里出品的支持 sharding 的 proxy(很久没有维护了)
+* [cobar](https://github.com/alibaba/cobar) - 阿里出品的支持 Sharding 的 Proxy(很久没有维护了)
 * [ignite](https://github.com/apache/ignite) - Apache旗下的一款以内存为中心，多模型的分布式数据库.号称可以以内存级别的速度处理 Pb 级别的数据.
 * [vitess](https://github.com/vitessio/vitess) - Vitess是一个用于MySQL水平扩展的数据库集群系统
 * [arangodb](https://github.com/arangodb/arangodb) - ArangoDB是一个原生的多模型数据库，具有文档，图形和键值的灵活数据模型。使用方便的类SQL查询语言或JavaScript扩展构建高性能应用程序
