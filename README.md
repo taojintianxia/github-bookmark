@@ -202,7 +202,7 @@
 
 ## ServiceMesh
 * [linkerd](https://github.com/linkerd/linkerd) - Linkerd旨在透明地向所有服务间通信添加服务发现，负载平衡，故障处理，检测和路由，使应用程序变得安全可靠
-* [Consul](https://github.com/hashicorp/consul) - Consul是一种分布式，高可用性和数据中心感知解决方案，用于跨动态分布式基础架构连接和配置应用程序
+* [Consul](https://github.com/hashicorp/consul) - Consul 是一种分布式，高可用性和数据中心感知解决方案，用于跨动态分布式基础架构连接和配置应用程序
 * [Istio](https://github.com/istio/istio) - Istio是一个开放平台，用于提供统一的方式来集成微服务，管理跨微服务的流量，实施策略和聚合遥测数据
 * [Zuul](https://github.com/Netflix/zuul) - Zuul是一种网关服务，可提供动态路由，监控，弹性，安全性等。
 * [SuperGloo](https://github.com/solo-io/supergloo) - SuperGloo，一个大规模管理和编排服务网格的开源项目
