@@ -34,7 +34,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_stargazers: yes
-	  plugin_stargazers_days: 0
+          plugin_stargazers_days: 0
   
   graph-charts:
     name: Build graph charts
