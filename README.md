@@ -420,7 +420,7 @@
 * [what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 讲解了当 k8s 运行的时候发生了什么
 * [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) - 大数据成神之路
 * [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - 中文文案排版指南
-* [istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio服务网格进阶实战
+* [istio-handbook](https://github.com/servicemesher/istio-handbook) - Istio 服务网格进阶实战
 * [分布式系统模式术语表](https://github.com/dreamhead/patterns-of-distributed-systems) - 分布式系统模式中文版一书中的技术术语表
 * [google style guide](https://github.com/google/styleguide) - google 的各种代码风格指南
 * [Docker 从入门到实践](https://yeasy.gitbook.io/docker_practice/) - Docker 从入门到实践
