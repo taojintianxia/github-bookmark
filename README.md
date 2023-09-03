@@ -518,7 +518,7 @@
 * [Dolphin](https://github.com/dolphin-emu/dolphin) - Wii模拟器
 * [Cemu](http://cemu.info/) - Wii U 模拟器
 * [Ryujinx](https://github.com/Ryujinx/Ryujinx) - 任天堂 Switch 模拟器
-* [PPSSPP](https://github.com/hrydgard/ppsspp) - PSP模拟器
+* [PPSSPP](https://github.com/hrydgard/ppsspp) - PSP 模拟器
 * [ePSXe](http://www.epsxe.com/) - PS模拟器
 * [PCSX2](https://pcsx2.net/) - PS2模拟器
 * [RPCS3](https://github.com/RPCS3/rpcs3) - PS3模拟器
