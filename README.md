@@ -460,7 +460,7 @@
 * [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - 整理了相当多的高扩展，高可用，高性能等的设计模式
 * [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 * [awesome-readme](https://github.com/matiassingers/awesome-readme) - 收集了github 上很多写的很棒的 readme
-* [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - 优秀的k8s资料集
+* [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - 优秀的 k8s 资料集
 * [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - cloud native 的工具，软件，教程的精选列表
 * [awesome-go-cn](https://github.com/jobbole/awesome-go-cn) - Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等
 * [awesome-architecture](https://github.com/toutiaoio/awesome-architecture) - 架构师技术图谱，助你早日成为架构师
