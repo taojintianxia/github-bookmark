@@ -515,7 +515,7 @@
 ## 游戏
 * [RetroArch](https://github.com/libretro/RetroArch) - 跨平台游戏模拟器
 * [Citra](https://github.com/citra-emu/citra) - 3DS 模拟器
-* [Dolphin](https://github.com/dolphin-emu/dolphin) - Wii模拟器
+* [Dolphin](https://github.com/dolphin-emu/dolphin) - Wii 模拟器
 * [Cemu](http://cemu.info/) - Wii U 模拟器
 * [Ryujinx](https://github.com/Ryujinx/Ryujinx) - 任天堂 Switch 模拟器
 * [PPSSPP](https://github.com/hrydgard/ppsspp) - PSP 模拟器
