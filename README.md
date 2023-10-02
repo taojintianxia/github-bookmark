@@ -486,7 +486,7 @@
 * [TiDB博客](https://pingcap.com/blog-cn/) - TiDB官网的博客
 * [阿里中间件](http://jm.taobao.org/) - 阿里中间件团队博客
 * [Tim Yang](https://timyang.net/) - 后端技术 - Tim Yang
-* [许令波](https://github.com/xulingbo/xulingbo.github.io/issues/) - 许令波的Issue
+* [许令波](https://github.com/xulingbo/xulingbo.github.io/issues/) - 许令波的 Issue
 * [martinfowler](https://martinfowler.com/) - martin fowler的博客
 * [美团点评技术团队](https://tech.meituan.com/) - 美团点评技术团队的博客
 * [CoolShell](https://coolshell.cn/) - 左耳朵耗子的酷壳
