@@ -261,7 +261,7 @@
 * [SaltStack](https://github.com/saltstack/salt) - SaltStack为大规模的复杂系统管理软件，几分钟之内即可轻松运行，可扩展性足以管理成千上万台服务器，而速度又足以在秒级内完成与其的通信
 * [StackStorm](https://github.com/stackstorm/st2) - StackStorm（又称“ IFTTT for Ops”）是事件驱动的自动化工具，用于自动修复，安全响应，故障排除，部署等
 * [Terraform](https://github.com/hashicorp/terraform) - Terraform使您能够安全且可预测地创建，更改和改善基础架构。它是一个开源工具，将API编码为声明性配置文件，这些文件可以在团队成员之间共享，就像代码一样代码，进行编辑，审阅和版本控制
-* [Portainer](https://github.com/portainer/portainer) - Portainer是一个轻量级管理UI，允许您轻松管理不同的Docker环境（Docker主机或Swarm集群）
+* [Portainer](https://github.com/portainer/portainer) - Portainer 是一个轻量级管理UI，允许您轻松管理不同的Docker环境（Docker主机或Swarm集群）
 * [confd](https://github.com/kelseyhightower/confd) - confd是一个轻量级的配置管理工具，通过读取存储在etcd，consul，redis等的数据来保持本地配置文件最新
 
 ## 镜像托管
