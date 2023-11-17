@@ -106,7 +106,7 @@
 * [OrientDB](https://github.com/orientechnologies/orientdb) - OrientDB 是最通用的 DBMS，在一个多模型产品中支持图形，文档，反应，全文，地理空间和键值模型。 OrientDB 可以运行分布式（Multi-Master），支持 SQL，ACID 事务，全文索引和反应查询
 * [Percona](https://github.com/percona/percona-server) - Percona Server是 MySQL 8.0 的一个分支，带来更高的性能， 可靠性和更多功能
 * [Pilosa](https://github.com/pilosa/pilosa) - 分布式位图索引，可以显著加速跨多个海量数据集的查询
-* [PostgreSQL](https://github.com/postgres/postgres) - PostgreSQL是一个功能强大的开源对象关系数据库系统，经过30多年的积极开发，在可靠性，功能稳健性和性能方面赢得了良好的声誉
+* [PostgreSQL](https://github.com/postgres/postgres) - PostgreSQL 是一个功能强大的开源对象关系数据库系统，经过30多年的积极开发，在可靠性，功能稳健性和性能方面赢得了良好的声誉
 * [Presto](https://github.com/prestosql/presto) - Presto是一个用于大数据的分布式 SQL 查询引擎
 * [RethinkDB](https://github.com/rethinkdb/rethinkdb) - RethinkDB是第一个为实时应用程序构建的开源可扩容数据库，它开拓了一种新型的数据访问模型，不同于拉取改变的数据，开发人员可以控制数据库不断地将更新的查询结果实时推送到应用程序
 * [Scylla](https://github.com/scylladb/scylla) - 使用seastar框架的NoSQL数据存储，与Apache Cassandra兼容
