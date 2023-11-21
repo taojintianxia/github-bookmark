@@ -171,7 +171,7 @@
 * [elasticsearch](https://github.com/elastic/elasticsearch) - 支持分布式的Restful的搜索引擎
 
 ## 调度&编排
-* [kubernetes](https://github.com/kubernetes/kubernetes) - Kubernetes是一个开源系统，用于管理多个主机上的容器化应用程序;提供应用程序部署，维护和扩展的基本机制
+* [kubernetes](https://github.com/kubernetes/kubernetes) - Kubernetes 是一个开源系统，用于管理多个主机上的容器化应用程序;提供应用程序部署，维护和扩展的基本机制
 * [elastic-job](https://github.com/elasticjob/elastic-job-lite) - Elastic-Job 是一个分布式调度解决方案，由两个相互独立的子项目 Elastic-Job-Lite 和 Elastic-Job-Cloud 组成.
 * [flink](https://github.com/apache/flink) - 隶属于Apache的流处理框架，拥有强大的流处理以及批量处理的能力.
 * [quartz](https://github.com/quartz-scheduler/quartz) - 功能丰富的，几乎可以与任何java程序集成的调度框架
