@@ -157,7 +157,7 @@
 * [KubeVirt](https://github.com/kubevirt/kubevirt) - KubeVirt是Kubernetes的虚拟机管理插件。目的是为Kubernetes提供虚拟化解决方案的共同基础
 * [virtlet](https://github.com/Mirantis/virtlet) - Virtlet是一个Kubernetes运行时服务器，允许您基于QCOW2映像运行VM工作负载
 * [Open Service Broker API](https://github.com/openservicebrokerapi/servicebroker) - Open Service Broker API项目允许独立软件供应商，SaaS提供商和开发人员轻松地为在Cloud Foundry和Kubernetes等云原生平台上运行的工作负载提供支持服务
-* [OpenAPI](https://github.com/OAI/OpenAPI-Specification) - OpenAPI规范是OpenAPI Initiative中的社区驱动的开放规范，一个Linux基金会协作项目
+* [OpenAPI](https://github.com/OAI/OpenAPI-Specification) - OpenAPI规范是OpenAPI Initiative中的社区驱动的开放规范，一个 Linux 基金会协作项目
 * [Operator Framework](https://github.com/operator-framework/operator-sdk) - 用于构建Kubernetes应用程序的SDK。提供高级API，有用的抽象和项目脚手架
 * [Packer](https://github.com/hashicorp/packer) - Packer是一个从单一的模板文件来创建多平台一致性镜像的轻量级开源工具
 * [ServiceComb](https://github.com/apache/servicecomb-java-chassis) - ServiceComb Java Chassis 是一款 SDK，用于快速开发Java中的微服务，提供服务注册，服务发现，动态路由和服务管理功能
