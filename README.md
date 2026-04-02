@@ -127,7 +127,8 @@
 * [Ehcache](https://github.com/ehcache/ehcache3) - 号称使用最为广泛的 Java 缓存
 
 ## 流&消息
-* [Kafka](https://github.com/apache/kafka) - 隶属于Apache的分布式流平台
+* [Aeron](https://github.com/aeron-io/aeron) - 高效可靠的 UDP 单播、UDP 多播和 IPC 消息传输。支持 Java、C 和 C++客户端。
+* [Kafka](https://github.com/apache/kafka) - Apache Kafka 是一个开源的分布式事件流平台，被数千家公司用于高性能数据管道、流分析、数据集成和关键任务应用程序。
 * [RocketMQ](https://github.com/apache/rocketmq) - 隶属于Apache的分布式消息跟流平台，低延迟，高性能，高可靠，万亿级别容量，动态扩展
 * [ActiveMQ](https://github.com/apache/activemq) - 隶属于Apache的高性能消息队列
 * [NATS Server](https://github.com/nats-io/gnatsd) - NATS Server是一个简单，高性能的开源消息系统，适用于云原生应用程序，物联网消息传递和微服务架构。
